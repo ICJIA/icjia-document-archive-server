@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "serve ./files",
+    "serve": "serve ./root",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
