@@ -4,9 +4,10 @@ const fs = require('fs')
 const path = require('path')
 const jsonfile = require('jsonfile')
 
-const apiDir = './public/api'
-const base = './public/archive'
-const fileName = 'search.json'
+const apiDir = './root/files'
+const base = './root/files'
+const fileName = 'searchIndex.json'
+const archiveBase = 'https://.icjia-archive.netlify.com/files/'
 
 function getStats (file) {
   const { size, atime, mtime, ctime, birthtime } = fs.statSync(file)
@@ -32,7 +33,7 @@ function walkDir (dirpath) {
     } else if (stat.isFile()) {
       let obj = {}
       obj.path = path.relative(dirpath, filepath)
-      obj.download = `/archive/${obj.path}`
+      obj.download = `${archiveBase}${obj.path}`
       obj.name = path.basename(dirpath + '/' + obj.path)
       obj.stats = getStats(dirpath + '/' + obj.path)
       result.push(obj)
@@ -44,10 +45,10 @@ function walkDir (dirpath) {
 
 let searchIndex = walkDir(base)
 
-if (!fs.existsSync(apiDir)) {
-  fs.mkdirSync(apiDir)
-  console.log(`Created: ${apiDir}/`)
-}
+// if (!fs.existsSync(apiDir)) {
+//   fs.mkdirSync(apiDir)
+//   console.log(`Created: ${apiDir}/`)
+// }
 
 jsonfile.writeFile(`${apiDir}/${fileName}`, searchIndex, function (err) {
   if (err) console.error(err)
