@@ -7,7 +7,7 @@ const jsonfile = require('jsonfile')
 const apiDir = './root/files'
 const base = './root/files'
 const fileName = 'searchIndex.json'
-const archiveBase = 'https://icjia-archive.netlify.com/files/'
+const archiveBase = 'https://icjia-archive.netlify.com/files'
 
 function getStats (file) {
   const { size, atime, mtime, ctime, birthtime } = fs.statSync(file)
