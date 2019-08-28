@@ -7,7 +7,7 @@ const jsonfile = require('jsonfile')
 const apiDir = './root/files'
 const base = './root/files'
 const fileName = 'searchIndex.json'
-const archiveBase = 'https://.icjia-archive.netlify.com/files/'
+const archiveBase = 'https://icjia-archive.netlify.com/files/'
 
 function getStats (file) {
   const { size, atime, mtime, ctime, birthtime } = fs.statSync(file)
@@ -32,7 +32,7 @@ function walkDir (dirpath) {
       })
     } else if (stat.isFile()) {
       let obj = {}
-      obj.path = path.relative(dirpath, filepath)
+      obj.path = '/' + path.relative(dirpath, filepath)
       obj.download = `${archiveBase}${obj.path}`
       obj.name = path.basename(dirpath + '/' + obj.path)
       obj.stats = getStats(dirpath + '/' + obj.path)
