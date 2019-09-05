@@ -33,9 +33,12 @@ function walkDir (dirpath) {
     } else if (stat.isFile()) {
       let obj = {}
       obj.path = '/' + path.relative(dirpath, filepath)
+      let parts = path.relative(dirpath, filepath).split('/')
+      obj.agency = parts[0]
       obj.download = `${archiveBase}${obj.path}`
       obj.name = path.basename(dirpath + '/' + obj.path)
       obj.stats = getStats(dirpath + '/' + obj.path)
+      
       result.push(obj)
     }
   } while (files.length !== 0)

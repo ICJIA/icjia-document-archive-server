@@ -5,13 +5,14 @@
   "main": "index.js",
   "scripts": {
     "serve": "serve ./root",
-    "index": "node buildSearchIndex.js",
+    "index": "node buildSearchIndex.js && node buildDirectoryTree.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "directory-tree": "^2.2.4",
     "eslint": "^6.2.2",
     "jsonfile": "^5.0.0",
     "serve": "^11.1.0"
