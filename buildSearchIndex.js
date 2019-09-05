@@ -10,7 +10,7 @@ const fileName = 'searchIndex.json'
 const archiveBase = 'https://archive.icjia.cloud/files'
 const exclusions = ['directoryTree.json', 'searchIndex.json']
 
-function getStats (file) {
+function getStats(file) {
   const { size, atime, mtime, ctime, birthtime } = fs.statSync(file)
   let obj = {}
   obj.size = size
@@ -21,7 +21,7 @@ function getStats (file) {
   return obj
 }
 
-function walkDir (dirpath) {
+function walkDir(dirpath) {
   const result = []
   const files = [dirpath]
   do {
@@ -38,8 +38,9 @@ function walkDir (dirpath) {
       obj.agency = parts[0]
       obj.download = `${archiveBase}${obj.path}`
       obj.name = path.basename(dirpath + '/' + obj.path)
+      obj.parent = obj.download.replace(obj.name, "");
       obj.stats = getStats(dirpath + '/' + obj.path)
-      
+
       result.push(obj)
     }
   } while (files.length !== 0)
@@ -48,11 +49,6 @@ function walkDir (dirpath) {
 }
 
 let searchIndex = walkDir(base)
-
-// if (!fs.existsSync(apiDir)) {
-//   fs.mkdirSync(apiDir)
-//   console.log(`Created: ${apiDir}/`)
-// }
 
 jsonfile.writeFile(`${apiDir}/${fileName}`, searchIndex, function (err) {
   if (err) console.error(err)

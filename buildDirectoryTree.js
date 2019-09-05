@@ -1,9 +1,6 @@
-const dirTree = require('./directoryTreeFork')
+const dirTree = require('./lib/directoryTreeFork')
 
 'use strict';
-
-
-
 
 const jsonfile = require('jsonfile')
 const apiDir = './root/files'
