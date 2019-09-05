@@ -8,6 +8,7 @@ const apiDir = './root/files'
 const base = './root/files'
 const fileName = 'searchIndex.json'
 const archiveBase = 'https://archive.icjia.cloud/files'
+const exclusions = ['directoryTree.json', 'searchIndex.json']
 
 function getStats (file) {
   const { size, atime, mtime, ctime, birthtime } = fs.statSync(file)
@@ -30,7 +31,7 @@ function walkDir (dirpath) {
       fs.readdirSync(filepath).forEach(f => {
         files.push(path.join(filepath, f))
       })
-    } else if (stat.isFile()) {
+    } else if (stat.isFile() && !exclusions.includes(path.relative(dirpath, filepath))) {
       let obj = {}
       obj.path = '/' + path.relative(dirpath, filepath)
       let parts = path.relative(dirpath, filepath).split('/')
