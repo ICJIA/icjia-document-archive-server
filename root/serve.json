@@ -1,6 +1,5 @@
 {
-    "unlisted": [
-      "directoryTree.json",
-      "searchIndex.json"
-    ]
-  }
+  "unlisted": [
+    "/test"
+  ]
+}
