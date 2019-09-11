@@ -14,6 +14,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
+    "date-fns": "^2.1.0",
     "directory-tree": "^2.2.4",
     "dotenv": "^8.1.0",
     "eslint": "^6.2.2",
