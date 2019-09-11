@@ -99,9 +99,15 @@ app.post("/uploadFiles", upload.array("files"), async (req, res) => {
         res.status(403).end();
     } else {
         let dir = req.body.path;
-        if (!fs.existsSync(dir)) {
-            fs.mkdirSync(dir, { recursive: true });
+        console.log(dir)
+        try {
+            if (!fs.existsSync(dir)) {
+                fs.mkdirSync(dir, { recursive: true });
+            }
+        } catch (e) {
+            console.log('Error creating directory: ', dir)
         }
+
 
         let successfulUploads = [];
         let failedUploads = [];
