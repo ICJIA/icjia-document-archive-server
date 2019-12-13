@@ -43,7 +43,7 @@ app.get("/check", (req, res) => res.send({ status: 200, msg: "Working!" }));
 app.get("/sitemap.xml", async function (req, res) {
     let sitemapObj = {
         directoryRoot: path.resolve(__dirname + "/root/files"),
-        archiveBase: "https://archive.icjia.cloud/files",
+        archiveBase: "https://archive.icjia-api.cloud/files",
         exclusions: [],
         mode: "sitemap"
     };
@@ -67,7 +67,7 @@ app.get("/searchIndex.json", async function (req, res) {
         let searchObj = {
             directoryRoot: path.resolve(__dirname + "/root/files"),
             mode: "search",
-            archiveBase: "https://archive.icjia.cloud/files",
+            archiveBase: "https://archive.icjia-api.cloud/files",
             exclusions: []
         };
         let searchIndex = await indexArchive(searchObj);
