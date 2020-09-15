@@ -1,0 +1,2449 @@
+year,id,fips_number,county_name,judicial_circuit,region,community_type,percent_rural,population,total_in_poverty,total_in_poverty_rate
+1989,1,1.0,Adams,8,Central,Mostly Urban,32.6,66090,7687.0,11631.1
+1989,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,10626,3084.0,29023.2
+1989,3,5.0,Bond,3,Southern,Mostly Rural,60.7,14991,1688.0,11260.1
+1989,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,30806,1870.0,6070.2
+1989,5,9.0,Brown,8,Central,Mostly Urban,41.1,5836,701.0,12011.7
+1989,6,11.0,Bureau,13,Central,Mostly Rural,57.4,35688,2946.0,8254.9
+1989,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5322,599.0,11255.2
+1989,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16805,1619.0,9634.0
+1989,9,17.0,Cass,8,Central,Mostly Rural,52.1,13437,1361.0,10128.7
+1989,10,19.0,Champaign,6,Central,Mostly Urban,12.7,173025,16911.0,9773.7
+1989,11,21.0,Christian,4,Central,Mostly Urban,43.5,34418,3433.0,9974.4
+1989,12,23.0,Clark,5,Southern,Mostly Rural,59.5,15921,1759.0,11048.3
+1989,13,25.0,Clay,4,Southern,Mostly Rural,64.7,14460,1897.0,13118.9
+1989,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,33944,2437.0,7179.5
+1989,15,29.0,Coles,5,Central,Mostly Urban,24.3,51644,5644.0,10928.7
+1989,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5105044,808122.0,15829.9
+1989,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19464,1886.0,9689.7
+1989,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10670,1137.0,10656.0
+1989,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,77932,4754.0,6100.2
+1989,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16516,1397.0,8458.5
+1989,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19464,1674.0,8600.5
+1989,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,781689,18288.0,2339.5
+1989,23,45.0,Edgar,5,Central,Mostly Rural,51.8,19595,2500.0,12758.4
+1989,24,47.0,Edwards,2,Southern,Completely Rural,100.0,7440,750.0,10080.6
+1989,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,31704,2450.0,7727.7
+1989,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,20893,2844.0,13612.2
+1989,27,53.0,Ford,11,Central,Mostly Urban,41.8,14275,1099.0,7698.8
+1989,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,40319,6380.0,15823.8
+1989,29,57.0,Fulton,9,Central,Mostly Rural,60.0,38080,4957.0,13017.3
+1989,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6909,1181.0,17093.6
+1989,31,61.0,Greene,7,Central,Mostly Rural,70.8,15317,2447.0,15975.7
+1989,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,32337,1425.0,4406.7
+1989,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8499,1299.0,15284.2
+1989,34,67.0,Hancock,9,Central,Mostly Rural,71.0,21373,2192.0,10255.9
+1989,35,69.0,Hardin,2,Southern,Completely Rural,100.0,5189,1050.0,20235.1
+1989,36,71.0,Henderson,9,Central,Mostly Rural,99.7,8096,911.0,11252.5
+1989,37,73.0,Henry,14,Central,Mostly Rural,50.3,51159,4521.0,8837.2
+1989,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,30787,2797.0,9085.0
+1989,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,61067,11263.0,18443.7
+1989,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,10609,1122.0,10575.9
+1989,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,37020,5029.0,13584.5
+1989,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,20539,1946.0,9474.7
+1989,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,21821,1453.0,6658.7
+1989,44,87.0,Johnson,1,Southern,Completely Rural,100.0,11347,1606.0,14153.5
+1989,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,317471,22260.0,7011.7
+1989,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,96255,12691.0,13184.8
+1989,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,39413,1103.0,2798.6
+1989,48,95.0,Knox,9,Central,Mostly Urban,24.3,56393,6209.0,11010.2
+1989,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,516418,27275.0,5281.6
+1989,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,106913,8577.0,8022.4
+1989,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,15972,2231.0,13968.2
+1989,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,34392,2614.0,7600.6
+1989,53,105.0,Livingston,11,Central,Mostly Urban,40.8,39301,2950.0,7506.2
+1989,54,107.0,Logan,11,Central,Mostly Urban,39.9,30798,2591.0,8412.9
+1989,55,109.0,McDonough,9,Central,Mostly Urban,29.5,35244,4526.0,12841.9
+1989,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,183241,5808.0,3169.6
+1989,57,113.0,McLean,11,Central,Mostly Urban,16.5,129180,9790.0,7578.6
+1989,58,115.0,Macon,6,Central,Mostly Urban,15.3,117206,13322.0,11366.3
+1989,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,47679,4984.0,10453.2
+1989,60,119.0,Madison,3,Southern,Mostly Urban,13.3,249238,24872.0,9979.2
+1989,61,121.0,Marion,4,Southern,Mostly Urban,45.1,41561,5424.0,13050.7
+1989,62,123.0,Marshall,10,Central,Completely Rural,100.0,12846,964.0,7504.3
+1989,63,125.0,Mason,8,Central,Mostly Rural,77.5,16269,1915.0,11770.9
+1989,64,127.0,Massac,1,Southern,Mostly Rural,50.5,14752,2311.0,15665.7
+1989,65,129.0,Menard,8,Central,Mostly Rural,75.7,11164,850.0,7613.8
+1989,66,131.0,Mercer,14,Central,Mostly Rural,77.8,17290,1602.0,9265.5
+1989,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,22422,874.0,3898.0
+1989,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,30728,3541.0,11523.7
+1989,69,137.0,Morgan,7,Central,Mostly Urban,36.2,36397,3573.0,9816.7
+1989,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,13930,1103.0,7918.2
+1989,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,45957,2902.0,6314.6
+1989,72,143.0,Peoria,10,Central,Mostly Urban,14.6,182827,21017.0,11495.6
+1989,73,145.0,Perry,20,Southern,Mostly Urban,43.6,21412,2290.0,10694.9
+1989,74,147.0,Piatt,6,Central,Mostly Rural,67.7,15548,980.0,6303.1
+1989,75,149.0,Pike,8,Central,Mostly Rural,72.3,17577,2593.0,14752.2
+1989,76,151.0,Pope,1,Southern,Completely Rural,100.0,4373,768.0,17562.3
+1989,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,7523,2080.0,27648.5
+1989,78,155.0,Putnam,10,Central,Completely Rural,100.0,5730,315.0,5497.4
+1989,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,34583,2915.0,8429.0
+1989,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16545,1922.0,11616.8
+1989,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,148723,16109.0,10831.5
+1989,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,262852,46385.0,17646.8
+1989,83,165.0,Saline,1,Southern,Mostly Urban,43.7,26551,4352.0,16391.1
+1989,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,178386,16169.0,9064.1
+1989,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7498,917.0,12229.9
+1989,86,171.0,Scott,7,Central,Completely Rural,100.0,5644,630.0,11162.3
+1989,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22261,2013.0,9042.7
+1989,88,175.0,Stark,10,Central,Completely Rural,100.0,6534,549.0,8402.2
+1989,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,48052,3665.0,7627.2
+1989,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,123692,9228.0,7460.5
+1989,91,181.0,Union,1,Southern,Mostly Rural,65.9,17619,2484.0,14098.4
+1989,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,88257,11456.0,12980.3
+1989,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,13111,1388.0,10586.5
+1989,94,187.0,Warren,9,Central,Mostly Urban,45.5,19181,2236.0,11657.4
+1989,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14965,1174.0,7845.0
+1989,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,17241,2235.0,12963.3
+1989,97,193.0,White,2,Southern,Mostly Rural,62.0,16522,2134.0,12916.1
+1989,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,60186,5013.0,8329.2
+1989,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,357313,24525.0,6863.7
+1989,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,57733,7349.0,12729.3
+1989,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,252913,22765.0,9001.1
+1989,102,203.0,Woodford,11,Central,Mostly Rural,54.9,32653,1805.0,5527.8
+1993,1,1.0,Adams,8,Central,Mostly Urban,32.6,67558,9434.0,13964.3
+1993,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,10265,3138.0,30569.9
+1993,3,5.0,Bond,3,Southern,Mostly Rural,60.7,15396,1779.0,11554.9
+1993,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,33933,2666.0,7856.7
+1993,5,9.0,Brown,8,Central,Mostly Urban,41.1,6155,686.0,11145.4
+1993,6,11.0,Bureau,13,Central,Mostly Rural,57.4,36036,3388.0,9401.7
+1993,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5271,813.0,15424.0
+1993,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16670,1844.0,11061.8
+1993,9,17.0,Cass,8,Central,Mostly Rural,52.1,13421,1574.0,11727.9
+1993,10,19.0,Champaign,6,Central,Mostly Urban,12.7,174600,20515.0,11749.7
+1993,11,21.0,Christian,4,Central,Mostly Urban,43.5,35392,3851.0,10881.0
+1993,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16290,1881.0,11547.0
+1993,13,25.0,Clay,4,Southern,Mostly Rural,64.7,14472,1989.0,13743.8
+1993,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,34750,2946.0,8477.7
+1993,15,29.0,Coles,5,Central,Mostly Urban,24.3,52866,6165.0,11661.6
+1993,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5235344,908002.0,17343.7
+1993,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,20649,2134.0,10334.6
+1993,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10940,1305.0,11928.7
+1993,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,81682,6533.0,7998.1
+1993,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16726,1681.0,10050.2
+1993,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19545,1862.0,9526.7
+1993,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,830865,32449.0,3905.4
+1993,23,45.0,Edgar,5,Central,Mostly Rural,51.8,19746,2800.0,14180.1
+1993,24,47.0,Edwards,2,Southern,Completely Rural,100.0,7307,773.0,10578.9
+1993,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,32419,3052.0,9414.2
+1993,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,20968,2927.0,13959.4
+1993,27,53.0,Ford,11,Central,Mostly Urban,41.8,13994,1268.0,9061.0
+1993,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39869,7348.0,18430.4
+1993,29,57.0,Fulton,9,Central,Mostly Rural,60.0,38328,5438.0,14188.1
+1993,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6788,1221.0,17987.6
+1993,31,61.0,Greene,7,Central,Mostly Rural,70.8,15206,2260.0,14862.6
+1993,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,34263,2009.0,5863.5
+1993,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8501,1314.0,15457.0
+1993,34,67.0,Hancock,9,Central,Mostly Rural,71.0,21349,2635.0,12342.5
+1993,35,69.0,Hardin,2,Southern,Completely Rural,100.0,5223,999.0,19126.9
+1993,36,71.0,Henderson,9,Central,Mostly Rural,99.7,8209,986.0,12011.2
+1993,37,73.0,Henry,14,Central,Mostly Rural,50.3,50839,5449.0,10718.1
+1993,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,31431,3061.0,9738.8
+1993,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,61798,11992.0,19405.2
+1993,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,10530,1185.0,11253.6
+1993,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,38489,6071.0,15773.3
+1993,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,21129,2413.0,11420.3
+1993,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22276,1796.0,8062.5
+1993,44,87.0,Johnson,1,Southern,Completely Rural,100.0,11441,1580.0,13810.0
+1993,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,339619,29430.0,8665.6
+1993,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,100766,13306.0,13204.9
+1993,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,42008,1700.0,4046.8
+1993,48,95.0,Knox,9,Central,Mostly Urban,24.3,56580,7146.0,12629.9
+1993,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,554697,36265.0,6537.8
+1993,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,109093,11017.0,10098.7
+1993,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,15992,2286.0,14294.6
+1993,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,35345,3055.0,8643.4
+1993,53,105.0,Livingston,11,Central,Mostly Urban,40.8,39871,3637.0,9121.9
+1993,54,107.0,Logan,11,Central,Mostly Urban,39.9,30869,3143.0,10181.7
+1993,55,109.0,McDonough,9,Central,Mostly Urban,29.5,34848,4528.0,12993.6
+1993,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,210283,8267.0,3931.4
+1993,57,113.0,McLean,11,Central,Mostly Urban,16.5,136831,11366.0,8306.6
+1993,58,115.0,Macon,6,Central,Mostly Urban,15.3,117933,15943.0,13518.7
+1993,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48082,5926.0,12324.8
+1993,60,119.0,Madison,3,Southern,Mostly Urban,13.3,254434,30849.0,12124.6
+1993,61,121.0,Marion,4,Southern,Mostly Urban,45.1,41768,6629.0,15871.0
+1993,62,123.0,Marshall,10,Central,Completely Rural,100.0,12832,1200.0,9351.6
+1993,63,125.0,Mason,8,Central,Mostly Rural,77.5,16432,2161.0,13151.2
+1993,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15063,2341.0,15541.4
+1993,65,129.0,Menard,8,Central,Mostly Rural,75.7,11575,1023.0,8838.0
+1993,66,131.0,Mercer,14,Central,Mostly Rural,77.8,17072,1898.0,11117.6
+1993,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,23924,1264.0,5283.4
+1993,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,30504,3968.0,13008.1
+1993,69,137.0,Morgan,7,Central,Mostly Urban,36.2,36994,3973.0,10739.6
+1993,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,13865,1242.0,8957.8
+1993,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,48053,3717.0,7735.2
+1993,72,143.0,Peoria,10,Central,Mostly Urban,14.6,184355,26935.0,14610.4
+1993,73,145.0,Perry,20,Southern,Mostly Urban,43.6,21426,3101.0,14473.1
+1993,74,147.0,Piatt,6,Central,Mostly Rural,67.7,15919,1104.0,6935.1
+1993,75,149.0,Pike,8,Central,Mostly Rural,72.3,17412,2886.0,16574.8
+1993,76,151.0,Pope,1,Southern,Completely Rural,100.0,4376,755.0,17253.2
+1993,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,7422,1892.0,25491.8
+1993,78,155.0,Putnam,10,Central,Completely Rural,100.0,5797,400.0,6900.1
+1993,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,34129,3819.0,11189.9
+1993,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16468,2197.0,13341.0
+1993,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,150912,19342.0,12816.7
+1993,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,264082,48799.0,18478.7
+1993,83,165.0,Saline,1,Southern,Mostly Urban,43.7,27015,4901.0,18141.8
+1993,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,186941,20568.0,11002.4
+1993,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7506,970.0,12923.0
+1993,86,171.0,Scott,7,Central,Completely Rural,100.0,5564,590.0,10603.9
+1993,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22493,2195.0,9758.6
+1993,88,175.0,Stark,10,Central,Completely Rural,100.0,6450,662.0,10263.6
+1993,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,48801,4986.0,10217.0
+1993,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,125169,12143.0,9701.3
+1993,91,181.0,Union,1,Southern,Mostly Rural,65.9,18020,3186.0,17680.4
+1993,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,87738,13315.0,15175.9
+1993,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,13181,1590.0,12062.8
+1993,94,187.0,Warren,9,Central,Mostly Urban,45.5,19015,2411.0,12679.5
+1993,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14939,1330.0,8902.9
+1993,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,17077,2106.0,12332.4
+1993,97,193.0,White,2,Southern,Mostly Rural,62.0,15972,2401.0,15032.6
+1993,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,60662,6014.0,9913.9
+1993,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,389030,30332.0,7796.8
+1993,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,59111,8738.0,14782.4
+1993,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,264649,30807.0,11640.7
+1993,102,203.0,Woodford,11,Central,Mostly Rural,54.9,33686,2326.0,6904.9
+1995,1,1.0,Adams,8,Central,Mostly Urban,32.6,68636,7664.0,11166.2
+1995,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,9989,2896.0,28991.9
+1995,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17100,1754.0,10257.3
+1995,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,36651,2263.0,6174.5
+1995,5,9.0,Brown,8,Central,Mostly Urban,41.1,6401,617.0,9639.1
+1995,6,11.0,Bureau,13,Central,Mostly Rural,57.4,36023,2978.0,8266.9
+1995,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5074,590.0,11627.9
+1995,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16857,1663.0,9865.3
+1995,9,17.0,Cass,8,Central,Mostly Rural,52.1,13544,1412.0,10425.3
+1995,10,19.0,Champaign,6,Central,Mostly Urban,12.7,172859,18216.0,10538.1
+1995,11,21.0,Christian,4,Central,Mostly Urban,43.5,35706,3509.0,9827.5
+1995,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16530,1799.0,10883.2
+1995,13,25.0,Clay,4,Southern,Mostly Rural,64.7,14574,1826.0,12529.2
+1995,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,35139,2771.0,7885.8
+1995,15,29.0,Coles,5,Central,Mostly Urban,24.3,52873,5857.0,11077.5
+1995,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5283463,747979.0,14157.0
+1995,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,20856,2094.0,10040.3
+1995,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,11096,1164.0,10490.3
+1995,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,82810,6030.0,7281.7
+1995,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16824,1529.0,9088.2
+1995,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19777,1764.0,8919.5
+1995,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,855531,28518.0,3333.4
+1995,23,45.0,Edgar,5,Central,Mostly Rural,51.8,20132,2488.0,12358.4
+1995,24,47.0,Edwards,2,Southern,Completely Rural,100.0,7262,746.0,10272.7
+1995,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,33120,2653.0,8010.3
+1995,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21203,2625.0,12380.3
+1995,27,53.0,Ford,11,Central,Mostly Urban,41.8,14232,1184.0,8319.3
+1995,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39971,7080.0,17712.8
+1995,29,57.0,Fulton,9,Central,Mostly Rural,60.0,38443,4807.0,12504.2
+1995,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6666,1270.0,19051.9
+1995,31,61.0,Greene,7,Central,Mostly Rural,70.8,15166,2115.0,13945.7
+1995,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,35073,1863.0,5311.8
+1995,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8599,1278.0,14862.2
+1995,34,67.0,Hancock,9,Central,Mostly Rural,71.0,20971,2156.0,10280.9
+1995,35,69.0,Hardin,2,Southern,Completely Rural,100.0,5077,964.0,18987.6
+1995,36,71.0,Henderson,9,Central,Mostly Rural,99.7,8257,855.0,10354.9
+1995,37,73.0,Henry,14,Central,Mostly Rural,50.3,51150,4568.0,8930.6
+1995,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,31481,2863.0,9094.4
+1995,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,61099,11263.0,18434.0
+1995,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,10501,1067.0,10160.9
+1995,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,39459,5926.0,15018.1
+1995,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,21193,1916.0,9040.7
+1995,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22252,1587.0,7131.9
+1995,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12360,1523.0,12322.0
+1995,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,356995,23950.0,6708.8
+1995,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,101923,12166.0,11936.5
+1995,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,44924,1603.0,3568.2
+1995,48,95.0,Knox,9,Central,Mostly Urban,24.3,56308,6480.0,11508.1
+1995,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,580911,30016.0,5167.1
+1995,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,109936,10245.0,9319.1
+1995,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16178,2140.0,13227.8
+1995,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,36040,2684.0,7447.3
+1995,53,105.0,Livingston,11,Central,Mostly Urban,40.8,40330,3257.0,8075.9
+1995,54,107.0,Logan,11,Central,Mostly Urban,39.9,31148,2950.0,9470.9
+1995,55,109.0,McDonough,9,Central,Mostly Urban,29.5,33563,4242.0,12638.9
+1995,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,228762,7386.0,3228.7
+1995,57,113.0,McLean,11,Central,Mostly Urban,16.5,140945,10438.0,7405.7
+1995,58,115.0,Macon,6,Central,Mostly Urban,15.3,117289,14628.0,12471.8
+1995,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48677,5666.0,11640.0
+1995,60,119.0,Madison,3,Southern,Mostly Urban,13.3,256665,27400.0,10675.4
+1995,61,121.0,Marion,4,Southern,Mostly Urban,45.1,41972,6014.0,14328.6
+1995,62,123.0,Marshall,10,Central,Completely Rural,100.0,12929,1017.0,7866.0
+1995,63,125.0,Mason,8,Central,Mostly Rural,77.5,16344,1962.0,12004.4
+1995,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15152,2160.0,14255.5
+1995,65,129.0,Menard,8,Central,Mostly Rural,75.7,12006,1012.0,8429.1
+1995,66,131.0,Mercer,14,Central,Mostly Rural,77.8,17083,1580.0,9249.0
+1995,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,24790,1038.0,4187.2
+1995,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,30702,3724.0,12129.5
+1995,69,137.0,Morgan,7,Central,Mostly Urban,36.2,37079,3659.0,9868.1
+1995,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14051,1133.0,8063.5
+1995,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,49166,3254.0,6618.4
+1995,72,143.0,Peoria,10,Central,Mostly Urban,14.6,184816,24264.0,13128.7
+1995,73,145.0,Perry,20,Southern,Mostly Urban,43.6,21322,2871.0,13465.0
+1995,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16037,1000.0,6235.6
+1995,75,149.0,Pike,8,Central,Mostly Rural,72.3,17209,2532.0,14713.2
+1995,76,151.0,Pope,1,Southern,Completely Rural,100.0,4421,746.0,16874.0
+1995,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,7482,1838.0,24565.6
+1995,78,155.0,Putnam,10,Central,Completely Rural,100.0,5847,359.0,6139.9
+1995,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,34254,3489.0,10185.7
+1995,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16491,1998.0,12115.7
+1995,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,150475,16937.0,11255.7
+1995,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,262499,43645.0,16626.7
+1995,83,165.0,Saline,1,Southern,Mostly Urban,43.7,26881,4910.0,18265.7
+1995,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,189592,17746.0,9360.1
+1995,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7593,874.0,11510.6
+1995,86,171.0,Scott,7,Central,Completely Rural,100.0,5584,556.0,9957.0
+1995,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22747,2065.0,9078.1
+1995,88,175.0,Stark,10,Central,Completely Rural,100.0,6440,576.0,8944.1
+1995,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,49031,4445.0,9065.7
+1995,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,127764,10021.0,7843.4
+1995,91,181.0,Union,1,Southern,Mostly Rural,65.9,18151,2795.0,15398.6
+1995,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,86570,12009.0,13872.0
+1995,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,13139,1472.0,11203.3
+1995,94,187.0,Warren,9,Central,Mostly Urban,45.5,19097,2259.0,11829.1
+1995,95,189.0,Washington,20,Southern,Mostly Rural,73.6,15104,1162.0,7693.3
+1995,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,17157,2079.0,12117.5
+1995,97,193.0,White,2,Southern,Mostly Rural,62.0,15822,2328.0,14713.7
+1995,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,60828,5688.0,9351.0
+1995,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,418351,25713.0,6146.3
+1995,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,60430,8531.0,14117.2
+1995,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,269020,25304.0,9406.0
+1995,102,203.0,Woodford,11,Central,Mostly Rural,54.9,34437,1997.0,5799.0
+1997,1,1.0,Adams,8,Central,Mostly Urban,32.6,68715,8054.0,11720.9
+1997,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,9659,2952.0,30562.2
+1997,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17378,1888.0,10864.3
+1997,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,38853,2391.0,6154.0
+1997,5,9.0,Brown,8,Central,Mostly Urban,41.1,6815,757.0,11107.9
+1997,6,11.0,Bureau,13,Central,Mostly Rural,57.4,35884,3107.0,8658.5
+1997,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5155,594.0,11522.8
+1997,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16946,1734.0,10232.5
+1997,9,17.0,Cass,8,Central,Mostly Rural,52.1,13652,1475.0,10804.3
+1997,10,19.0,Champaign,6,Central,Mostly Urban,12.7,176626,18901.0,10701.1
+1997,11,21.0,Christian,4,Central,Mostly Urban,43.5,35600,3710.0,10421.3
+1997,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16768,1822.0,10865.9
+1997,13,25.0,Clay,4,Southern,Mostly Rural,64.7,14607,1819.0,12452.9
+1997,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,35264,2940.0,8337.1
+1997,15,29.0,Coles,5,Central,Mostly Urban,24.3,53371,6387.0,11967.2
+1997,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5322117,730426.0,13724.4
+1997,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,20782,2377.0,11437.8
+1997,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,11186,1279.0,11433.9
+1997,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,85078,6347.0,7460.2
+1997,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16757,1746.0,10419.5
+1997,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19909,1881.0,9448.0
+1997,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,874404,32379.0,3703.0
+1997,23,45.0,Edgar,5,Central,Mostly Rural,51.8,20090,2637.0,13125.9
+1997,24,47.0,Edwards,2,Southern,Completely Rural,100.0,7076,772.0,10910.1
+1997,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,33704,2999.0,8898.1
+1997,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21929,2946.0,13434.3
+1997,27,53.0,Ford,11,Central,Mostly Urban,41.8,14274,1193.0,8357.9
+1997,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39624,7291.0,18400.5
+1997,29,57.0,Fulton,9,Central,Mostly Rural,60.0,38616,4884.0,12647.6
+1997,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6544,1257.0,19208.4
+1997,31,61.0,Greene,7,Central,Mostly Rural,70.8,15066,2174.0,14429.8
+1997,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,36263,2053.0,5661.4
+1997,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8674,1277.0,14722.2
+1997,34,67.0,Hancock,9,Central,Mostly Rural,71.0,20594,2172.0,10546.8
+1997,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4914,953.0,19393.6
+1997,36,71.0,Henderson,9,Central,Mostly Rural,99.7,8353,965.0,11552.7
+1997,37,73.0,Henry,14,Central,Mostly Rural,50.3,50830,4420.0,8695.7
+1997,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,31603,2982.0,9435.8
+1997,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,60607,11610.0,19156.2
+1997,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,10412,1283.0,12322.3
+1997,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,39654,6378.0,16084.1
+1997,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,21448,2115.0,9861.1
+1997,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22249,1703.0,7654.3
+1997,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12637,1767.0,13982.7
+1997,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,376725,26537.0,7044.1
+1997,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,102951,12938.0,12567.1
+1997,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,49153,2018.0,4105.5
+1997,48,95.0,Knox,9,Central,Mostly Urban,24.3,56081,6692.0,11932.7
+1997,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,609714,35205.0,5774.0
+1997,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,110956,10825.0,9756.1
+1997,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,15831,2195.0,13865.2
+1997,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,36222,2942.0,8122.1
+1997,53,105.0,Livingston,11,Central,Mostly Urban,40.8,39774,3584.0,9010.9
+1997,54,107.0,Logan,11,Central,Mostly Urban,39.9,31043,3290.0,10598.2
+1997,55,109.0,McDonough,9,Central,Mostly Urban,29.5,33382,4599.0,13776.9
+1997,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,242449,8645.0,3565.7
+1997,57,113.0,McLean,11,Central,Mostly Urban,16.5,144342,11807.0,8179.9
+1997,58,115.0,Macon,6,Central,Mostly Urban,15.3,115706,15707.0,13574.9
+1997,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48866,5857.0,11985.8
+1997,60,119.0,Madison,3,Southern,Mostly Urban,13.3,258533,28676.0,11091.8
+1997,61,121.0,Marion,4,Southern,Mostly Urban,45.1,42062,6466.0,15372.5
+1997,62,123.0,Marshall,10,Central,Completely Rural,100.0,13033,1159.0,8892.8
+1997,63,125.0,Mason,8,Central,Mostly Rural,77.5,16297,2039.0,12511.5
+1997,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15364,2330.0,15165.3
+1997,65,129.0,Menard,8,Central,Mostly Rural,75.7,12246,1130.0,9227.5
+1997,66,131.0,Mercer,14,Central,Mostly Rural,77.8,17011,1653.0,9717.2
+1997,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,25889,1272.0,4913.3
+1997,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,31072,4046.0,13021.4
+1997,69,137.0,Morgan,7,Central,Mostly Urban,36.2,36793,3970.0,10790.1
+1997,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14221,1173.0,8248.4
+1997,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,50074,3556.0,7101.5
+1997,72,143.0,Peoria,10,Central,Mostly Urban,14.6,184384,24209.0,13129.7
+1997,73,145.0,Perry,20,Southern,Mostly Urban,43.6,21374,2941.0,13759.7
+1997,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16311,1102.0,6756.2
+1997,75,149.0,Pike,8,Central,Mostly Rural,72.3,17594,2476.0,14073.0
+1997,76,151.0,Pope,1,Southern,Completely Rural,100.0,4391,791.0,18014.1
+1997,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,7334,1903.0,25947.6
+1997,78,155.0,Putnam,10,Central,Completely Rural,100.0,5965,414.0,6940.5
+1997,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33795,3669.0,10856.6
+1997,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16513,2163.0,13098.8
+1997,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,149937,17353.0,11573.5
+1997,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,260631,42241.0,16207.2
+1997,83,165.0,Saline,1,Southern,Mostly Urban,43.7,26897,4796.0,17831.0
+1997,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,189638,19288.0,10171.0
+1997,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7442,866.0,11636.7
+1997,86,171.0,Scott,7,Central,Completely Rural,100.0,5543,628.0,11329.6
+1997,87,173.0,Shelby,4,Central,Mostly Rural,77.7,23022,2294.0,9964.4
+1997,88,175.0,Stark,10,Central,Completely Rural,100.0,6405,616.0,9617.5
+1997,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,49308,4631.0,9392.0
+1997,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,128021,10808.0,8442.4
+1997,91,181.0,Union,1,Southern,Mostly Rural,65.9,18307,2944.0,16081.3
+1997,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,85274,12459.0,14610.5
+1997,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,13030,1542.0,11834.2
+1997,94,187.0,Warren,9,Central,Mostly Urban,45.5,18971,2406.0,12682.5
+1997,95,189.0,Washington,20,Southern,Mostly Rural,73.6,15283,1233.0,8067.8
+1997,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,17152,2045.0,11922.8
+1997,97,193.0,White,2,Southern,Mostly Rural,62.0,15580,2378.0,15263.2
+1997,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,60859,5514.0,9060.3
+1997,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,450816,29709.0,6590.1
+1997,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,61194,9021.0,14741.6
+1997,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,273489,27780.0,10157.6
+1997,102,203.0,Woodford,11,Central,Mostly Rural,54.9,34781,2180.0,6267.8
+1998,1,1.0,Adams,8,Central,Mostly Urban,32.6,68681,7911.0,11518.5
+1998,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,9632,2616.0,27159.5
+1998,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17588,1766.0,10040.9
+1998,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,39864,2483.0,6228.7
+1998,5,9.0,Brown,8,Central,Mostly Urban,41.1,6922,662.0,9563.7
+1998,6,11.0,Bureau,13,Central,Mostly Rural,57.4,35621,3135.0,8801.0
+1998,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5092,545.0,10703.1
+1998,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16959,1620.0,9552.5
+1998,9,17.0,Cass,8,Central,Mostly Rural,52.1,13735,1494.0,10877.3
+1998,10,19.0,Champaign,6,Central,Mostly Urban,12.7,177004,17753.0,10029.7
+1998,11,21.0,Christian,4,Central,Mostly Urban,43.5,35523,3785.0,10655.1
+1998,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16949,1855.0,10944.6
+1998,13,25.0,Clay,4,Southern,Mostly Rural,64.7,14723,1823.0,12382.0
+1998,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,35589,2785.0,7825.5
+1998,15,29.0,Coles,5,Central,Mostly Urban,24.3,53455,5943.0,11117.8
+1998,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5345537,683203.0,12780.8
+1998,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,20717,2292.0,11063.4
+1998,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,11170,1301.0,11647.3
+1998,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,86402,6055.0,7007.9
+1998,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16781,1762.0,10500.0
+1998,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19918,1842.0,9247.9
+1998,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,886168,33668.0,3799.3
+1998,23,45.0,Edgar,5,Central,Mostly Rural,51.8,20020,2568.0,12827.2
+1998,24,47.0,Edwards,2,Southern,Completely Rural,100.0,7020,776.0,11054.1
+1998,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,33910,3051.0,8997.3
+1998,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21894,2810.0,12834.6
+1998,27,53.0,Ford,11,Central,Mostly Urban,41.8,14223,1231.0,8655.0
+1998,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39334,6925.0,17605.6
+1998,29,57.0,Fulton,9,Central,Mostly Rural,60.0,38454,4710.0,12248.4
+1998,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6512,1157.0,17767.2
+1998,31,61.0,Greene,7,Central,Mostly Rural,70.8,14982,2140.0,14283.8
+1998,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,36732,2018.0,5493.8
+1998,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8695,1287.0,14801.6
+1998,34,67.0,Hancock,9,Central,Mostly Rural,71.0,20523,2231.0,10870.7
+1998,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4863,827.0,17006.0
+1998,36,71.0,Henderson,9,Central,Mostly Rural,99.7,8292,939.0,11324.2
+1998,37,73.0,Henry,14,Central,Mostly Rural,50.3,50789,4400.0,8663.3
+1998,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,31494,3062.0,9722.5
+1998,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,60304,10647.0,17655.5
+1998,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,10387,1351.0,13006.6
+1998,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,39695,5967.0,15032.1
+1998,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,21662,2153.0,9939.1
+1998,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22132,1750.0,7907.1
+1998,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12931,1552.0,12002.2
+1998,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,386103,23545.0,6098.1
+1998,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,103222,12397.0,12010.0
+1998,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,51025,1834.0,3594.3
+1998,48,95.0,Knox,9,Central,Mostly Urban,24.3,56114,6440.0,11476.6
+1998,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,621618,34265.0,5512.2
+1998,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,111422,10634.0,9543.9
+1998,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,15683,2191.0,13970.5
+1998,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,36214,2806.0,7748.4
+1998,53,105.0,Livingston,11,Central,Mostly Urban,40.8,39610,3481.0,8788.2
+1998,54,107.0,Logan,11,Central,Mostly Urban,39.9,31465,3027.0,9620.2
+1998,55,109.0,McDonough,9,Central,Mostly Urban,29.5,33341,4178.0,12531.1
+1998,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,248529,8723.0,3509.9
+1998,57,113.0,McLean,11,Central,Mostly Urban,16.5,146526,11265.0,7688.1
+1998,58,115.0,Macon,6,Central,Mostly Urban,15.3,115453,15130.0,13104.9
+1998,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48732,5564.0,11417.5
+1998,60,119.0,Madison,3,Southern,Mostly Urban,13.3,258700,27254.0,10535.0
+1998,61,121.0,Marion,4,Southern,Mostly Urban,45.1,41896,6106.0,14574.2
+1998,62,123.0,Marshall,10,Central,Completely Rural,100.0,13105,1203.0,9179.7
+1998,63,125.0,Mason,8,Central,Mostly Rural,77.5,16194,2050.0,12659.0
+1998,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15378,2239.0,14559.8
+1998,65,129.0,Menard,8,Central,Mostly Rural,75.7,12281,1132.0,9217.5
+1998,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16979,1573.0,9264.4
+1998,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,26664,1258.0,4718.0
+1998,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,31053,3858.0,12423.9
+1998,69,137.0,Morgan,7,Central,Mostly Urban,36.2,36617,3892.0,10628.9
+1998,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14179,1128.0,7955.4
+1998,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,50368,3645.0,7236.7
+1998,72,143.0,Peoria,10,Central,Mostly Urban,14.6,184006,23650.0,12852.8
+1998,73,145.0,Perry,20,Southern,Mostly Urban,43.6,21273,2941.0,13825.0
+1998,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16231,1043.0,6426.0
+1998,75,149.0,Pike,8,Central,Mostly Rural,72.3,17590,2478.0,14087.5
+1998,76,151.0,Pope,1,Southern,Completely Rural,100.0,4370,679.0,15537.8
+1998,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,7426,1723.0,23202.3
+1998,78,155.0,Putnam,10,Central,Completely Rural,100.0,5992,410.0,6842.5
+1998,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33687,3521.0,10452.1
+1998,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16387,2305.0,14066.0
+1998,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,150027,16054.0,10700.7
+1998,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,258286,39339.0,15230.8
+1998,83,165.0,Saline,1,Southern,Mostly Urban,43.7,26946,4576.0,16982.1
+1998,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,189441,18839.0,9944.5
+1998,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7333,796.0,10855.0
+1998,86,171.0,Scott,7,Central,Completely Rural,100.0,5541,586.0,10575.7
+1998,87,173.0,Shelby,4,Central,Mostly Rural,77.7,23072,2204.0,9552.7
+1998,88,175.0,Stark,10,Central,Completely Rural,100.0,6415,624.0,9727.2
+1998,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,49195,4607.0,9364.8
+1998,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,128327,10352.0,8066.9
+1998,91,181.0,Union,1,Southern,Mostly Rural,65.9,18272,2792.0,15280.2
+1998,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,84996,11485.0,13512.4
+1998,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,12966,1537.0,11854.1
+1998,94,187.0,Warren,9,Central,Mostly Urban,45.5,18958,2216.0,11689.0
+1998,95,189.0,Washington,20,Southern,Mostly Rural,73.6,15240,1157.0,7591.9
+1998,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,17108,2159.0,12619.8
+1998,97,193.0,White,2,Southern,Mostly Rural,62.0,15469,2364.0,15282.2
+1998,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,60719,5422.0,8929.7
+1998,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,467549,27174.0,5812.0
+1998,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,61372,8694.0,14166.1
+1998,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,275161,26958.0,9797.2
+1998,102,203.0,Woodford,11,Central,Mostly Rural,54.9,35144,2075.0,5904.3
+1999,1,1.0,Adams,8,Central,Mostly Urban,32.6,68430,7413.0,10833.0
+1999,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,9621,2125.0,22087.1
+1999,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17532,1635.0,9325.8
+1999,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,40844,2733.0,6691.3
+1999,5,9.0,Brown,8,Central,Mostly Urban,41.1,6948,566.0,8146.2
+1999,6,11.0,Bureau,13,Central,Mostly Rural,57.4,35527,2776.0,7813.8
+1999,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5093,472.0,9267.6
+1999,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16813,1513.0,8999.0
+1999,9,17.0,Cass,8,Central,Mostly Rural,52.1,13795,1396.0,10119.6
+1999,10,19.0,Champaign,6,Central,Mostly Urban,12.7,178652,18670.0,10450.5
+1999,11,21.0,Christian,4,Central,Mostly Urban,43.5,35398,3492.0,9865.0
+1999,12,23.0,Clark,5,Southern,Mostly Rural,59.5,17011,1670.0,9817.2
+1999,13,25.0,Clay,4,Southern,Mostly Rural,64.7,14575,1679.0,11519.7
+1999,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,35533,2392.0,6731.8
+1999,15,29.0,Coles,5,Central,Mostly Urban,24.3,53447,6139.0,11486.1
+1999,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5365344,665162.0,12397.4
+1999,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,20623,2147.0,10410.7
+1999,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,11186,1170.0,10459.5
+1999,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,88010,6418.0,7292.4
+1999,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16764,1512.0,9019.3
+1999,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19905,1601.0,8043.2
+1999,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,898083,35413.0,3943.2
+1999,23,45.0,Edgar,5,Central,Mostly Rural,51.8,19821,2207.0,11134.7
+1999,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6954,700.0,10066.1
+1999,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34164,2960.0,8664.1
+1999,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21786,2568.0,11787.4
+1999,27,53.0,Ford,11,Central,Mostly Urban,41.8,14260,1097.0,7692.8
+1999,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39126,6014.0,15370.9
+1999,29,57.0,Fulton,9,Central,Mostly Rural,60.0,38434,3815.0,9926.1
+1999,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6477,1091.0,16844.2
+1999,31,61.0,Greene,7,Central,Mostly Rural,70.8,14832,1817.0,12250.5
+1999,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,37121,1949.0,5250.4
+1999,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8688,1112.0,12799.3
+1999,34,67.0,Hancock,9,Central,Mostly Rural,71.0,20267,1937.0,9557.4
+1999,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4824,679.0,14075.5
+1999,36,71.0,Henderson,9,Central,Mostly Rural,99.7,8218,802.0,9759.1
+1999,37,73.0,Henry,14,Central,Mostly Rural,50.3,51004,4121.0,8079.8
+1999,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,31389,2889.0,9203.9
+1999,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,60026,9815.0,16351.2
+1999,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,10256,1140.0,11115.4
+1999,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,39981,5232.0,13086.2
+1999,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,21659,1918.0,8855.4
+1999,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22242,1548.0,6959.8
+1999,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12778,1372.0,10737.2
+1999,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,396371,23373.0,5896.7
+1999,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,103675,11701.0,11286.2
+1999,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,52845,1988.0,3761.9
+1999,48,95.0,Knox,9,Central,Mostly Urban,24.3,55987,5920.0,10573.9
+1999,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,633094,36733.0,5802.1
+1999,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,111600,10031.0,8988.4
+1999,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,15546,1940.0,12479.1
+1999,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,36080,2749.0,7619.2
+1999,53,105.0,Livingston,11,Central,Mostly Urban,40.8,39786,3229.0,8115.9
+1999,54,107.0,Logan,11,Central,Mostly Urban,39.9,31264,2639.0,8441.0
+1999,55,109.0,McDonough,9,Central,Mostly Urban,29.5,33168,4007.0,12080.9
+1999,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,255448,9364.0,3665.7
+1999,57,113.0,McLean,11,Central,Mostly Urban,16.5,149135,11258.0,7548.9
+1999,58,115.0,Macon,6,Central,Mostly Urban,15.3,115142,14614.0,12692.2
+1999,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,49005,4784.0,9762.3
+1999,60,119.0,Madison,3,Southern,Mostly Urban,13.3,258739,25367.0,9804.1
+1999,61,121.0,Marion,4,Southern,Mostly Urban,45.1,41647,5467.0,13127.0
+1999,62,123.0,Marshall,10,Central,Completely Rural,100.0,13182,1006.0,7631.6
+1999,63,125.0,Mason,8,Central,Mostly Rural,77.5,16082,1723.0,10713.8
+1999,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15258,2031.0,13311.0
+1999,65,129.0,Menard,8,Central,Mostly Rural,75.7,12390,1081.0,8724.8
+1999,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16948,1403.0,8278.3
+1999,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,27247,1160.0,4257.3
+1999,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,30748,3593.0,11685.3
+1999,69,137.0,Morgan,7,Central,Mostly Urban,36.2,36546,3594.0,9834.2
+1999,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14198,1024.0,7212.3
+1999,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,50751,3611.0,7115.1
+1999,72,143.0,Peoria,10,Central,Mostly Urban,14.6,184042,22572.0,12264.6
+1999,73,145.0,Perry,20,Southern,Mostly Urban,43.6,23223,2621.0,11286.2
+1999,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16388,970.0,5919.0
+1999,75,149.0,Pike,8,Central,Mostly Rural,72.3,17490,2130.0,12178.4
+1999,76,151.0,Pope,1,Southern,Completely Rural,100.0,4366,608.0,13925.8
+1999,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,7406,1540.0,20794.0
+1999,78,155.0,Putnam,10,Central,Completely Rural,100.0,6080,375.0,6167.8
+1999,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33899,3157.0,9313.0
+1999,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16212,2094.0,12916.4
+1999,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,149961,15368.0,10248.0
+1999,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,256201,35543.0,13873.1
+1999,83,165.0,Saline,1,Southern,Mostly Urban,43.7,26878,3940.0,14658.8
+1999,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,188957,18067.0,9561.4
+1999,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7248,675.0,9312.9
+1999,86,171.0,Scott,7,Central,Completely Rural,100.0,5515,522.0,9465.1
+1999,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22973,2054.0,8940.9
+1999,88,175.0,Stark,10,Central,Completely Rural,100.0,6368,521.0,8181.5
+1999,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,49194,4437.0,9019.4
+1999,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,128540,9050.0,7040.6
+1999,91,181.0,Union,1,Southern,Mostly Rural,65.9,18353,2590.0,14112.1
+1999,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,84276,10476.0,12430.6
+1999,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,12969,1539.0,11866.8
+1999,94,187.0,Warren,9,Central,Mostly Urban,45.5,18870,1807.0,9576.0
+1999,95,189.0,Washington,20,Southern,Mostly Rural,73.6,15143,1042.0,6881.1
+1999,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,17203,2033.0,11817.7
+1999,97,193.0,White,2,Southern,Mostly Rural,62.0,15403,1976.0,12828.7
+1999,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,60658,5010.0,8259.4
+1999,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,486207,26805.0,5513.1
+1999,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,61476,8149.0,13255.6
+1999,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,276752,27004.0,9757.5
+1999,102,203.0,Woodford,11,Central,Mostly Rural,54.9,35449,1700.0,4795.6
+2000,1,1.0,Adams,8,Central,Mostly Urban,32.6,68220,7287.0,10681.6
+2000,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,9584,2259.0,23570.5
+2000,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17650,1692.0,9586.4
+2000,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,42053,2781.0,6613.1
+2000,5,9.0,Brown,8,Central,Mostly Urban,41.1,6963,704.0,10110.6
+2000,6,11.0,Bureau,13,Central,Mostly Rural,57.4,35473,2815.0,7935.6
+2000,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5090,490.0,9626.7
+2000,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16626,1560.0,9382.9
+2000,9,17.0,Cass,8,Central,Mostly Rural,52.1,13680,1409.0,10299.7
+2000,10,19.0,Champaign,6,Central,Mostly Urban,12.7,179931,19506.0,10840.8
+2000,11,21.0,Christian,4,Central,Mostly Urban,43.5,35354,3464.0,9798.0
+2000,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16993,1767.0,10398.4
+2000,13,25.0,Clay,4,Southern,Mostly Rural,64.7,14410,1668.0,11575.3
+2000,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,35536,2392.0,6731.2
+2000,15,29.0,Coles,5,Central,Mostly Urban,24.3,53078,6472.0,12193.4
+2000,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5376861,655740.0,12195.6
+2000,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,20398,2160.0,10589.3
+2000,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,11256,1177.0,10456.6
+2000,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,89334,6683.0,7480.9
+2000,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16790,1560.0,9291.2
+2000,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19925,1567.0,7864.5
+2000,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,906576,34241.0,3777.0
+2000,23,45.0,Edgar,5,Central,Mostly Rural,51.8,19657,2233.0,11359.8
+2000,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6967,675.0,9688.5
+2000,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34260,2873.0,8385.9
+2000,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21792,2669.0,12247.6
+2000,27,53.0,Ford,11,Central,Mostly Urban,41.8,14209,1104.0,7769.7
+2000,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39016,5946.0,15239.9
+2000,29,57.0,Fulton,9,Central,Mostly Rural,60.0,38240,3950.0,10329.5
+2000,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6427,1102.0,17146.4
+2000,31,61.0,Greene,7,Central,Mostly Rural,70.8,14746,1763.0,11955.8
+2000,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,37678,1999.0,5305.5
+2000,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8604,1124.0,13063.7
+2000,34,67.0,Hancock,9,Central,Mostly Rural,71.0,20089,1920.0,9557.5
+2000,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4787,756.0,15792.8
+2000,36,71.0,Henderson,9,Central,Mostly Rural,99.7,8209,796.0,9696.7
+2000,37,73.0,Henry,14,Central,Mostly Rural,50.3,51049,3983.0,7802.3
+2000,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,31320,2821.0,9007.0
+2000,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,59612,10569.0,17729.7
+2000,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,10070,1074.0,10665.3
+2000,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,40053,5345.0,13344.8
+2000,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,21655,1897.0,8760.1
+2000,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22276,1690.0,7586.6
+2000,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12920,1554.0,12027.9
+2000,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,407511,24853.0,6098.7
+2000,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,103879,11518.0,11087.9
+2000,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,55217,1987.0,3598.5
+2000,48,95.0,Knox,9,Central,Mostly Urban,24.3,55754,6107.0,10953.5
+2000,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,648116,35974.0,5550.5
+2000,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,111516,9705.0,8702.8
+2000,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,15390,1868.0,12137.8
+2000,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,36053,2769.0,7680.4
+2000,53,105.0,Livingston,11,Central,Mostly Urban,40.8,39651,3260.0,8221.7
+2000,54,107.0,Logan,11,Central,Mostly Urban,39.9,31149,2800.0,8989.1
+2000,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32855,4437.0,13504.8
+2000,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,261887,9159.0,3497.3
+2000,57,113.0,McLean,11,Central,Mostly Urban,16.5,150897,11484.0,7610.5
+2000,58,115.0,Macon,6,Central,Mostly Urban,15.3,114476,13938.0,12175.5
+2000,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48989,4780.0,9757.3
+2000,60,119.0,Madison,3,Southern,Mostly Urban,13.3,259120,24920.0,9617.2
+2000,61,121.0,Marion,4,Southern,Mostly Urban,45.1,41687,5506.0,13208.0
+2000,62,123.0,Marshall,10,Central,Completely Rural,100.0,13138,971.0,7390.8
+2000,63,125.0,Mason,8,Central,Mostly Rural,77.5,16009,1727.0,10787.7
+2000,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15127,2002.0,13234.6
+2000,65,129.0,Menard,8,Central,Mostly Rural,75.7,12493,1079.0,8636.8
+2000,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16950,1381.0,8147.5
+2000,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,27763,1123.0,4045.0
+2000,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,30625,3691.0,12052.2
+2000,69,137.0,Morgan,7,Central,Mostly Urban,36.2,36617,3687.0,10069.1
+2000,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14319,1130.0,7891.6
+2000,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,51161,3566.0,6970.2
+2000,72,143.0,Peoria,10,Central,Mostly Urban,14.6,183166,21830.0,11918.2
+2000,73,145.0,Perry,20,Southern,Mostly Urban,43.6,23061,2749.0,11920.6
+2000,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16371,965.0,5894.6
+2000,75,149.0,Pike,8,Central,Mostly Rural,72.3,17335,2234.0,12887.2
+2000,76,151.0,Pope,1,Southern,Completely Rural,100.0,4418,628.0,14214.6
+2000,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,7324,1531.0,20903.9
+2000,78,155.0,Putnam,10,Central,Completely Rural,100.0,6075,401.0,6600.8
+2000,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33897,3279.0,9673.4
+2000,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16242,2007.0,12356.9
+2000,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,149143,15081.0,10111.8
+2000,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,256208,33470.0,13063.6
+2000,83,165.0,Saline,1,Southern,Mostly Urban,43.7,26631,4154.0,15598.4
+2000,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,189093,17821.0,9424.5
+2000,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7189,680.0,9458.9
+2000,86,171.0,Scott,7,Central,Completely Rural,100.0,5539,565.0,10200.4
+2000,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22831,2094.0,9171.7
+2000,88,175.0,Stark,10,Central,Completely Rural,100.0,6320,534.0,8449.4
+2000,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,48882,4508.0,9222.2
+2000,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,128494,8815.0,6860.2
+2000,91,181.0,Union,1,Southern,Mostly Rural,65.9,18256,2565.0,14050.2
+2000,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,83796,10565.0,12608.0
+2000,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,12903,1480.0,11470.2
+2000,94,187.0,Warren,9,Central,Mostly Urban,45.5,18683,1897.0,10153.6
+2000,95,189.0,Washington,20,Southern,Mostly Rural,73.6,15163,1036.0,6832.4
+2000,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,17124,2015.0,11767.1
+2000,97,193.0,White,2,Southern,Mostly Rural,62.0,15328,1923.0,12545.7
+2000,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,60631,4966.0,8190.5
+2000,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,508038,27825.0,5477.0
+2000,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,61265,8173.0,13340.4
+2000,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,278989,27613.0,9897.5
+2000,102,203.0,Woodford,11,Central,Mostly Rural,54.9,35484,1821.0,5131.9
+2001,1,1.0,Adams,8,Central,Mostly Urban,32.6,68040,7225.0,10618.8
+2001,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,9443,2120.0,22450.5
+2001,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17608,1725.0,9796.7
+2001,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,43187,2945.0,6819.2
+2001,5,9.0,Brown,8,Central,Mostly Urban,41.1,6935,650.0,9372.7
+2001,6,11.0,Bureau,13,Central,Mostly Rural,57.4,35163,2882.0,8196.1
+2001,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5042,481.0,9539.9
+2001,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16441,1573.0,9567.5
+2001,9,17.0,Cass,8,Central,Mostly Rural,52.1,13670,1374.0,10051.2
+2001,10,19.0,Champaign,6,Central,Mostly Urban,12.7,181346,20039.0,11050.1
+2001,11,21.0,Christian,4,Central,Mostly Urban,43.5,35152,3230.0,9188.7
+2001,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16873,1735.0,10282.7
+2001,13,25.0,Clay,4,Southern,Mostly Rural,64.7,14221,1637.0,11511.1
+2001,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,35630,2398.0,6730.3
+2001,15,29.0,Coles,5,Central,Mostly Urban,24.3,52309,6214.0,11879.4
+2001,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5376559,667981.0,12423.9
+2001,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,20299,2179.0,10734.5
+2001,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,11149,1107.0,9929.1
+2001,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,90838,7123.0,7841.4
+2001,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16726,1500.0,8968.1
+2001,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19916,1597.0,8018.7
+2001,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,914228,38941.0,4259.4
+2001,23,45.0,Edgar,5,Central,Mostly Rural,51.8,19560,2209.0,11293.5
+2001,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6854,671.0,9789.9
+2001,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34358,2782.0,8097.1
+2001,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21512,2747.0,12769.6
+2001,27,53.0,Ford,11,Central,Mostly Urban,41.8,14143,1131.0,7996.9
+2001,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,38784,5767.0,14869.5
+2001,29,57.0,Fulton,9,Central,Mostly Rural,60.0,37847,3869.0,10222.7
+2001,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6306,932.0,14779.6
+2001,31,61.0,Greene,7,Central,Mostly Rural,70.8,14592,1738.0,11910.6
+2001,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,38195,2022.0,5293.9
+2001,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8492,1007.0,11858.2
+2001,34,67.0,Hancock,9,Central,Mostly Rural,71.0,19938,1843.0,9243.7
+2001,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4762,754.0,15833.7
+2001,36,71.0,Henderson,9,Central,Mostly Rural,99.7,8181,820.0,10023.2
+2001,37,73.0,Henry,14,Central,Mostly Rural,50.3,50561,4049.0,8008.1
+2001,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,30938,2797.0,9040.7
+2001,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,59354,10176.0,17144.6
+2001,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,10037,981.0,9773.8
+2001,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,40008,5309.0,13269.8
+2001,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,21708,1912.0,8807.8
+2001,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22391,1756.0,7842.4
+2001,44,87.0,Johnson,1,Southern,Completely Rural,100.0,13020,1503.0,11543.8
+2001,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,423822,27976.0,6600.9
+2001,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,104816,11017.0,10510.8
+2001,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,58093,2165.0,3726.8
+2001,48,95.0,Knox,9,Central,Mostly Urban,24.3,55166,6053.0,10972.3
+2001,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,660454,38033.0,5758.6
+2001,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,111976,9988.0,8919.8
+2001,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,15271,1844.0,12075.2
+2001,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,35913,2852.0,7941.4
+2001,53,105.0,Livingston,11,Central,Mostly Urban,40.8,39634,3180.0,8023.4
+2001,54,107.0,Logan,11,Central,Mostly Urban,39.9,30880,2898.0,9384.7
+2001,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32800,4587.0,13984.8
+2001,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,269976,9467.0,3506.6
+2001,57,113.0,McLean,11,Central,Mostly Urban,16.5,152622,11492.0,7529.7
+2001,58,115.0,Macon,6,Central,Mostly Urban,15.3,113307,13334.0,11768.0
+2001,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48829,4727.0,9680.7
+2001,60,119.0,Madison,3,Southern,Mostly Urban,13.3,260460,23915.0,9181.8
+2001,61,121.0,Marion,4,Southern,Mostly Urban,45.1,41365,5442.0,13156.0
+2001,62,123.0,Marshall,10,Central,Completely Rural,100.0,12920,951.0,7360.7
+2001,63,125.0,Mason,8,Central,Mostly Rural,77.5,15966,1690.0,10585.0
+2001,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15022,1974.0,13140.7
+2001,65,129.0,Menard,8,Central,Mostly Rural,75.7,12482,1002.0,8027.6
+2001,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16898,1365.0,8077.9
+2001,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,28373,1152.0,4060.2
+2001,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,30454,3468.0,11387.7
+2001,69,137.0,Morgan,7,Central,Mostly Urban,36.2,36293,3645.0,10043.3
+2001,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14274,1184.0,8294.8
+2001,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,51620,3716.0,7198.8
+2001,72,143.0,Peoria,10,Central,Mostly Urban,14.6,182235,21274.0,11673.9
+2001,73,145.0,Perry,20,Southern,Mostly Urban,43.6,23019,2676.0,11625.2
+2001,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16324,922.0,5648.1
+2001,75,149.0,Pike,8,Central,Mostly Rural,72.3,17166,2168.0,12629.6
+2001,76,151.0,Pope,1,Southern,Completely Rural,100.0,4331,607.0,14015.2
+2001,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,7181,1445.0,20122.5
+2001,78,155.0,Putnam,10,Central,Completely Rural,100.0,6062,405.0,6681.0
+2001,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,34005,3299.0,9701.5
+2001,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16072,1917.0,11927.6
+2001,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,148641,15058.0,10130.4
+2001,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,255922,31550.0,12328.0
+2001,83,165.0,Saline,1,Southern,Mostly Urban,43.7,26370,4034.0,15297.7
+2001,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,190303,17461.0,9175.4
+2001,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7031,636.0,9045.7
+2001,86,171.0,Scott,7,Central,Completely Rural,100.0,5511,513.0,9308.7
+2001,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22613,2056.0,9092.1
+2001,88,175.0,Stark,10,Central,Completely Rural,100.0,6302,549.0,8711.5
+2001,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,48443,4534.0,9359.5
+2001,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,128132,8667.0,6764.1
+2001,91,181.0,Union,1,Southern,Mostly Rural,65.9,18121,2395.0,13216.7
+2001,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,83447,10372.0,12429.4
+2001,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,12758,1394.0,10926.5
+2001,94,187.0,Warren,9,Central,Mostly Urban,45.5,18446,1921.0,10414.2
+2001,95,189.0,Washington,20,Southern,Mostly Rural,73.6,15236,1069.0,7016.3
+2001,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,17026,2061.0,12105.0
+2001,97,193.0,White,2,Southern,Mostly Rural,62.0,15264,1856.0,12159.3
+2001,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,60557,5100.0,8421.8
+2001,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,531215,30497.0,5741.0
+2001,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,61736,8012.0,12977.8
+2001,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,280805,28878.0,10284.0
+2001,102,203.0,Woodford,11,Central,Mostly Rural,54.9,35557,1961.0,5515.1
+2002,1,1.0,Adams,8,Central,Mostly Urban,32.6,67765,7743.0,11426.3
+2002,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,9398,2198.0,23388.0
+2002,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17794,1867.0,10492.3
+2002,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,44508,3340.0,7504.3
+2002,5,9.0,Brown,8,Central,Mostly Urban,41.1,6831,746.0,10920.8
+2002,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34995,3005.0,8586.9
+2002,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,4974,461.0,9268.2
+2002,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16365,1614.0,9862.5
+2002,9,17.0,Cass,8,Central,Mostly Rural,52.1,13531,1450.0,10716.1
+2002,10,19.0,Champaign,6,Central,Mostly Urban,12.7,183102,22055.0,12045.2
+2002,11,21.0,Christian,4,Central,Mostly Urban,43.5,35022,3476.0,9925.2
+2002,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16904,1881.0,11127.5
+2002,13,25.0,Clay,4,Southern,Mostly Rural,64.7,14147,1741.0,12306.5
+2002,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,35719,2472.0,6920.7
+2002,15,29.0,Coles,5,Central,Mostly Urban,24.3,52013,6634.0,12754.5
+2002,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5355574,769079.0,14360.3
+2002,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,20086,2237.0,11137.1
+2002,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,11051,1102.0,9971.9
+2002,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,92449,8005.0,8658.8
+2002,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16546,1565.0,9458.5
+2002,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19825,1698.0,8564.9
+2002,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,918864,48728.0,5303.1
+2002,23,45.0,Edgar,5,Central,Mostly Rural,51.8,19339,2333.0,12063.7
+2002,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6799,694.0,10207.4
+2002,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34309,3008.0,8767.4
+2002,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21490,2832.0,13178.2
+2002,27,53.0,Ford,11,Central,Mostly Urban,41.8,14087,1186.0,8419.1
+2002,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,38842,5985.0,15408.6
+2002,29,57.0,Fulton,9,Central,Mostly Rural,60.0,37488,4205.0,11216.9
+2002,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6175,992.0,16064.8
+2002,31,61.0,Greene,7,Central,Mostly Rural,70.8,14588,1847.0,12661.1
+2002,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,38624,2213.0,5729.6
+2002,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8370,1070.0,12783.8
+2002,34,67.0,Hancock,9,Central,Mostly Rural,71.0,19590,1971.0,10061.3
+2002,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4701,788.0,16762.4
+2002,36,71.0,Henderson,9,Central,Mostly Rural,99.7,8103,865.0,10675.1
+2002,37,73.0,Henry,14,Central,Mostly Rural,50.3,50166,4171.0,8314.4
+2002,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,30698,3028.0,9863.8
+2002,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,58577,10937.0,18671.2
+2002,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9972,984.0,9867.6
+2002,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,40028,5793.0,14472.4
+2002,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,21898,2021.0,9229.2
+2002,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22305,1813.0,8128.2
+2002,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12715,1607.0,12638.6
+2002,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,440157,32278.0,7333.3
+2002,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,105416,12078.0,11457.5
+2002,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,61755,2583.0,4182.7
+2002,48,95.0,Knox,9,Central,Mostly Urban,24.3,54650,6679.0,12221.4
+2002,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,671443,43004.0,6404.7
+2002,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,111504,10915.0,9788.9
+2002,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16042,1922.0,11981.0
+2002,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,35477,2974.0,8382.9
+2002,53,105.0,Livingston,11,Central,Mostly Urban,40.8,39111,3453.0,8828.7
+2002,54,107.0,Logan,11,Central,Mostly Urban,39.9,30713,3034.0,9878.6
+2002,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32813,4927.0,15015.4
+2002,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,278222,11998.0,4312.4
+2002,57,113.0,McLean,11,Central,Mostly Urban,16.5,155630,12667.0,8139.2
+2002,58,115.0,Macon,6,Central,Mostly Urban,15.3,111980,14677.0,13106.8
+2002,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48769,4880.0,10006.4
+2002,60,119.0,Madison,3,Southern,Mostly Urban,13.3,261346,26169.0,10013.2
+2002,61,121.0,Marion,4,Southern,Mostly Urban,45.1,40893,6029.0,14743.4
+2002,62,123.0,Marshall,10,Central,Completely Rural,100.0,12941,1020.0,7881.9
+2002,63,125.0,Mason,8,Central,Mostly Rural,77.5,15851,1775.0,11198.0
+2002,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15103,1938.0,12831.9
+2002,65,129.0,Menard,8,Central,Mostly Rural,75.7,12473,994.0,7969.2
+2002,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16872,1382.0,8191.1
+2002,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,29195,1201.0,4113.7
+2002,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,30440,3586.0,11780.6
+2002,69,137.0,Morgan,7,Central,Mostly Urban,36.2,36064,3915.0,10855.7
+2002,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14267,1237.0,8670.4
+2002,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,52138,4152.0,7963.5
+2002,72,143.0,Peoria,10,Central,Mostly Urban,14.6,182453,22897.0,12549.5
+2002,73,145.0,Perry,20,Southern,Mostly Urban,43.6,22719,2799.0,12320.1
+2002,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16162,1020.0,6311.1
+2002,75,149.0,Pike,8,Central,Mostly Rural,72.3,16986,2193.0,12910.6
+2002,76,151.0,Pope,1,Southern,Completely Rural,100.0,4292,626.0,14585.3
+2002,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,7083,1492.0,21064.5
+2002,78,155.0,Putnam,10,Central,Completely Rural,100.0,6068,432.0,7119.3
+2002,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33273,3502.0,10525.1
+2002,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16155,1954.0,12095.3
+2002,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,148140,16141.0,10895.8
+2002,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,257123,34510.0,13421.6
+2002,83,165.0,Saline,1,Southern,Mostly Urban,43.7,26269,4257.0,16205.4
+2002,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,191486,18969.0,9906.2
+2002,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,6998,674.0,9631.3
+2002,86,171.0,Scott,7,Central,Completely Rural,100.0,5452,558.0,10234.8
+2002,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22490,2203.0,9795.5
+2002,88,175.0,Stark,10,Central,Completely Rural,100.0,6255,580.0,9272.6
+2002,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,48034,4990.0,10388.5
+2002,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,128107,9569.0,7469.5
+2002,91,181.0,Union,1,Southern,Mostly Rural,65.9,18108,2472.0,13651.4
+2002,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,82909,11275.0,13599.2
+2002,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,12633,1419.0,11232.5
+2002,94,187.0,Warren,9,Central,Mostly Urban,45.5,18327,2035.0,11103.8
+2002,95,189.0,Washington,20,Southern,Mostly Rural,73.6,15084,1185.0,7856.0
+2002,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16914,2103.0,12433.5
+2002,97,193.0,White,2,Southern,Mostly Rural,62.0,15100,1954.0,12940.4
+2002,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,60092,5427.0,9031.2
+2002,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,555566,36024.0,6484.2
+2002,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,62089,8415.0,13553.1
+2002,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,282572,33203.0,11750.3
+2002,102,203.0,Woodford,11,Central,Mostly Rural,54.9,35698,2079.0,5823.9
+2003,1,1.0,Adams,8,Central,Mostly Urban,32.6,67188,7222.0,10748.9
+2003,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,9038,1940.0,21464.9
+2003,3,5.0,Bond,3,Southern,Mostly Rural,60.7,18062,1687.0,9340.1
+2003,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,46089,3699.0,8025.8
+2003,5,9.0,Brown,8,Central,Mostly Urban,41.1,6847,562.0,8208.0
+2003,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34958,2992.0,8558.8
+2003,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5097,444.0,8711.0
+2003,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16328,1573.0,9633.8
+2003,9,17.0,Cass,8,Central,Mostly Rural,52.1,13642,1426.0,10453.0
+2003,10,19.0,Champaign,6,Central,Mostly Urban,12.7,185280,21419.0,11560.3
+2003,11,21.0,Christian,4,Central,Mostly Urban,43.5,34944,3543.0,10139.1
+2003,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16819,1723.0,10244.4
+2003,13,25.0,Clay,4,Southern,Mostly Rural,64.7,14065,1627.0,11567.7
+2003,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,35839,2512.0,7009.1
+2003,15,29.0,Coles,5,Central,Mostly Urban,24.3,52337,6341.0,12115.7
+2003,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5330484,767945.0,14406.7
+2003,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19920,2182.0,10953.8
+2003,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10912,1094.0,10025.7
+2003,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,94804,8137.0,8583.0
+2003,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16494,1615.0,9791.4
+2003,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19729,1587.0,8044.0
+2003,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,920457,53746.0,5839.1
+2003,23,45.0,Edgar,5,Central,Mostly Rural,51.8,19124,2133.0,11153.5
+2003,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6792,615.0,9054.8
+2003,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34422,3040.0,8831.6
+2003,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21086,2616.0,12406.3
+2003,27,53.0,Ford,11,Central,Mostly Urban,41.8,14034,1121.0,7987.7
+2003,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,38958,5770.0,14810.8
+2003,29,57.0,Fulton,9,Central,Mostly Rural,60.0,37516,3973.0,10590.1
+2003,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6148,975.0,15858.8
+2003,31,61.0,Greene,7,Central,Mostly Rural,70.8,14339,1737.0,12113.8
+2003,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,39414,2462.0,6246.5
+2003,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8318,1011.0,12154.4
+2003,34,67.0,Hancock,9,Central,Mostly Rural,71.0,19386,1878.0,9687.4
+2003,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4737,682.0,14397.3
+2003,36,71.0,Henderson,9,Central,Mostly Rural,99.7,7944,817.0,10284.5
+2003,37,73.0,Henry,14,Central,Mostly Rural,50.3,50263,4187.0,8330.2
+2003,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,30539,2963.0,9702.3
+2003,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,58750,10325.0,17574.5
+2003,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9900,1005.0,10151.5
+2003,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,40028,5221.0,13043.4
+2003,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,21938,1808.0,8241.4
+2003,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22430,1694.0,7552.4
+2003,44,87.0,Johnson,1,Southern,Completely Rural,100.0,13445,1356.0,10085.5
+2003,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,453855,34646.0,7633.7
+2003,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,106096,11722.0,11048.5
+2003,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,66868,2992.0,4474.5
+2003,48,95.0,Knox,9,Central,Mostly Urban,24.3,53939,6344.0,11761.4
+2003,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,676086,46414.0,6865.1
+2003,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,110468,11164.0,10106.1
+2003,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16407,1849.0,11269.6
+2003,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,35096,2942.0,8382.7
+2003,53,105.0,Livingston,11,Central,Mostly Urban,40.8,38572,3503.0,9081.7
+2003,54,107.0,Logan,11,Central,Mostly Urban,39.9,30486,2788.0,9145.2
+2003,55,109.0,McDonough,9,Central,Mostly Urban,29.5,33001,4360.0,13211.7
+2003,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,286909,13095.0,4564.2
+2003,57,113.0,McLean,11,Central,Mostly Urban,16.5,157257,13813.0,8783.7
+2003,58,115.0,Macon,6,Central,Mostly Urban,15.3,110656,14530.0,13130.8
+2003,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48709,4946.0,10154.2
+2003,60,119.0,Madison,3,Southern,Mostly Urban,13.3,263023,27617.0,10499.8
+2003,61,121.0,Marion,4,Southern,Mostly Urban,45.1,40454,5374.0,13284.2
+2003,62,123.0,Marshall,10,Central,Completely Rural,100.0,12905,1015.0,7865.2
+2003,63,125.0,Mason,8,Central,Mostly Rural,77.5,15711,1733.0,11030.5
+2003,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15043,1992.0,13242.0
+2003,65,129.0,Menard,8,Central,Mostly Rural,75.7,12473,1066.0,8546.5
+2003,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16751,1452.0,8668.1
+2003,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,29936,1231.0,4112.1
+2003,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,30176,3480.0,11532.3
+2003,69,137.0,Morgan,7,Central,Mostly Urban,36.2,35958,3855.0,10720.8
+2003,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14284,1171.0,8198.0
+2003,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,52808,4267.0,8080.2
+2003,72,143.0,Peoria,10,Central,Mostly Urban,14.6,181901,23654.0,13003.8
+2003,73,145.0,Perry,20,Southern,Mostly Urban,43.6,22618,2699.0,11933.0
+2003,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16287,983.0,6035.5
+2003,75,149.0,Pike,8,Central,Mostly Rural,72.3,16790,2053.0,12227.5
+2003,76,151.0,Pope,1,Southern,Completely Rural,100.0,4612,598.0,12966.2
+2003,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,6946,1341.0,19306.1
+2003,78,155.0,Putnam,10,Central,Completely Rural,100.0,6074,397.0,6536.1
+2003,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33064,3396.0,10271.0
+2003,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16049,1884.0,11739.0
+2003,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,147044,16635.0,11312.9
+2003,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,257753,36914.0,14321.5
+2003,83,165.0,Saline,1,Southern,Mostly Urban,43.7,26112,3769.0,14434.0
+2003,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,191850,19160.0,9987.0
+2003,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,6974,658.0,9435.0
+2003,86,171.0,Scott,7,Central,Completely Rural,100.0,5429,514.0,9467.7
+2003,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22370,2086.0,9325.0
+2003,88,175.0,Stark,10,Central,Completely Rural,100.0,6174,557.0,9021.7
+2003,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,47996,4881.0,10169.6
+2003,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,127768,10228.0,8005.1
+2003,91,181.0,Union,1,Southern,Mostly Rural,65.9,18137,2459.0,13557.9
+2003,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,82364,11215.0,13616.4
+2003,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,12541,1426.0,11370.7
+2003,94,187.0,Warren,9,Central,Mostly Urban,45.5,18114,1835.0,10130.3
+2003,95,189.0,Washington,20,Southern,Mostly Rural,73.6,15110,1077.0,7127.7
+2003,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16791,2010.0,11970.7
+2003,97,193.0,White,2,Southern,Mostly Rural,62.0,14948,1798.0,12028.4
+2003,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,59546,5567.0,9349.1
+2003,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,580392,40197.0,6925.8
+2003,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,62315,8362.0,13418.9
+2003,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,285120,34686.0,12165.4
+2003,102,203.0,Woodford,11,Central,Mostly Rural,54.9,36021,2173.0,6032.6
+2004,1,1.0,Adams,8,Central,Mostly Urban,32.6,66724,7278.0,10907.6
+2004,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,8938,2007.0,22454.7
+2004,3,5.0,Bond,3,Southern,Mostly Rural,60.7,18243,1765.0,9674.9
+2004,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,47693,3957.0,8296.8
+2004,5,9.0,Brown,8,Central,Mostly Urban,41.1,6777,602.0,8883.0
+2004,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34786,3100.0,8911.6
+2004,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5104,457.0,8953.8
+2004,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16179,1613.0,9969.7
+2004,9,17.0,Cass,8,Central,Mostly Rural,52.1,13593,1464.0,10770.2
+2004,10,19.0,Champaign,6,Central,Mostly Urban,12.7,186361,22790.0,12229.0
+2004,11,21.0,Christian,4,Central,Mostly Urban,43.5,35010,3717.0,10617.0
+2004,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16803,1783.0,10611.2
+2004,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13974,1673.0,11972.2
+2004,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,35955,2589.0,7200.7
+2004,15,29.0,Coles,5,Central,Mostly Urban,24.3,52381,6873.0,13121.2
+2004,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5302421,798672.0,15062.4
+2004,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19820,2208.0,11140.3
+2004,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10895,1122.0,10298.3
+2004,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,97079,8624.0,8883.5
+2004,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16421,1692.0,10303.9
+2004,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19738,1618.0,8197.4
+2004,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,922962,55088.0,5968.6
+2004,23,45.0,Edgar,5,Central,Mostly Rural,51.8,19046,2248.0,11803.0
+2004,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6706,637.0,9499.0
+2004,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34520,3176.0,9200.5
+2004,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,20597,2725.0,13230.1
+2004,27,53.0,Ford,11,Central,Mostly Urban,41.8,14049,1122.0,7986.3
+2004,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39149,6047.0,15446.1
+2004,29,57.0,Fulton,9,Central,Mostly Rural,60.0,37372,4252.0,11377.5
+2004,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6108,988.0,16175.5
+2004,31,61.0,Greene,7,Central,Mostly Rural,70.8,14163,1789.0,12631.5
+2004,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,40862,2639.0,6458.3
+2004,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8372,1028.0,12279.0
+2004,34,67.0,Hancock,9,Central,Mostly Rural,71.0,19215,1844.0,9596.7
+2004,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4673,696.0,14894.1
+2004,36,71.0,Henderson,9,Central,Mostly Rural,99.7,7915,827.0,10448.5
+2004,37,73.0,Henry,14,Central,Mostly Rural,50.3,49925,4106.0,8224.3
+2004,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,30318,3059.0,10089.7
+2004,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,58711,10723.0,18264.0
+2004,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9916,1000.0,10084.7
+2004,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,40034,5287.0,13206.3
+2004,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22127,1851.0,8365.3
+2004,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22298,1748.0,7839.3
+2004,44,87.0,Johnson,1,Southern,Completely Rural,100.0,13506,1471.0,10891.5
+2004,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,466937,37975.0,8132.8
+2004,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,107424,12402.0,11544.9
+2004,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,72336,3285.0,4541.3
+2004,48,95.0,Knox,9,Central,Mostly Urban,24.3,53290,6661.0,12499.5
+2004,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,684394,49015.0,7161.8
+2004,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,111407,10825.0,9716.6
+2004,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16460,1918.0,11652.5
+2004,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,35072,3097.0,8830.4
+2004,53,105.0,Livingston,11,Central,Mostly Urban,40.8,38462,3684.0,9578.3
+2004,54,107.0,Logan,11,Central,Mostly Urban,39.9,30452,2819.0,9257.2
+2004,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32838,4418.0,13453.9
+2004,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,294351,13825.0,4696.8
+2004,57,113.0,McLean,11,Central,Mostly Urban,16.5,158395,14941.0,9432.7
+2004,58,115.0,Macon,6,Central,Mostly Urban,15.3,109987,15361.0,13966.2
+2004,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48633,5090.0,10466.1
+2004,60,119.0,Madison,3,Southern,Mostly Urban,13.3,264032,29155.0,11042.2
+2004,61,121.0,Marion,4,Southern,Mostly Urban,45.1,40035,5339.0,13335.8
+2004,62,123.0,Marshall,10,Central,Completely Rural,100.0,12997,1048.0,8063.4
+2004,63,125.0,Mason,8,Central,Mostly Rural,77.5,15660,1769.0,11296.3
+2004,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15232,2089.0,13714.5
+2004,65,129.0,Menard,8,Central,Mostly Rural,75.7,12516,1108.0,8852.7
+2004,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16689,1442.0,8640.4
+2004,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,30659,1247.0,4067.3
+2004,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,30144,3613.0,11985.8
+2004,69,137.0,Morgan,7,Central,Mostly Urban,36.2,35978,4051.0,11259.7
+2004,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14324,1183.0,8258.9
+2004,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,53358,4665.0,8742.8
+2004,72,143.0,Peoria,10,Central,Mostly Urban,14.6,182034,23293.0,12796.0
+2004,73,145.0,Perry,20,Southern,Mostly Urban,43.6,22606,2823.0,12487.8
+2004,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16347,1059.0,6478.3
+2004,75,149.0,Pike,8,Central,Mostly Rural,72.3,16796,2085.0,12413.7
+2004,76,151.0,Pope,1,Southern,Completely Rural,100.0,4229,634.0,14991.7
+2004,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,6825,1354.0,19838.8
+2004,78,155.0,Putnam,10,Central,Completely Rural,100.0,6014,387.0,6435.0
+2004,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33241,3545.0,10664.5
+2004,80,159.0,Richland,2,Southern,Mostly Urban,43.5,15934,1938.0,12162.7
+2004,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,146817,17278.0,11768.4
+2004,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,258406,38406.0,14862.7
+2004,83,165.0,Saline,1,Southern,Mostly Urban,43.7,26128,4031.0,15427.9
+2004,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,192270,19776.0,10285.5
+2004,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7024,706.0,10051.3
+2004,86,171.0,Scott,7,Central,Completely Rural,100.0,5368,528.0,9836.1
+2004,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22156,2096.0,9460.2
+2004,88,175.0,Stark,10,Central,Completely Rural,100.0,6141,566.0,9216.7
+2004,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,47822,5124.0,10714.7
+2004,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,128349,10919.0,8507.3
+2004,91,181.0,Union,1,Southern,Mostly Rural,65.9,18076,2537.0,14035.2
+2004,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,82136,11863.0,14443.1
+2004,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,12458,1475.0,11839.8
+2004,94,187.0,Warren,9,Central,Mostly Urban,45.5,17758,1857.0,10457.3
+2004,95,189.0,Washington,20,Southern,Mostly Rural,73.6,15002,1061.0,7072.4
+2004,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16673,2028.0,12163.4
+2004,97,193.0,White,2,Southern,Mostly Rural,62.0,15010,1903.0,12678.2
+2004,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,59433,5722.0,9627.6
+2004,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,608245,42183.0,6935.2
+2004,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,63064,8533.0,13530.7
+2004,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,286929,36226.0,12625.4
+2004,102,203.0,Woodford,11,Central,Mostly Rural,54.9,36503,2201.0,6029.6
+2005,1,1.0,Adams,8,Central,Mostly Urban,32.6,66750,7172.0,10744.6
+2005,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,8629,2826.0,32750.0
+2005,3,5.0,Bond,3,Southern,Mostly Rural,60.7,18120,1991.0,10987.9
+2005,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,49455,3981.0,8049.7
+2005,5,9.0,Brown,8,Central,Mostly Urban,41.1,6681,671.0,10043.4
+2005,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34756,3491.0,10044.3
+2005,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5117,529.0,10338.1
+2005,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,16001,1725.0,10780.6
+2005,9,17.0,Cass,8,Central,Mostly Rural,52.1,13602,1605.0,11799.7
+2005,10,19.0,Champaign,6,Central,Mostly Urban,12.7,187870,29800.0,15862.0
+2005,11,21.0,Christian,4,Central,Mostly Urban,43.5,34786,3770.0,10837.7
+2005,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16827,1980.0,11766.8
+2005,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13924,1806.0,12970.4
+2005,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,35987,2534.0,7041.4
+2005,15,29.0,Coles,5,Central,Mostly Urban,24.3,52038,8892.0,17087.5
+2005,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5268513,780189.0,14808.5
+2005,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19754,2494.0,12625.3
+2005,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10841,1172.0,10810.8
+2005,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,99485,12952.0,13019.0
+2005,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16400,1595.0,9725.6
+2005,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19652,1462.0,7439.4
+2005,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,922589,45560.0,4938.3
+2005,23,45.0,Edgar,5,Central,Mostly Rural,51.8,18946,2415.0,12746.8
+2005,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6647,705.0,10606.3
+2005,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34384,3139.0,9129.2
+2005,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21139,3048.0,14418.8
+2005,27,53.0,Ford,11,Central,Mostly Urban,41.8,13975,1248.0,8930.2
+2005,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39381,6517.0,16548.6
+2005,29,57.0,Fulton,9,Central,Mostly Rural,60.0,37121,4245.0,11435.6
+2005,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6069,1146.0,18882.8
+2005,31,61.0,Greene,7,Central,Mostly Rural,70.8,14102,1945.0,13792.4
+2005,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,43443,2303.0,5301.2
+2005,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8277,1115.0,13471.1
+2005,34,67.0,Hancock,9,Central,Mostly Rural,71.0,19036,2061.0,10826.9
+2005,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4617,855.0,18518.5
+2005,36,71.0,Henderson,9,Central,Mostly Rural,99.7,7780,927.0,11915.2
+2005,37,73.0,Henry,14,Central,Mostly Rural,50.3,49838,5129.0,10291.3
+2005,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,30331,3143.0,10362.3
+2005,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,59095,15281.0,25858.4
+2005,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9787,1076.0,10994.2
+2005,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,40097,5896.0,14704.3
+2005,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22181,1760.0,7934.7
+2005,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22244,2003.0,9004.7
+2005,44,87.0,Johnson,1,Southern,Completely Rural,100.0,13486,1607.0,11916.1
+2005,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,475350,40414.0,8501.9
+2005,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,108453,13510.0,12457.0
+2005,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,79054,2431.0,3075.1
+2005,48,95.0,Knox,9,Central,Mostly Urban,24.3,52729,7162.0,13582.7
+2005,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,691815,48048.0,6945.2
+2005,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,111660,12793.0,11457.1
+2005,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16730,2163.0,12928.9
+2005,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,34863,3017.0,8653.9
+2005,53,105.0,Livingston,11,Central,Mostly Urban,40.8,38236,3481.0,9104.0
+2005,54,107.0,Logan,11,Central,Mostly Urban,39.9,30211,2962.0,9804.4
+2005,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32930,5596.0,16993.6
+2005,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,301741,13922.0,4613.9
+2005,57,113.0,McLean,11,Central,Mostly Urban,16.5,159374,16664.0,10455.9
+2005,58,115.0,Macon,6,Central,Mostly Urban,15.3,109582,16121.0,14711.4
+2005,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48416,4940.0,10203.2
+2005,60,119.0,Madison,3,Southern,Mostly Urban,13.3,264911,28253.0,10665.1
+2005,61,121.0,Marion,4,Southern,Mostly Urban,45.1,39688,6277.0,15815.9
+2005,62,123.0,Marshall,10,Central,Completely Rural,100.0,12934,1034.0,7994.4
+2005,63,125.0,Mason,8,Central,Mostly Rural,77.5,15450,2198.0,14226.5
+2005,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15211,2462.0,16185.7
+2005,65,129.0,Menard,8,Central,Mostly Rural,75.7,12394,1166.0,9407.8
+2005,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16554,1342.0,8106.8
+2005,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,31300,1177.0,3760.4
+2005,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,29958,4259.0,14216.6
+2005,69,137.0,Morgan,7,Central,Mostly Urban,36.2,35662,4384.0,12293.2
+2005,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14338,1328.0,9262.1
+2005,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,53935,4500.0,8343.4
+2005,72,143.0,Peoria,10,Central,Mostly Urban,14.6,182105,22272.0,12230.3
+2005,73,145.0,Perry,20,Southern,Mostly Urban,43.6,22569,3290.0,14577.5
+2005,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16495,1017.0,6165.5
+2005,75,149.0,Pike,8,Central,Mostly Rural,72.3,16719,2343.0,14014.0
+2005,76,151.0,Pope,1,Southern,Completely Rural,100.0,4107,690.0,16800.6
+2005,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,6663,1856.0,27855.3
+2005,78,155.0,Putnam,10,Central,Completely Rural,100.0,5973,402.0,6730.3
+2005,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33015,3759.0,11385.7
+2005,80,159.0,Richland,2,Southern,Mostly Urban,43.5,15841,2374.0,14986.4
+2005,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,146451,19115.0,13052.1
+2005,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,258849,33041.0,12764.6
+2005,83,165.0,Saline,1,Southern,Mostly Urban,43.7,25961,5110.0,19683.4
+2005,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,192622,21079.0,10943.2
+2005,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7065,777.0,10997.9
+2005,86,171.0,Scott,7,Central,Completely Rural,100.0,5333,566.0,10613.2
+2005,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22033,2295.0,10416.2
+2005,88,175.0,Stark,10,Central,Completely Rural,100.0,6094,627.0,10288.8
+2005,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,47290,5010.0,10594.2
+2005,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,129176,11046.0,8551.1
+2005,91,181.0,Union,1,Southern,Mostly Rural,65.9,18100,2878.0,15900.6
+2005,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,81696,14435.0,17669.2
+2005,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,12412,1829.0,14735.7
+2005,94,187.0,Warren,9,Central,Mostly Urban,45.5,17704,2160.0,12200.6
+2005,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14820,1138.0,7678.8
+2005,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16640,2465.0,14813.7
+2005,97,193.0,White,2,Southern,Mostly Rural,62.0,14975,2085.0,13923.2
+2005,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,59175,6338.0,10710.6
+2005,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,631397,33952.0,5377.3
+2005,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,63493,7982.0,12571.5
+2005,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,289422,33725.0,11652.5
+2005,102,203.0,Woodford,11,Central,Mostly Rural,54.9,37025,1977.0,5339.6
+2006,1,1.0,Adams,8,Central,Mostly Urban,32.6,66922,7548.0,11278.8
+2006,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,8410,2157.0,25648.0
+2006,3,5.0,Bond,3,Southern,Mostly Rural,60.7,18143,2261.0,12462.1
+2006,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,51472,4566.0,8870.8
+2006,5,9.0,Brown,8,Central,Mostly Urban,41.1,6601,622.0,9422.8
+2006,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34914,3740.0,10712.0
+2006,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5121,551.0,10759.6
+2006,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,15972,1626.0,10180.3
+2006,9,17.0,Cass,8,Central,Mostly Rural,52.1,13529,1781.0,13164.3
+2006,10,19.0,Champaign,6,Central,Mostly Urban,12.7,190599,32582.0,17094.5
+2006,11,21.0,Christian,4,Central,Mostly Urban,43.5,34642,4711.0,13599.1
+2006,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16786,1993.0,11873.0
+2006,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13815,2140.0,15490.4
+2006,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,36202,2951.0,8151.5
+2006,15,29.0,Coles,5,Central,Mostly Urban,24.3,52238,8342.0,15969.2
+2006,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5236986,798833.0,15253.7
+2006,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19619,2847.0,14511.4
+2006,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10856,1292.0,11901.3
+2006,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,102752,11755.0,11440.2
+2006,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16419,1863.0,11346.6
+2006,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19580,1871.0,9555.7
+2006,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,922190,46353.0,5026.4
+2006,23,45.0,Edgar,5,Central,Mostly Rural,51.8,18900,2387.0,12629.6
+2006,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6520,769.0,11794.5
+2006,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34315,3240.0,9441.9
+2006,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21086,3594.0,17044.5
+2006,27,53.0,Ford,11,Central,Mostly Urban,41.8,13957,1227.0,8791.3
+2006,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39309,7489.0,19051.6
+2006,29,57.0,Fulton,9,Central,Mostly Rural,60.0,36984,4866.0,13157.0
+2006,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,6026,1168.0,19382.7
+2006,31,61.0,Greene,7,Central,Mostly Rural,70.8,13862,2120.0,15293.6
+2006,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,45602,2586.0,5670.8
+2006,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8264,1325.0,16033.4
+2006,34,67.0,Hancock,9,Central,Mostly Rural,71.0,18893,2017.0,10675.9
+2006,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4506,793.0,17598.8
+2006,36,71.0,Henderson,9,Central,Mostly Rural,99.7,7602,890.0,11707.4
+2006,37,73.0,Henry,14,Central,Mostly Rural,50.3,49526,4652.0,9393.0
+2006,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,30063,2776.0,9233.9
+2006,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,59064,13547.0,22936.1
+2006,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9669,1154.0,11935.1
+2006,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,40109,5692.0,14191.3
+2006,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22354,1947.0,8709.9
+2006,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22309,1970.0,8830.5
+2006,44,87.0,Johnson,1,Southern,Completely Rural,100.0,13687,1881.0,13743.0
+2006,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,485142,40493.0,8346.6
+2006,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,110108,14815.0,13455.0
+2006,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,87864,3392.0,3860.5
+2006,48,95.0,Knox,9,Central,Mostly Urban,24.3,52300,7639.0,14606.1
+2006,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,698305,41774.0,5982.2
+2006,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,112075,12326.0,10998.0
+2006,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16489,2411.0,14621.9
+2006,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,34963,3409.0,9750.3
+2006,53,105.0,Livingston,11,Central,Mostly Urban,40.8,37997,3953.0,10403.5
+2006,54,107.0,Logan,11,Central,Mostly Urban,39.9,29938,2976.0,9940.5
+2006,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32968,6097.0,18493.7
+2006,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,309214,16432.0,5314.1
+2006,57,113.0,McLean,11,Central,Mostly Urban,16.5,161802,17838.0,11024.6
+2006,58,115.0,Macon,6,Central,Mostly Urban,15.3,109025,17353.0,15916.5
+2006,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48165,5437.0,11288.3
+2006,60,119.0,Madison,3,Southern,Mostly Urban,13.3,266119,31579.0,11866.5
+2006,61,121.0,Marion,4,Southern,Mostly Urban,45.1,39736,6701.0,16863.8
+2006,62,123.0,Marshall,10,Central,Completely Rural,100.0,12877,1190.0,9241.3
+2006,63,125.0,Mason,8,Central,Mostly Rural,77.5,15129,1854.0,12254.6
+2006,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15085,2026.0,13430.6
+2006,65,129.0,Menard,8,Central,Mostly Rural,75.7,12376,1095.0,8847.8
+2006,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16478,1524.0,9248.7
+2006,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,31944,1333.0,4172.9
+2006,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,29959,3617.0,12073.2
+2006,69,137.0,Morgan,7,Central,Mostly Urban,36.2,35435,4599.0,12978.7
+2006,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14270,1409.0,9873.9
+2006,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,54621,4072.0,7455.0
+2006,72,143.0,Peoria,10,Central,Mostly Urban,14.6,182550,24130.0,13218.3
+2006,73,145.0,Perry,20,Southern,Mostly Urban,43.6,22667,2738.0,12079.2
+2006,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16500,1201.0,7278.8
+2006,75,149.0,Pike,8,Central,Mostly Rural,72.3,16460,2349.0,14271.0
+2006,76,151.0,Pope,1,Southern,Completely Rural,100.0,4110,716.0,17420.9
+2006,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,6518,1628.0,24977.0
+2006,78,155.0,Putnam,10,Central,Completely Rural,100.0,5925,444.0,7493.7
+2006,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33001,3549.0,10754.2
+2006,80,159.0,Richland,2,Southern,Mostly Urban,43.5,15678,2240.0,14287.5
+2006,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,146341,19384.0,13245.8
+2006,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,260503,33252.0,12764.5
+2006,83,165.0,Saline,1,Southern,Mostly Urban,43.7,25996,5299.0,20383.9
+2006,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,193305,23736.0,12279.0
+2006,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,6987,783.0,11206.5
+2006,86,171.0,Scott,7,Central,Completely Rural,100.0,5248,632.0,12042.7
+2006,87,173.0,Shelby,4,Central,Mostly Rural,77.7,21890,2324.0,10616.7
+2006,88,175.0,Stark,10,Central,Completely Rural,100.0,6106,645.0,10563.4
+2006,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,46957,6052.0,12888.4
+2006,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,129837,11203.0,8628.5
+2006,91,181.0,Union,1,Southern,Mostly Rural,65.9,18118,2894.0,15973.1
+2006,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,81502,13883.0,17033.9
+2006,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,12306,1682.0,13668.1
+2006,94,187.0,Warren,9,Central,Mostly Urban,45.5,17639,2154.0,12211.6
+2006,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14852,1225.0,8248.0
+2006,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16504,2283.0,13833.0
+2006,97,193.0,White,2,Southern,Mostly Rural,62.0,14826,2264.0,15270.5
+2006,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,59135,6407.0,10834.5
+2006,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,656075,39463.0,6015.0
+2006,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,63543,9794.0,15413.2
+2006,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,292797,41606.0,14209.8
+2006,102,203.0,Woodford,11,Central,Mostly Rural,54.9,37376,2353.0,6295.5
+2007,1,1.0,Adams,8,Central,Mostly Urban,32.6,66840,7562.0,11313.6
+2007,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,8206,2195.0,26748.7
+2007,3,5.0,Bond,3,Southern,Mostly Rural,60.7,18312,1867.0,10195.5
+2007,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,53162,5213.0,9805.9
+2007,5,9.0,Brown,8,Central,Mostly Urban,41.1,6530,736.0,11271.1
+2007,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34849,3436.0,9859.7
+2007,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5097,557.0,10928.0
+2007,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,15861,1907.0,12023.2
+2007,9,17.0,Cass,8,Central,Mostly Rural,52.1,13609,1616.0,11874.5
+2007,10,19.0,Champaign,6,Central,Mostly Urban,12.7,192975,31753.0,16454.5
+2007,11,21.0,Christian,4,Central,Mostly Urban,43.5,34566,4256.0,12312.7
+2007,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16831,1915.0,11377.8
+2007,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13705,1846.0,13469.5
+2007,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,36216,3242.0,8951.8
+2007,15,29.0,Coles,5,Central,Mostly Urban,24.3,52270,9474.0,18125.1
+2007,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5235762,759038.0,14497.2
+2007,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19502,2664.0,13660.1
+2007,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10795,1317.0,12200.1
+2007,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,105321,10996.0,10440.5
+2007,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16327,1541.0,9438.4
+2007,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19466,1682.0,8640.7
+2007,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,922948,43761.0,4741.4
+2007,23,45.0,Edgar,5,Central,Mostly Rural,51.8,18811,2335.0,12412.9
+2007,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6525,756.0,11586.2
+2007,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34246,3425.0,10001.2
+2007,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,20959,2828.0,13493.0
+2007,27,53.0,Ford,11,Central,Mostly Urban,41.8,14056,1191.0,8473.2
+2007,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39217,6834.0,17426.1
+2007,29,57.0,Fulton,9,Central,Mostly Rural,60.0,36831,4307.0,11694.0
+2007,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,5940,1187.0,19983.2
+2007,31,61.0,Greene,7,Central,Mostly Rural,70.8,13680,1891.0,13823.1
+2007,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,47094,2532.0,5376.5
+2007,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8148,1008.0,12371.1
+2007,34,67.0,Hancock,9,Central,Mostly Rural,71.0,18761,2000.0,10660.4
+2007,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4462,893.0,20013.4
+2007,36,71.0,Henderson,9,Central,Mostly Rural,99.7,7551,854.0,11309.8
+2007,37,73.0,Henry,14,Central,Mostly Rural,50.3,49521,4781.0,9654.5
+2007,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,30018,3523.0,11736.3
+2007,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,58216,15375.0,26410.3
+2007,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9619,1071.0,11134.2
+2007,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,40096,5887.0,14682.3
+2007,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22379,2090.0,9339.1
+2007,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22169,1905.0,8593.1
+2007,44,87.0,Johnson,1,Southern,Completely Rural,100.0,13688,1519.0,11097.3
+2007,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,495416,38764.0,7824.5
+2007,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,111725,13852.0,12398.3
+2007,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,97112,3543.0,3648.4
+2007,48,95.0,Knox,9,Central,Mostly Urban,24.3,51932,8399.0,16173.1
+2007,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,702479,43562.0,6201.2
+2007,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,112498,11318.0,10060.6
+2007,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16598,2184.0,13158.2
+2007,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,35150,3237.0,9209.1
+2007,53,105.0,Livingston,11,Central,Mostly Urban,40.8,37983,3971.0,10454.7
+2007,54,107.0,Logan,11,Central,Mostly Urban,39.9,29880,2821.0,9441.1
+2007,55,109.0,McDonough,9,Central,Mostly Urban,29.5,33080,6293.0,19023.6
+2007,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,314696,16566.0,5264.1
+2007,57,113.0,McLean,11,Central,Mostly Urban,16.5,163983,19013.0,11594.5
+2007,58,115.0,Macon,6,Central,Mostly Urban,15.3,108722,16723.0,15381.4
+2007,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48234,5616.0,11643.2
+2007,60,119.0,Madison,3,Southern,Mostly Urban,13.3,267105,29678.0,11111.0
+2007,61,121.0,Marion,4,Southern,Mostly Urban,45.1,39584,6015.0,15195.5
+2007,62,123.0,Marshall,10,Central,Completely Rural,100.0,12895,1012.0,7848.0
+2007,63,125.0,Mason,8,Central,Mostly Rural,77.5,15048,1867.0,12407.0
+2007,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15113,2210.0,14623.2
+2007,65,129.0,Menard,8,Central,Mostly Rural,75.7,12518,1066.0,8515.7
+2007,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16429,1307.0,7955.4
+2007,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,32441,1431.0,4411.1
+2007,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,29789,3757.0,12612.0
+2007,69,137.0,Morgan,7,Central,Mostly Urban,36.2,35360,4871.0,13775.5
+2007,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14346,1226.0,8545.9
+2007,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,55023,4313.0,7838.5
+2007,72,143.0,Peoria,10,Central,Mostly Urban,14.6,183088,23935.0,13072.9
+2007,73,145.0,Perry,20,Southern,Mostly Urban,43.6,22582,3127.0,13847.3
+2007,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16456,1107.0,6727.0
+2007,75,149.0,Pike,8,Central,Mostly Rural,72.3,16576,2187.0,13193.8
+2007,76,151.0,Pope,1,Southern,Completely Rural,100.0,4108,855.0,20813.0
+2007,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,6444,1502.0,23308.5
+2007,78,155.0,Putnam,10,Central,Completely Rural,100.0,5986,410.0,6849.3
+2007,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,32826,3731.0,11366.0
+2007,80,159.0,Richland,2,Southern,Mostly Urban,43.5,15609,2203.0,14113.7
+2007,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,147071,18857.0,12821.7
+2007,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,261238,40543.0,15519.6
+2007,83,165.0,Saline,1,Southern,Mostly Urban,43.7,26008,4621.0,17767.6
+2007,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,193845,24554.0,12666.8
+2007,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,6943,834.0,12012.1
+2007,86,171.0,Scott,7,Central,Completely Rural,100.0,5219,543.0,10404.3
+2007,87,173.0,Shelby,4,Central,Mostly Rural,77.7,21753,2597.0,11938.6
+2007,88,175.0,Stark,10,Central,Completely Rural,100.0,6088,600.0,9855.5
+2007,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,46723,6541.0,13999.5
+2007,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,130972,10193.0,7782.6
+2007,91,181.0,Union,1,Southern,Mostly Rural,65.9,18123,3748.0,20680.9
+2007,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,80910,14479.0,17895.2
+2007,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,12181,1509.0,12388.1
+2007,94,187.0,Warren,9,Central,Mostly Urban,45.5,17591,2080.0,11824.2
+2007,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14725,1125.0,7640.1
+2007,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16594,2405.0,14493.2
+2007,97,193.0,White,2,Southern,Mostly Rural,62.0,14674,2004.0,13656.8
+2007,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,58972,6482.0,10991.7
+2007,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,670013,39037.0,5826.3
+2007,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,64248,10184.0,15851.1
+2007,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,297603,40600.0,13642.3
+2007,102,203.0,Woodford,11,Central,Mostly Rural,54.9,37972,2179.0,5738.4
+2008,1,1.0,Adams,8,Central,Mostly Urban,32.6,66895,7985.0,11936.6
+2008,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,8112,2300.0,28353.1
+2008,3,5.0,Bond,3,Southern,Mostly Rural,60.7,18185,2230.0,12262.9
+2008,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,53892,4008.0,7437.1
+2008,5,9.0,Brown,8,Central,Mostly Urban,41.1,6564,692.0,10542.4
+2008,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34759,3407.0,9801.8
+2008,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5024,542.0,10788.2
+2008,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,15809,1778.0,11246.8
+2008,9,17.0,Cass,8,Central,Mostly Rural,52.1,13576,1652.0,12168.5
+2008,10,19.0,Champaign,6,Central,Mostly Urban,12.7,193562,32595.0,16839.6
+2008,11,21.0,Christian,4,Central,Mostly Urban,43.5,34467,4427.0,12844.2
+2008,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16788,2014.0,11996.7
+2008,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13663,1866.0,13657.3
+2008,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,36402,2693.0,7397.9
+2008,15,29.0,Coles,5,Central,Mostly Urban,24.3,52111,9044.0,17355.3
+2008,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5256705,767182.0,14594.4
+2008,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19415,2448.0,12608.8
+2008,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10803,1246.0,11533.8
+2008,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,106503,11652.0,10940.5
+2008,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16272,1643.0,10097.1
+2008,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19313,1763.0,9128.6
+2008,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,927382,52767.0,5689.9
+2008,23,45.0,Edgar,5,Central,Mostly Rural,51.8,18624,2379.0,12773.8
+2008,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6496,716.0,11022.2
+2008,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34274,3643.0,10629.0
+2008,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,20957,2966.0,14152.8
+2008,27,53.0,Ford,11,Central,Mostly Urban,41.8,13943,1333.0,9560.4
+2008,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39288,7131.0,18150.6
+2008,29,57.0,Fulton,9,Central,Mostly Rural,60.0,36714,5134.0,13983.8
+2008,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,5867,1104.0,18817.1
+2008,31,61.0,Greene,7,Central,Mostly Rural,70.8,13613,2030.0,14912.2
+2008,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,48005,3103.0,6463.9
+2008,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8145,1046.0,12842.2
+2008,34,67.0,Hancock,9,Central,Mostly Rural,71.0,18553,2067.0,11141.1
+2008,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4408,861.0,19532.7
+2008,36,71.0,Henderson,9,Central,Mostly Rural,99.7,7463,873.0,11697.7
+2008,37,73.0,Henry,14,Central,Mostly Rural,50.3,49417,4849.0,9812.4
+2008,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,29983,3202.0,10679.4
+2008,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,58151,12272.0,21103.7
+2008,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9622,1051.0,10922.9
+2008,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,40069,6434.0,16057.3
+2008,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22597,2137.0,9457.0
+2008,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22089,1862.0,8429.5
+2008,44,87.0,Johnson,1,Southern,Completely Rural,100.0,13675,1811.0,13243.1
+2008,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,504057,44955.0,8918.6
+2008,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,112719,14764.0,13098.1
+2008,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,101499,3489.0,3437.5
+2008,48,95.0,Knox,9,Central,Mostly Urban,24.3,51778,7862.0,15184.1
+2008,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,707622,53114.0,7506.0
+2008,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,112732,11409.0,10120.5
+2008,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16525,2455.0,14856.3
+2008,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,35075,3251.0,9268.7
+2008,53,105.0,Livingston,11,Central,Mostly Urban,40.8,37834,3980.0,10519.6
+2008,54,107.0,Logan,11,Central,Mostly Urban,39.9,29907,3155.0,10549.4
+2008,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32787,5521.0,16839.0
+2008,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,318118,16437.0,5167.0
+2008,57,113.0,McLean,11,Central,Mostly Urban,16.5,165571,17484.0,10559.8
+2008,58,115.0,Macon,6,Central,Mostly Urban,15.3,108326,14164.0,13075.3
+2008,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,48150,5870.0,12191.1
+2008,60,119.0,Madison,3,Southern,Mostly Urban,13.3,267839,32953.0,12303.3
+2008,61,121.0,Marion,4,Southern,Mostly Urban,45.1,39422,5601.0,14207.8
+2008,62,123.0,Marshall,10,Central,Completely Rural,100.0,12745,1085.0,8513.1
+2008,63,125.0,Mason,8,Central,Mostly Rural,77.5,14965,2003.0,13384.6
+2008,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15027,2297.0,15285.8
+2008,65,129.0,Menard,8,Central,Mostly Rural,75.7,12546,1112.0,8863.4
+2008,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16465,1521.0,9237.8
+2008,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,32871,1410.0,4289.5
+2008,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,29704,4551.0,15321.2
+2008,69,137.0,Morgan,7,Central,Mostly Urban,36.2,35147,4458.0,12683.9
+2008,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14376,1379.0,9592.4
+2008,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,55289,4652.0,8414.0
+2008,72,143.0,Peoria,10,Central,Mostly Urban,14.6,183810,26464.0,14397.5
+2008,73,145.0,Perry,20,Southern,Mostly Urban,43.6,22466,3245.0,14444.0
+2008,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16493,1049.0,6360.3
+2008,75,149.0,Pike,8,Central,Mostly Rural,72.3,16391,2470.0,15069.2
+2008,76,151.0,Pope,1,Southern,Completely Rural,100.0,4041,777.0,19227.9
+2008,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,6305,1620.0,25693.9
+2008,78,155.0,Putnam,10,Central,Completely Rural,100.0,5994,443.0,7390.7
+2008,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,32728,4163.0,12720.0
+2008,80,159.0,Richland,2,Southern,Mostly Urban,43.5,15456,2274.0,14712.7
+2008,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,146661,17017.0,11602.9
+2008,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,262131,39322.0,15000.9
+2008,83,165.0,Saline,1,Southern,Mostly Urban,43.7,25826,4740.0,18353.6
+2008,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,194759,21830.0,11208.7
+2008,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,6861,844.0,12301.4
+2008,86,171.0,Scott,7,Central,Completely Rural,100.0,5199,558.0,10732.8
+2008,87,173.0,Shelby,4,Central,Mostly Rural,77.7,21793,2201.0,10099.6
+2008,88,175.0,Stark,10,Central,Completely Rural,100.0,6074,651.0,10717.8
+2008,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,46598,5863.0,12582.1
+2008,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,131493,10069.0,7657.4
+2008,91,181.0,Union,1,Southern,Mostly Rural,65.9,18042,3143.0,17420.5
+2008,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,80453,11279.0,14019.4
+2008,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,12100,1606.0,13272.7
+2008,94,187.0,Warren,9,Central,Mostly Urban,45.5,17411,2017.0,11584.6
+2008,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14668,1226.0,8358.3
+2008,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16495,2236.0,13555.6
+2008,97,193.0,White,2,Southern,Mostly Rural,62.0,14726,2126.0,14437.1
+2008,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,59050,6571.0,11127.9
+2008,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,679069,43879.0,6461.6
+2008,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,64605,11642.0,18020.3
+2008,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,299489,40840.0,13636.6
+2008,102,203.0,Woodford,11,Central,Mostly Rural,54.9,38516,2203.0,5719.7
+2009,1,1.0,Adams,8,Central,Mostly Urban,32.6,67054,10109.0,15075.9
+2009,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,7914,2222.0,28076.8
+2009,3,5.0,Bond,3,Southern,Mostly Rural,60.7,18103,2115.0,11683.1
+2009,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,54020,4740.0,8774.5
+2009,5,9.0,Brown,8,Central,Mostly Urban,41.1,6591,734.0,11136.4
+2009,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34699,4378.0,12617.1
+2009,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5019,561.0,11177.5
+2009,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,15749,2045.0,12985.0
+2009,9,17.0,Cass,8,Central,Mostly Rural,52.1,13559,1660.0,12242.8
+2009,10,19.0,Champaign,6,Central,Mostly Urban,12.7,195671,34982.0,17878.0
+2009,11,21.0,Christian,4,Central,Mostly Urban,43.5,34253,4769.0,13922.9
+2009,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16657,2193.0,13165.6
+2009,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13538,1949.0,14396.5
+2009,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,36368,2851.0,7839.3
+2009,15,29.0,Coles,5,Central,Mostly Urban,24.3,52065,8991.0,17268.8
+2009,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5287037,828626.0,15672.8
+2009,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19433,2725.0,14022.5
+2009,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10716,1202.0,11216.9
+2009,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,107333,16460.0,15335.5
+2009,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16034,1745.0,10883.1
+2009,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19169,1639.0,8550.3
+2009,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,932541,61041.0,6545.7
+2009,23,45.0,Edgar,5,Central,Mostly Rural,51.8,18471,2821.0,15272.6
+2009,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6444,721.0,11188.7
+2009,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34424,3485.0,10123.8
+2009,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,20935,3972.0,18973.0
+2009,27,53.0,Ford,11,Central,Mostly Urban,41.8,13911,1337.0,9611.1
+2009,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39312,7262.0,18472.7
+2009,29,57.0,Fulton,9,Central,Mostly Rural,60.0,36652,4734.0,12916.1
+2009,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,5705,1091.0,19123.6
+2009,31,61.0,Greene,7,Central,Mostly Rural,70.8,13567,1901.0,14011.9
+2009,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,48421,3241.0,6693.4
+2009,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8096,1121.0,13846.3
+2009,34,67.0,Hancock,9,Central,Mostly Rural,71.0,18359,2092.0,11395.0
+2009,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4358,888.0,20376.3
+2009,36,71.0,Henderson,9,Central,Mostly Rural,99.7,7354,884.0,12020.7
+2009,37,73.0,Henry,14,Central,Mostly Rural,50.3,49314,4785.0,9703.1
+2009,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,29690,3536.0,11909.7
+2009,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,58103,15209.0,26175.9
+2009,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9530,1063.0,11154.2
+2009,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,39944,7048.0,17644.7
+2009,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22549,2171.0,9627.9
+2009,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,21990,2286.0,10395.6
+2009,44,87.0,Johnson,1,Southern,Completely Rural,100.0,13730,1799.0,13102.7
+2009,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,511892,47635.0,9305.7
+2009,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,113215,16365.0,14454.8
+2009,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,104821,4359.0,4158.5
+2009,48,95.0,Knox,9,Central,Mostly Urban,24.3,51648,6241.0,12083.7
+2009,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,712567,53026.0,7441.5
+2009,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,112498,13680.0,12160.2
+2009,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16408,2515.0,15327.9
+2009,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,34919,3414.0,9776.9
+2009,53,105.0,Livingston,11,Central,Mostly Urban,40.8,37777,3944.0,10440.2
+2009,54,107.0,Logan,11,Central,Mostly Urban,39.9,29776,3528.0,11848.5
+2009,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32770,6001.0,18312.5
+2009,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,320961,21119.0,6579.9
+2009,57,113.0,McLean,11,Central,Mostly Urban,16.5,167699,22440.0,13381.1
+2009,58,115.0,Macon,6,Central,Mostly Urban,15.3,108204,15822.0,14622.4
+2009,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,47774,5589.0,11698.8
+2009,60,119.0,Madison,3,Southern,Mostly Urban,13.3,268457,34532.0,12863.1
+2009,61,121.0,Marion,4,Southern,Mostly Urban,45.1,39008,7362.0,18873.1
+2009,62,123.0,Marshall,10,Central,Completely Rural,100.0,12702,1285.0,10116.5
+2009,63,125.0,Mason,8,Central,Mostly Rural,77.5,14785,1817.0,12289.5
+2009,64,127.0,Massac,1,Southern,Mostly Rural,50.5,14970,2391.0,15971.9
+2009,65,129.0,Menard,8,Central,Mostly Rural,75.7,12466,1137.0,9120.8
+2009,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16276,1505.0,9246.7
+2009,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,33236,1645.0,4949.5
+2009,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,29500,3998.0,13552.5
+2009,69,137.0,Morgan,7,Central,Mostly Urban,36.2,34897,4441.0,12726.0
+2009,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14392,1504.0,10450.3
+2009,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,55336,5930.0,10716.4
+2009,72,143.0,Peoria,10,Central,Mostly Urban,14.6,185816,29997.0,16143.4
+2009,73,145.0,Perry,20,Southern,Mostly Urban,43.6,22424,3532.0,15751.0
+2009,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16550,1094.0,6610.3
+2009,75,149.0,Pike,8,Central,Mostly Rural,72.3,16273,2662.0,16358.4
+2009,76,151.0,Pope,1,Southern,Completely Rural,100.0,3991,709.0,17765.0
+2009,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,6218,1489.0,23946.6
+2009,78,155.0,Putnam,10,Central,Completely Rural,100.0,6009,510.0,8487.3
+2009,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,32686,3847.0,11769.6
+2009,80,159.0,Richland,2,Southern,Mostly Urban,43.5,15523,2294.0,14778.1
+2009,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,146826,15862.0,10803.3
+2009,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,263617,44084.0,16722.7
+2009,83,165.0,Saline,1,Southern,Mostly Urban,43.7,25738,4058.0,15766.6
+2009,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,195716,25308.0,12931.0
+2009,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,6730,879.0,13060.9
+2009,86,171.0,Scott,7,Central,Completely Rural,100.0,5193,534.0,10283.1
+2009,87,173.0,Shelby,4,Central,Mostly Rural,77.7,21803,2334.0,10704.9
+2009,88,175.0,Stark,10,Central,Completely Rural,100.0,6019,676.0,11231.1
+2009,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,46537,5966.0,12819.9
+2009,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,132466,10710.0,8085.1
+2009,91,181.0,Union,1,Southern,Mostly Rural,65.9,18005,3539.0,19655.7
+2009,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,80067,16655.0,20801.3
+2009,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,11997,1506.0,12553.1
+2009,94,187.0,Warren,9,Central,Mostly Urban,45.5,17409,2154.0,12372.9
+2009,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14560,1376.0,9450.5
+2009,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16294,2356.0,14459.3
+2009,97,193.0,White,2,Southern,Mostly Rural,62.0,14661,2213.0,15094.5
+2009,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,58961,6787.0,11511.0
+2009,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,685251,47438.0,6922.7
+2009,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,65169,11631.0,17847.4
+2009,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,299702,52161.0,17404.3
+2009,102,203.0,Woodford,11,Central,Mostly Rural,54.9,38862,2576.0,6628.6
+2010,1,1.0,Adams,8,Central,Mostly Urban,32.6,67160,8547.0,12726.3
+2010,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,8206,2401.0,29259.1
+2010,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17787,2145.0,12059.4
+2010,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,54103,6228.0,11511.4
+2010,5,9.0,Brown,8,Central,Mostly Urban,41.1,6919,687.0,9929.2
+2010,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34959,3849.0,11010.0
+2010,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5096,548.0,10753.5
+2010,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,15392,1969.0,12792.4
+2010,9,17.0,Cass,8,Central,Mostly Rural,52.1,13638,1721.0,12619.2
+2010,10,19.0,Champaign,6,Central,Mostly Urban,12.7,201541,36343.0,18032.6
+2010,11,21.0,Christian,4,Central,Mostly Urban,43.5,34764,4686.0,13479.5
+2010,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16291,1934.0,11871.6
+2010,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13827,2072.0,14985.2
+2010,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,37840,3016.0,7970.4
+2010,15,29.0,Coles,5,Central,Mostly Urban,24.3,53868,9253.0,17177.2
+2010,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5199166,858392.0,16510.2
+2010,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19802,2734.0,13806.7
+2010,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,11053,1258.0,11381.5
+2010,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,105147,14083.0,13393.6
+2010,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16590,1765.0,10638.9
+2010,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19982,2184.0,10929.8
+2010,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,918029,62484.0,6806.3
+2010,23,45.0,Edgar,5,Central,Mostly Rural,51.8,18507,2598.0,14037.9
+2010,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6734,752.0,11167.2
+2010,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34223,3353.0,9797.5
+2010,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,22130,3200.0,14460.0
+2010,27,53.0,Ford,11,Central,Mostly Urban,41.8,14081,1502.0,10666.9
+2010,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,40035,7888.0,19702.8
+2010,29,57.0,Fulton,9,Central,Mostly Rural,60.0,37074,4974.0,13416.4
+2010,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,5574,1023.0,18353.1
+2010,31,61.0,Greene,7,Central,Mostly Rural,70.8,13890,2011.0,14478.0
+2010,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,50152,3992.0,7959.8
+2010,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8446,1215.0,14385.5
+2010,34,67.0,Hancock,9,Central,Mostly Rural,71.0,19091,2531.0,13257.6
+2010,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4318,831.0,19245.0
+2010,36,71.0,Henderson,9,Central,Mostly Rural,99.7,7343,891.0,12134.0
+2010,37,73.0,Henry,14,Central,Mostly Rural,50.3,50453,5367.0,10637.6
+2010,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,29701,3269.0,11006.4
+2010,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,60376,13271.0,21980.6
+2010,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9725,1038.0,10673.5
+2010,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,38759,6199.0,15993.7
+2010,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22970,2204.0,9595.1
+2010,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22648,2094.0,9245.8
+2010,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12608,1561.0,12381.0
+2010,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,516144,56233.0,10894.8
+2010,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,113419,16152.0,14241.0
+2010,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,115377,5341.0,4629.2
+2010,48,95.0,Knox,9,Central,Mostly Urban,24.3,52913,7519.0,14210.1
+2010,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,704192,61515.0,8735.5
+2010,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,113816,14566.0,12797.8
+2010,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16940,2512.0,14828.8
+2010,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,35976,3633.0,10098.4
+2010,53,105.0,Livingston,11,Central,Mostly Urban,40.8,38856,4096.0,10541.5
+2010,54,107.0,Logan,11,Central,Mostly Urban,39.9,30284,2985.0,9856.7
+2010,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32628,6264.0,19198.2
+2010,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,309061,22381.0,7241.6
+2010,57,113.0,McLean,11,Central,Mostly Urban,16.5,169810,18665.0,10991.7
+2010,58,115.0,Macon,6,Central,Mostly Urban,15.3,110784,18973.0,17126.1
+2010,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,47799,6075.0,12709.5
+2010,60,119.0,Madison,3,Southern,Mostly Urban,13.3,269346,38068.0,14133.5
+2010,61,121.0,Marion,4,Southern,Mostly Urban,45.1,39419,6350.0,16109.0
+2010,62,123.0,Marshall,10,Central,Completely Rural,100.0,12629,1401.0,11093.5
+2010,63,125.0,Mason,8,Central,Mostly Rural,77.5,14651,2153.0,14695.2
+2010,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15380,2528.0,16436.9
+2010,65,129.0,Menard,8,Central,Mostly Rural,75.7,12696,1123.0,8845.3
+2010,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16410,1823.0,11109.1
+2010,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,32997,1588.0,4812.6
+2010,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,30095,3961.0,13161.7
+2010,69,137.0,Morgan,7,Central,Mostly Urban,36.2,35505,4831.0,13606.5
+2010,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14860,1511.0,10168.2
+2010,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,53423,5696.0,10662.1
+2010,72,143.0,Peoria,10,Central,Mostly Urban,14.6,186221,25892.0,13903.9
+2010,73,145.0,Perry,20,Southern,Mostly Urban,43.6,22315,3434.0,15388.8
+2010,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16709,1219.0,7295.5
+2010,75,149.0,Pike,8,Central,Mostly Rural,72.3,16394,2669.0,16280.3
+2010,76,151.0,Pope,1,Southern,Completely Rural,100.0,4470,757.0,16935.1
+2010,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,6122,1276.0,20842.9
+2010,78,155.0,Putnam,10,Central,Completely Rural,100.0,6012,469.0,7801.1
+2010,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33463,3941.0,11777.2
+2010,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16194,2302.0,14215.1
+2010,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,147616,17881.0,12113.2
+2010,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,270342,42224.0,15618.7
+2010,83,165.0,Saline,1,Southern,Mostly Urban,43.7,24901,4687.0,18822.5
+2010,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,197767,25678.0,12984.0
+2010,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7535,892.0,11838.1
+2010,86,171.0,Scott,7,Central,Completely Rural,100.0,5327,509.0,9555.1
+2010,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22358,2710.0,12120.9
+2010,88,175.0,Stark,10,Central,Completely Rural,100.0,5970,623.0,10435.5
+2010,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,47607,6275.0,13180.8
+2010,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,135486,13147.0,9703.6
+2010,91,181.0,Union,1,Southern,Mostly Rural,65.9,17735,3231.0,18218.2
+2010,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,81639,16426.0,20120.3
+2010,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,11916,1693.0,14207.8
+2010,94,187.0,Warren,9,Central,Mostly Urban,45.5,17719,2292.0,12935.3
+2010,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14712,1183.0,8041.1
+2010,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16738,2473.0,14774.8
+2010,97,193.0,White,2,Southern,Mostly Rural,62.0,14600,2402.0,16452.1
+2010,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,58478,6722.0,11494.9
+2010,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,678818,57207.0,8427.4
+2010,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,66432,10287.0,15485.0
+2010,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,295088,50817.0,17221.0
+2010,102,203.0,Woodford,11,Central,Mostly Rural,54.9,38670,2804.0,7251.1
+2011,1,1.0,Adams,8,Central,Mostly Urban,32.6,67201,10322.0,15359.9
+2011,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,7992,2360.0,29529.5
+2011,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17724,2226.0,12559.2
+2011,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,54132,5528.0,10212.1
+2011,5,9.0,Brown,8,Central,Mostly Urban,41.1,6879,724.0,10524.8
+2011,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34623,3653.0,10550.8
+2011,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5048,620.0,12282.1
+2011,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,15226,2232.0,14659.1
+2011,9,17.0,Cass,8,Central,Mostly Rural,52.1,13632,1977.0,14502.6
+2011,10,19.0,Champaign,6,Central,Mostly Urban,12.7,203174,43484.0,21402.3
+2011,11,21.0,Christian,4,Central,Mostly Urban,43.5,34699,4446.0,12813.0
+2011,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16200,1965.0,12129.6
+2011,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13725,2006.0,14615.7
+2011,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,38023,3276.0,8615.8
+2011,15,29.0,Coles,5,Central,Mostly Urban,24.3,53620,10809.0,20158.5
+2011,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5219977,912067.0,17472.6
+2011,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19773,2770.0,14009.0
+2011,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,11079,1357.0,12248.4
+2011,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,104438,15572.0,14910.3
+2011,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16546,1888.0,11410.6
+2011,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19867,1953.0,9830.4
+2011,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,924852,71040.0,7681.2
+2011,23,45.0,Edgar,5,Central,Mostly Rural,51.8,18387,2599.0,14135.0
+2011,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6668,789.0,11832.6
+2011,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34265,3616.0,10553.0
+2011,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,22374,3788.0,16930.4
+2011,27,53.0,Ford,11,Central,Mostly Urban,41.8,13878,1507.0,10858.9
+2011,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,40027,7253.0,18120.3
+2011,29,57.0,Fulton,9,Central,Mostly Rural,60.0,36907,4452.0,12062.8
+2011,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,5490,1006.0,18324.2
+2011,31,61.0,Greene,7,Central,Mostly Rural,70.8,13856,2012.0,14520.8
+2011,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,50095,3512.0,7010.7
+2011,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8423,1287.0,15279.6
+2011,34,67.0,Hancock,9,Central,Mostly Rural,71.0,18997,2280.0,12001.9
+2011,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4293,870.0,20265.5
+2011,36,71.0,Henderson,9,Central,Mostly Rural,99.7,7215,853.0,11822.6
+2011,37,73.0,Henry,14,Central,Mostly Rural,50.3,50283,5051.0,10045.1
+2011,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,29497,3854.0,13065.7
+2011,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,60365,19057.0,31569.6
+2011,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9753,1028.0,10540.3
+2011,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,38749,6393.0,16498.5
+2011,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22852,2176.0,9522.1
+2011,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22635,2176.0,9613.4
+2011,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12854,1707.0,13279.9
+2011,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,519211,64580.0,12438.1
+2011,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,113513,17910.0,15777.9
+2011,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,116813,5973.0,5113.3
+2011,48,95.0,Knox,9,Central,Mostly Urban,24.3,52699,9894.0,18774.5
+2011,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,701647,76376.0,10885.2
+2011,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,113521,12857.0,11325.7
+2011,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16899,2056.0,12166.4
+2011,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,35597,3670.0,10309.9
+2011,53,105.0,Livingston,11,Central,Mostly Urban,40.8,38803,4246.0,10942.5
+2011,54,107.0,Logan,11,Central,Mostly Urban,39.9,30269,3503.0,11572.9
+2011,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32511,5780.0,17778.6
+2011,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,308433,24568.0,7965.4
+2011,57,113.0,McLean,11,Central,Mostly Urban,16.5,170893,24148.0,14130.5
+2011,58,115.0,Macon,6,Central,Mostly Urban,15.3,110671,15842.0,14314.5
+2011,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,47734,5835.0,12224.0
+2011,60,119.0,Madison,3,Southern,Mostly Urban,13.3,268650,37085.0,13804.2
+2011,61,121.0,Marion,4,Southern,Mostly Urban,45.1,39140,6567.0,16778.2
+2011,62,123.0,Marshall,10,Central,Completely Rural,100.0,12477,1309.0,10491.3
+2011,63,125.0,Mason,8,Central,Mostly Rural,77.5,14469,1959.0,13539.3
+2011,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15279,2853.0,18672.7
+2011,65,129.0,Menard,8,Central,Mostly Rural,75.7,12697,1152.0,9073.0
+2011,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16316,1499.0,9187.3
+2011,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,33214,1701.0,5121.3
+2011,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,29860,3954.0,13241.8
+2011,69,137.0,Morgan,7,Central,Mostly Urban,36.2,35479,4674.0,13174.0
+2011,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14855,1655.0,11141.0
+2011,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,53070,5475.0,10316.6
+2011,72,143.0,Peoria,10,Central,Mostly Urban,14.6,186741,33143.0,17748.1
+2011,73,145.0,Perry,20,Southern,Mostly Urban,43.6,22262,3650.0,16395.7
+2011,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16677,1205.0,7225.5
+2011,75,149.0,Pike,8,Central,Mostly Rural,72.3,16346,2537.0,15520.6
+2011,76,151.0,Pope,1,Southern,Completely Rural,100.0,4494,808.0,17979.5
+2011,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,5981,1353.0,22621.6
+2011,78,155.0,Putnam,10,Central,Completely Rural,100.0,5975,495.0,8284.5
+2011,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33419,4959.0,14838.9
+2011,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16189,2330.0,14392.5
+2011,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,147462,20095.0,13627.2
+2011,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,270006,50598.0,18739.6
+2011,83,165.0,Saline,1,Southern,Mostly Urban,43.7,24903,5016.0,20142.2
+2011,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,199016,31318.0,15736.4
+2011,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7462,903.0,12101.3
+2011,86,171.0,Scott,7,Central,Completely Rural,100.0,5228,587.0,11228.0
+2011,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22281,2381.0,10686.2
+2011,88,175.0,Stark,10,Central,Completely Rural,100.0,5842,579.0,9911.0
+2011,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,47319,6791.0,14351.5
+2011,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,135839,15016.0,11054.3
+2011,91,181.0,Union,1,Southern,Mostly Rural,65.9,17695,3461.0,19559.2
+2011,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,81407,15544.0,19094.2
+2011,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,11793,1576.0,13363.9
+2011,94,187.0,Warren,9,Central,Mostly Urban,45.5,17839,2357.0,13212.6
+2011,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14574,1363.0,9352.3
+2011,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16658,2092.0,12558.5
+2011,97,193.0,White,2,Southern,Mostly Rural,62.0,14590,2396.0,16422.2
+2011,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,58272,7576.0,13001.1
+2011,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,680799,56362.0,8278.8
+2011,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,66726,10345.0,15503.7
+2011,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,293634,55353.0,18851.0
+2011,102,203.0,Woodford,11,Central,Mostly Rural,54.9,38849,2631.0,6772.4
+2012,1,1.0,Adams,8,Central,Mostly Urban,32.6,67135,8070.0,12020.6
+2012,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,7719,2385.0,30897.8
+2012,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17534,2409.0,13739.0
+2012,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,53750,5426.0,10094.9
+2012,5,9.0,Brown,8,Central,Mostly Urban,41.1,6888,780.0,11324.0
+2012,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34345,4061.0,11824.1
+2012,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,4985,599.0,12016.0
+2012,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,15119,1866.0,12342.1
+2012,9,17.0,Cass,8,Central,Mostly Rural,52.1,13434,1779.0,13242.5
+2012,10,19.0,Champaign,6,Central,Mostly Urban,12.7,204626,38301.0,18717.6
+2012,11,21.0,Christian,4,Central,Mostly Urban,43.5,34516,5081.0,14720.7
+2012,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16258,2078.0,12781.4
+2012,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13715,1929.0,14064.9
+2012,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,37912,3558.0,9384.9
+2012,15,29.0,Coles,5,Central,Mostly Urban,24.3,53314,11309.0,21212.1
+2012,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5240505,926826.0,17685.8
+2012,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19587,2607.0,13309.8
+2012,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10949,1335.0,12192.9
+2012,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,104360,16599.0,15905.5
+2012,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16490,1805.0,10946.0
+2012,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19886,1991.0,10012.1
+2012,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,928823,66852.0,7197.5
+2012,23,45.0,Edgar,5,Central,Mostly Rural,51.8,18154,3028.0,16679.5
+2012,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6721,736.0,10950.8
+2012,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34270,3282.0,9576.9
+2012,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,22157,3542.0,15985.9
+2012,27,53.0,Ford,11,Central,Mostly Urban,41.8,13878,1582.0,11399.3
+2012,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39862,6611.0,16584.7
+2012,29,57.0,Fulton,9,Central,Mostly Rural,60.0,36585,5194.0,14197.1
+2012,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,5391,959.0,17788.9
+2012,31,61.0,Greene,7,Central,Mostly Rural,70.8,13657,1868.0,13678.0
+2012,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,50159,4152.0,8277.7
+2012,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8387,1211.0,14439.0
+2012,34,67.0,Hancock,9,Central,Mostly Rural,71.0,18828,2446.0,12991.3
+2012,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4280,875.0,20443.9
+2012,36,71.0,Henderson,9,Central,Mostly Rural,99.7,7043,831.0,11798.9
+2012,37,73.0,Henry,14,Central,Mostly Rural,50.3,50252,5313.0,10572.7
+2012,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,29267,4036.0,13790.3
+2012,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,59063,16548.0,28017.5
+2012,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9671,1032.0,10671.1
+2012,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,38658,5801.0,15005.9
+2012,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22683,2183.0,9623.9
+2012,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22540,2702.0,11987.6
+2012,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12860,1544.0,12006.2
+2012,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,520885,61375.0,11782.8
+2012,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,112980,18614.0,16475.5
+2012,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,118257,5958.0,5038.2
+2012,48,95.0,Knox,9,Central,Mostly Urban,24.3,52297,7209.0,13784.7
+2012,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,702213,64229.0,9146.7
+2012,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,112913,15753.0,13951.4
+2012,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16725,2377.0,14212.3
+2012,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,35207,4018.0,11412.5
+2012,53,105.0,Livingston,11,Central,Mostly Urban,40.8,38510,4398.0,11420.4
+2012,54,107.0,Logan,11,Central,Mostly Urban,39.9,30357,3747.0,12343.1
+2012,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32550,6334.0,19459.3
+2012,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,308180,23277.0,7553.1
+2012,57,113.0,McLean,11,Central,Mostly Urban,16.5,172718,23938.0,13859.6
+2012,58,115.0,Macon,6,Central,Mostly Urban,15.3,110130,23220.0,21084.2
+2012,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,47052,6339.0,13472.3
+2012,60,119.0,Madison,3,Southern,Mostly Urban,13.3,268103,34325.0,12802.9
+2012,61,121.0,Marion,4,Southern,Mostly Urban,45.1,39009,6842.0,17539.5
+2012,62,123.0,Marshall,10,Central,Completely Rural,100.0,12252,1196.0,9761.7
+2012,63,125.0,Mason,8,Central,Mostly Rural,77.5,14320,2148.0,15000.0
+2012,64,127.0,Massac,1,Southern,Mostly Rural,50.5,15064,2597.0,17239.8
+2012,65,129.0,Menard,8,Central,Mostly Rural,75.7,12690,1260.0,9929.1
+2012,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16163,1349.0,8346.2
+2012,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,33261,1485.0,4464.7
+2012,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,29614,3652.0,12332.0
+2012,69,137.0,Morgan,7,Central,Mostly Urban,36.2,35313,4383.0,12411.9
+2012,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14873,1501.0,10092.1
+2012,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,52786,5412.0,10252.7
+2012,72,143.0,Peoria,10,Central,Mostly Urban,14.6,187314,35224.0,18804.8
+2012,73,145.0,Perry,20,Southern,Mostly Urban,43.6,21844,3393.0,15532.9
+2012,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16500,1182.0,7163.6
+2012,75,149.0,Pike,8,Central,Mostly Rural,72.3,16233,2519.0,15517.8
+2012,76,151.0,Pope,1,Southern,Completely Rural,100.0,4454,877.0,19690.2
+2012,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,5957,1462.0,24542.6
+2012,78,155.0,Putnam,10,Central,Completely Rural,100.0,5910,510.0,8629.4
+2012,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33073,4140.0,12517.8
+2012,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16133,2273.0,14089.1
+2012,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,147699,19943.0,13502.5
+2012,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,268646,51050.0,19002.7
+2012,83,165.0,Saline,1,Southern,Mostly Urban,43.7,24910,5062.0,20321.2
+2012,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,199390,27363.0,13723.4
+2012,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7455,904.0,12126.1
+2012,86,171.0,Scott,7,Central,Completely Rural,100.0,5286,616.0,11653.4
+2012,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22207,2589.0,11658.5
+2012,88,175.0,Stark,10,Central,Completely Rural,100.0,5741,617.0,10747.3
+2012,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,46886,6936.0,14793.3
+2012,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,136125,11460.0,8418.7
+2012,91,181.0,Union,1,Southern,Mostly Rural,65.9,17613,2890.0,16408.3
+2012,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,80864,14675.0,18147.8
+2012,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,11685,1553.0,13290.5
+2012,94,187.0,Warren,9,Central,Mostly Urban,45.5,17754,2420.0,13630.7
+2012,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14598,1403.0,9610.9
+2012,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16655,2342.0,14061.8
+2012,97,193.0,White,2,Southern,Mostly Rural,62.0,14523,2046.0,14088.0
+2012,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,57760,6744.0,11675.9
+2012,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,682535,56706.0,8308.1
+2012,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,66774,9829.0,14719.8
+2012,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,292112,46164.0,15803.5
+2012,102,203.0,Woodford,11,Central,Mostly Rural,54.9,38845,2422.0,6235.0
+2013,1,1.0,Adams,8,Central,Mostly Urban,32.6,67001,10300.0,15372.9
+2013,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,7236,2351.0,32490.3
+2013,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17327,2458.0,14186.0
+2013,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,53767,5448.0,10132.6
+2013,5,9.0,Brown,8,Central,Mostly Urban,41.1,6863,756.0,11015.6
+2013,6,11.0,Bureau,13,Central,Mostly Rural,57.4,34113,4018.0,11778.5
+2013,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,5008,595.0,11881.0
+2013,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,14969,2057.0,13741.7
+2013,9,17.0,Cass,8,Central,Mostly Rural,52.1,13301,1686.0,12675.7
+2013,10,19.0,Champaign,6,Central,Mostly Urban,12.7,206433,40848.0,19787.5
+2013,11,21.0,Christian,4,Central,Mostly Urban,43.5,34147,4271.0,12507.7
+2013,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16095,2180.0,13544.6
+2013,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13556,1897.0,13993.8
+2013,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,37727,3398.0,9006.8
+2013,15,29.0,Coles,5,Central,Mostly Urban,24.3,53052,9745.0,18368.8
+2013,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5254885,918295.0,17475.1
+2013,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19435,2515.0,12940.6
+2013,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10905,1307.0,11985.3
+2013,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,104207,18328.0,17588.1
+2013,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16373,2227.0,13601.7
+2013,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19859,2108.0,10614.8
+2013,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,932519,64734.0,6941.8
+2013,23,45.0,Edgar,5,Central,Mostly Rural,51.8,17938,3263.0,18190.4
+2013,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6687,839.0,12546.7
+2013,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34215,3737.0,10922.1
+2013,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,22193,3411.0,15369.7
+2013,27,53.0,Ford,11,Central,Mostly Urban,41.8,13672,1519.0,11110.3
+2013,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39553,7706.0,19482.7
+2013,29,57.0,Fulton,9,Central,Mostly Rural,60.0,36322,4967.0,13674.9
+2013,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,5387,917.0,17022.5
+2013,31,61.0,Greene,7,Central,Mostly Rural,70.8,13634,2427.0,17801.1
+2013,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,50187,3989.0,7948.3
+2013,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8346,1232.0,14761.6
+2013,34,67.0,Hancock,9,Central,Mostly Rural,71.0,18544,2235.0,12052.4
+2013,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4176,846.0,20258.6
+2013,36,71.0,Henderson,9,Central,Mostly Rural,99.7,6962,884.0,12697.5
+2013,37,73.0,Henry,14,Central,Mostly Rural,50.3,49921,5467.0,10951.3
+2013,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,28941,3978.0,13745.2
+2013,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,59757,16499.0,27610.2
+2013,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9606,996.0,10368.5
+2013,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,38647,6682.0,17289.8
+2013,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22575,2284.0,10117.4
+2013,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22396,2274.0,10153.6
+2013,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12868,1989.0,15456.9
+2013,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,522935,56348.0,10775.3
+2013,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,112752,17935.0,15906.6
+2013,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,119594,6837.0,5716.8
+2013,48,95.0,Knox,9,Central,Mostly Urban,24.3,52127,9402.0,18036.7
+2013,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,704462,64721.0,9187.3
+2013,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,112428,15001.0,13342.8
+2013,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16725,2560.0,15306.4
+2013,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,35116,3942.0,11225.7
+2013,53,105.0,Livingston,11,Central,Mostly Urban,40.8,37396,4352.0,11637.6
+2013,54,107.0,Logan,11,Central,Mostly Urban,39.9,29821,3463.0,11612.6
+2013,55,109.0,McDonough,9,Central,Mostly Urban,29.5,32246,5978.0,18538.7
+2013,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,307587,21631.0,7032.5
+2013,57,113.0,McLean,11,Central,Mostly Urban,16.5,175045,22640.0,12933.8
+2013,58,115.0,Macon,6,Central,Mostly Urban,15.3,109563,19074.0,17409.2
+2013,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,46679,6366.0,13637.8
+2013,60,119.0,Madison,3,Southern,Mostly Urban,13.3,267317,36105.0,13506.4
+2013,61,121.0,Marion,4,Southern,Mostly Urban,45.1,38672,7233.0,18703.5
+2013,62,123.0,Marshall,10,Central,Completely Rural,100.0,12121,1208.0,9966.2
+2013,63,125.0,Mason,8,Central,Mostly Rural,77.5,14144,1959.0,13850.4
+2013,64,127.0,Massac,1,Southern,Mostly Rural,50.5,14845,2594.0,17473.9
+2013,65,129.0,Menard,8,Central,Mostly Rural,75.7,12571,1343.0,10683.3
+2013,66,131.0,Mercer,14,Central,Mostly Rural,77.8,16075,1550.0,9642.3
+2013,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,33459,1617.0,4832.8
+2013,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,29362,4359.0,14845.7
+2013,69,137.0,Morgan,7,Central,Mostly Urban,36.2,34999,5154.0,14726.1
+2013,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14796,1793.0,12118.1
+2013,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,52279,6719.0,12852.2
+2013,72,143.0,Peoria,10,Central,Mostly Urban,14.6,188645,31181.0,16528.9
+2013,73,145.0,Perry,20,Southern,Mostly Urban,43.6,21714,3404.0,15676.5
+2013,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16429,1175.0,7152.0
+2013,75,149.0,Pike,8,Central,Mostly Rural,72.3,16071,2668.0,16601.3
+2013,76,151.0,Pope,1,Southern,Completely Rural,100.0,4453,813.0,18257.4
+2013,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,5889,1268.0,21531.7
+2013,78,155.0,Putnam,10,Central,Completely Rural,100.0,5854,519.0,8865.7
+2013,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33174,4050.0,12208.4
+2013,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16007,2599.0,16236.6
+2013,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,147688,22561.0,15276.1
+2013,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,266805,47870.0,17941.9
+2013,83,165.0,Saline,1,Southern,Mostly Urban,43.7,24799,4479.0,18061.2
+2013,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,199131,29693.0,14911.3
+2013,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7391,968.0,13097.0
+2013,86,171.0,Scott,7,Central,Completely Rural,100.0,5211,687.0,13183.6
+2013,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22141,2745.0,12397.8
+2013,88,175.0,Stark,10,Central,Completely Rural,100.0,5707,635.0,11126.7
+2013,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,46672,8542.0,18302.2
+2013,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,136268,11790.0,8652.1
+2013,91,181.0,Union,1,Southern,Mostly Rural,65.9,17545,2903.0,16546.0
+2013,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,80588,15111.0,18750.9
+2013,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,11673,1687.0,14452.2
+2013,94,187.0,Warren,9,Central,Mostly Urban,45.5,17670,2491.0,14097.3
+2013,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14413,1405.0,9748.1
+2013,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16664,2876.0,17258.8
+2013,97,193.0,White,2,Southern,Mostly Rural,62.0,14435,2192.0,15185.3
+2013,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,57462,6831.0,11887.9
+2013,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,683873,57514.0,8410.0
+2013,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,67447,10503.0,15572.2
+2013,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,290994,46602.0,16014.8
+2013,102,203.0,Woodford,11,Central,Mostly Rural,54.9,39035,2687.0,6883.6
+2014,1,1.0,Adams,8,Central,Mostly Urban,32.6,66973,9185.0,13714.5
+2014,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,7082,2491.0,35173.7
+2014,3,5.0,Bond,3,Southern,Mostly Rural,60.7,17071,2463.0,14428.0
+2014,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,53740,5447.0,10135.8
+2014,5,9.0,Brown,8,Central,Mostly Urban,41.1,6833,665.0,9732.2
+2014,6,11.0,Bureau,13,Central,Mostly Rural,57.4,33861,4369.0,12902.7
+2014,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,4925,587.0,11918.8
+2014,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,14783,1821.0,12318.2
+2014,9,17.0,Cass,8,Central,Mostly Rural,52.1,13091,1702.0,13001.3
+2014,10,19.0,Champaign,6,Central,Mostly Urban,12.7,207959,43210.0,20778.1
+2014,11,21.0,Christian,4,Central,Mostly Urban,43.5,33810,4639.0,13720.8
+2014,12,23.0,Clark,5,Southern,Mostly Rural,59.5,16046,2213.0,13791.6
+2014,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13446,1811.0,13468.7
+2014,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,37644,3554.0,9441.1
+2014,15,29.0,Coles,5,Central,Mostly Urban,24.3,52522,11228.0,21377.7
+2014,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5257481,883001.0,16795.1
+2014,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19285,2721.0,14109.4
+2014,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10924,1298.0,11882.1
+2014,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,104570,14452.0,13820.4
+2014,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16216,1735.0,10699.3
+2014,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19903,1957.0,9832.7
+2014,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,933820,72895.0,7806.1
+2014,23,45.0,Edgar,5,Central,Mostly Rural,51.8,17805,2636.0,14804.8
+2014,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6628,756.0,11406.2
+2014,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34119,3987.0,11685.6
+2014,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,22072,3495.0,15834.5
+2014,27,53.0,Ford,11,Central,Mostly Urban,41.8,13539,1604.0,11847.3
+2014,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39445,7684.0,19480.3
+2014,29,57.0,Fulton,9,Central,Mostly Rural,60.0,35990,5453.0,15151.4
+2014,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,5280,917.0,17367.4
+2014,31,61.0,Greene,7,Central,Mostly Rural,70.8,13415,2118.0,15788.3
+2014,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,50290,4261.0,8472.9
+2014,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8314,1149.0,13820.1
+2014,34,67.0,Hancock,9,Central,Mostly Rural,71.0,18324,2126.0,11602.3
+2014,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4148,847.0,20419.5
+2014,36,71.0,Henderson,9,Central,Mostly Rural,99.7,7011,802.0,11439.2
+2014,37,73.0,Henry,14,Central,Mostly Rural,50.3,49830,5501.0,11039.5
+2014,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,28719,4486.0,15620.3
+2014,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,59359,16945.0,28546.6
+2014,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9633,1045.0,10848.1
+2014,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,38377,7046.0,18360.0
+2014,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22467,2505.0,11149.7
+2014,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22338,2352.0,10529.1
+2014,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12890,1751.0,13584.2
+2014,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,526028,55787.0,10605.3
+2014,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,111907,15667.0,14000.0
+2014,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,121413,6477.0,5334.7
+2014,48,95.0,Knox,9,Central,Mostly Urban,24.3,51944,9289.0,17882.7
+2014,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,704618,64993.0,9223.9
+2014,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,111669,14686.0,13151.4
+2014,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16558,2521.0,15225.3
+2014,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,34904,3479.0,9967.3
+2014,53,105.0,Livingston,11,Central,Mostly Urban,40.8,37040,4115.0,11109.6
+2014,54,107.0,Logan,11,Central,Mostly Urban,39.9,29656,3178.0,10716.2
+2014,55,109.0,McDonough,9,Central,Mostly Urban,29.5,31792,6549.0,20599.5
+2014,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,307414,20905.0,6800.3
+2014,57,113.0,McLean,11,Central,Mostly Urban,16.5,174121,23326.0,13396.4
+2014,58,115.0,Macon,6,Central,Mostly Urban,15.3,108520,17003.0,15668.1
+2014,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,46204,5868.0,12700.2
+2014,60,119.0,Madison,3,Southern,Mostly Urban,13.3,266618,34436.0,12915.9
+2014,61,121.0,Marion,4,Southern,Mostly Urban,45.1,38558,7004.0,18164.8
+2014,62,123.0,Marshall,10,Central,Completely Rural,100.0,11959,1255.0,10494.2
+2014,63,125.0,Mason,8,Central,Mostly Rural,77.5,14102,2014.0,14281.7
+2014,64,127.0,Massac,1,Southern,Mostly Rural,50.5,14753,3029.0,20531.4
+2014,65,129.0,Menard,8,Central,Mostly Rural,75.7,12505,1245.0,9956.0
+2014,66,131.0,Mercer,14,Central,Mostly Rural,77.8,15900,1511.0,9503.1
+2014,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,33542,1710.0,5098.1
+2014,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,29448,4577.0,15542.7
+2014,69,137.0,Morgan,7,Central,Mostly Urban,36.2,34672,4832.0,13936.3
+2014,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14750,1705.0,11559.3
+2014,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,51949,5856.0,11272.6
+2014,72,143.0,Peoria,10,Central,Mostly Urban,14.6,187531,30408.0,16214.9
+2014,73,145.0,Perry,20,Southern,Mostly Urban,43.6,21540,3200.0,14856.1
+2014,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16408,1206.0,7350.1
+2014,75,149.0,Pike,8,Central,Mostly Rural,72.3,15955,2338.0,14653.7
+2014,76,151.0,Pope,1,Southern,Completely Rural,100.0,4371,799.0,18279.6
+2014,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,5794,1332.0,22989.3
+2014,78,155.0,Putnam,10,Central,Completely Rural,100.0,5832,512.0,8779.1
+2014,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,33142,3949.0,11915.4
+2014,80,159.0,Richland,2,Southern,Mostly Urban,43.5,16018,2284.0,14259.0
+2014,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,147090,23015.0,15646.9
+2014,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,265922,49691.0,18686.3
+2014,83,165.0,Saline,1,Southern,Mostly Urban,43.7,24492,4983.0,20345.4
+2014,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,199180,29897.0,15010.0
+2014,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7260,954.0,13140.5
+2014,86,171.0,Scott,7,Central,Completely Rural,100.0,5170,614.0,11876.2
+2014,87,173.0,Shelby,4,Central,Mostly Rural,77.7,22106,2539.0,11485.6
+2014,88,175.0,Stark,10,Central,Completely Rural,100.0,5602,677.0,12085.0
+2014,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,46267,6417.0,13869.5
+2014,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,135363,12112.0,8947.8
+2014,91,181.0,Union,1,Southern,Mostly Rural,65.9,17407,3079.0,17688.3
+2014,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,79786,14555.0,18242.5
+2014,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,11600,1690.0,14569.0
+2014,94,187.0,Warren,9,Central,Mostly Urban,45.5,17719,2261.0,12760.3
+2014,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14391,1441.0,10013.2
+2014,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16593,2457.0,14807.4
+2014,97,193.0,White,2,Southern,Mostly Rural,62.0,14267,1963.0,13759.0
+2014,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,57019,6771.0,11875.0
+2014,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,685369,54720.0,7984.0
+2014,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,67410,10271.0,15236.6
+2014,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,288775,47864.0,16574.8
+2014,102,203.0,Woodford,11,Central,Mostly Rural,54.9,39061,2411.0,6172.4
+2015,1,1.0,Adams,8,Central,Mostly Urban,32.6,66857,8674.0,12974.0
+2015,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,6761,1915.0,28324.2
+2015,3,5.0,Bond,3,Southern,Mostly Rural,60.7,16684,2220.0,13306.2
+2015,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,53606,5477.0,10217.1
+2015,5,9.0,Brown,8,Central,Mostly Urban,41.1,6748,782.0,11588.6
+2015,6,11.0,Bureau,13,Central,Mostly Rural,57.4,33490,4167.0,12442.5
+2015,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,4858,558.0,11486.2
+2015,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,14640,1539.0,10512.3
+2015,9,17.0,Cass,8,Central,Mostly Rural,52.1,12848,1546.0,12033.0
+2015,10,19.0,Champaign,6,Central,Mostly Urban,12.7,209234,38751.0,18520.4
+2015,11,21.0,Christian,4,Central,Mostly Urban,43.5,33457,4059.0,12132.0
+2015,12,23.0,Clark,5,Southern,Mostly Rural,59.5,15869,2171.0,13680.8
+2015,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13402,1907.0,14229.2
+2015,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,37660,3028.0,8040.4
+2015,15,29.0,Coles,5,Central,Mostly Urban,24.3,52160,10640.0,20398.8
+2015,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5247662,833241.0,15878.3
+2015,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19258,2410.0,12514.3
+2015,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10860,1285.0,11832.4
+2015,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,104154,15847.0,15215.0
+2015,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16181,1846.0,11408.4
+2015,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19831,2009.0,10130.6
+2015,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,933965,65538.0,7017.2
+2015,23,45.0,Edgar,5,Central,Mostly Rural,51.8,17603,2412.0,13702.2
+2015,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6509,732.0,11246.0
+2015,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34209,3313.0,9684.6
+2015,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,22033,3711.0,16842.9
+2015,27,53.0,Ford,11,Central,Mostly Urban,41.8,13526,1494.0,11045.4
+2015,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39390,7252.0,18410.8
+2015,29,57.0,Fulton,9,Central,Mostly Rural,60.0,35707,4874.0,13650.0
+2015,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,5222,936.0,17924.2
+2015,31,61.0,Greene,7,Central,Mostly Rural,70.8,13344,2165.0,16224.5
+2015,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,50363,3884.0,7712.0
+2015,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8249,1055.0,12789.4
+2015,34,67.0,Hancock,9,Central,Mostly Rural,71.0,18215,2319.0,12731.3
+2015,35,69.0,Hardin,2,Southern,Completely Rural,100.0,4065,828.0,20369.0
+2015,36,71.0,Henderson,9,Central,Mostly Rural,99.7,6997,793.0,11333.4
+2015,37,73.0,Henry,14,Central,Mostly Rural,50.3,49644,5215.0,10504.8
+2015,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,28522,3737.0,13102.2
+2015,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,59245,13118.0,22142.0
+2015,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9628,1140.0,11840.5
+2015,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,38290,5998.0,15664.7
+2015,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,22223,2455.0,11047.1
+2015,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,22077,2060.0,9331.0
+2015,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12780,1569.0,12277.0
+2015,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,529330,56882.0,10746.0
+2015,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,111758,16163.0,14462.5
+2015,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,122937,5950.0,4839.9
+2015,48,95.0,Knox,9,Central,Mostly Urban,24.3,51374,8149.0,15862.1
+2015,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,704995,61899.0,8780.1
+2015,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,111023,13843.0,12468.6
+2015,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16455,2454.0,14913.4
+2015,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,34515,4005.0,11603.7
+2015,53,105.0,Livingston,11,Central,Mostly Urban,40.8,36603,4364.0,11922.5
+2015,54,107.0,Logan,11,Central,Mostly Urban,39.9,29270,3445.0,11769.7
+2015,55,109.0,McDonough,9,Central,Mostly Urban,29.5,31430,6247.0,19875.9
+2015,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,307650,24659.0,8015.3
+2015,57,113.0,McLean,11,Central,Mostly Urban,16.5,173160,18969.0,10954.6
+2015,58,115.0,Macon,6,Central,Mostly Urban,15.3,107363,18784.0,17495.8
+2015,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,45875,6192.0,13497.5
+2015,60,119.0,Madison,3,Southern,Mostly Urban,13.3,266069,33734.0,12678.7
+2015,61,121.0,Marion,4,Southern,Mostly Urban,45.1,38366,6718.0,17510.3
+2015,62,123.0,Marshall,10,Central,Completely Rural,100.0,11919,1244.0,10437.1
+2015,63,125.0,Mason,8,Central,Mostly Rural,77.5,13861,1869.0,13483.9
+2015,64,127.0,Massac,1,Southern,Mostly Rural,50.5,14565,2438.0,16738.8
+2015,65,129.0,Menard,8,Central,Mostly Rural,75.7,12355,1258.0,10182.1
+2015,66,131.0,Mercer,14,Central,Mostly Rural,77.8,15744,1581.0,10041.9
+2015,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,33738,1669.0,4946.9
+2015,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,29186,4444.0,15226.5
+2015,69,137.0,Morgan,7,Central,Mostly Urban,36.2,34665,4746.0,13691.0
+2015,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14740,1248.0,8466.8
+2015,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,51573,5289.0,10255.4
+2015,72,143.0,Peoria,10,Central,Mostly Urban,14.6,186512,28269.0,15156.7
+2015,73,145.0,Perry,20,Southern,Mostly Urban,43.6,21516,3213.0,14933.1
+2015,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16349,1054.0,6446.9
+2015,75,149.0,Pike,8,Central,Mostly Rural,72.3,15792,2290.0,14501.0
+2015,76,151.0,Pope,1,Southern,Completely Rural,100.0,4287,721.0,16818.3
+2015,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,5654,1396.0,24690.5
+2015,78,155.0,Putnam,10,Central,Completely Rural,100.0,5728,492.0,8589.4
+2015,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,32803,4049.0,12343.4
+2015,80,159.0,Richland,2,Southern,Mostly Urban,43.5,15953,2334.0,14630.5
+2015,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,146284,18596.0,12712.3
+2015,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,264805,42464.0,16036.0
+2015,83,165.0,Saline,1,Southern,Mostly Urban,43.7,24491,5500.0,22457.2
+2015,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,198884,29798.0,14982.6
+2015,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7149,894.0,12505.2
+2015,86,171.0,Scott,7,Central,Completely Rural,100.0,5111,568.0,11113.3
+2015,87,173.0,Shelby,4,Central,Mostly Rural,77.7,21823,2494.0,11428.3
+2015,88,175.0,Stark,10,Central,Completely Rural,100.0,5505,720.0,13079.0
+2015,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,45668,5814.0,12731.0
+2015,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,134290,11019.0,8205.4
+2015,91,181.0,Union,1,Southern,Mostly Rural,65.9,17290,2626.0,15188.0
+2015,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,79173,14028.0,17718.2
+2015,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,11626,1396.0,12007.6
+2015,94,187.0,Warren,9,Central,Mostly Urban,45.5,17466,2360.0,13512.0
+2015,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14262,1231.0,8631.3
+2015,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16520,2097.0,12693.7
+2015,97,193.0,White,2,Southern,Mostly Rural,62.0,14199,2078.0,14634.8
+2015,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,56914,7138.0,12541.7
+2015,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,686142,53883.0,7853.0
+2015,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,67440,10571.0,15674.7
+2015,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,287222,41541.0,14463.0
+2015,102,203.0,Woodford,11,Central,Mostly Rural,54.9,38939,2664.0,6841.5
+2016,1,1.0,Adams,8,Central,Mostly Urban,32.6,66521,8223.0,12361.5
+2016,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,6457,1857.0,28759.5
+2016,3,5.0,Bond,3,Southern,Mostly Rural,60.7,16541,2031.0,12278.6
+2016,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,53594,5071.0,9461.9
+2016,5,9.0,Brown,8,Central,Mostly Urban,41.1,6627,774.0,11679.5
+2016,6,11.0,Bureau,13,Central,Mostly Rural,57.4,33391,3775.0,11305.4
+2016,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,4866,585.0,12022.2
+2016,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,14593,1798.0,12321.0
+2016,9,17.0,Cass,8,Central,Mostly Rural,52.1,12667,1708.0,13483.9
+2016,10,19.0,Champaign,6,Central,Mostly Urban,12.7,209961,36364.0,17319.4
+2016,11,21.0,Christian,4,Central,Mostly Urban,43.5,33214,4013.0,12082.3
+2016,12,23.0,Clark,5,Southern,Mostly Rural,59.5,15860,1884.0,11878.9
+2016,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13315,2085.0,15659.0
+2016,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,37592,3330.0,8858.3
+2016,15,29.0,Coles,5,Central,Mostly Urban,24.3,51767,9348.0,18057.8
+2016,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5228455,770091.0,14728.8
+2016,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,19136,2571.0,13435.4
+2016,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10868,1323.0,12173.4
+2016,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,103984,15566.0,14969.6
+2016,20,39.0,De Witt,6,Central,Mostly Urban,48.8,16133,1686.0,10450.6
+2016,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19720,1895.0,9609.5
+2016,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,931680,64330.0,6904.7
+2016,23,45.0,Edgar,5,Central,Mostly Rural,51.8,17518,2350.0,13414.8
+2016,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6535,715.0,10941.1
+2016,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34186,3709.0,10849.5
+2016,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21566,3013.0,13971.1
+2016,27,53.0,Ford,11,Central,Mostly Urban,41.8,13346,1472.0,11029.5
+2016,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39093,8276.0,21170.0
+2016,29,57.0,Fulton,9,Central,Mostly Rural,60.0,35455,4807.0,13558.0
+2016,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,5157,1061.0,20574.0
+2016,31,61.0,Greene,7,Central,Mostly Rural,70.8,13119,1928.0,14696.2
+2016,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,50306,3936.0,7824.1
+2016,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8186,1144.0,13975.1
+2016,34,67.0,Hancock,9,Central,Mostly Rural,71.0,18203,2186.0,12009.0
+2016,35,69.0,Hardin,2,Southern,Completely Rural,100.0,3988,857.0,21489.5
+2016,36,71.0,Henderson,9,Central,Mostly Rural,99.7,6886,794.0,11530.6
+2016,37,73.0,Henry,14,Central,Mostly Rural,50.3,49511,5556.0,11221.7
+2016,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,28168,3688.0,13092.9
+2016,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,58776,12930.0,21998.8
+2016,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9576,1009.0,10536.8
+2016,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,38247,5697.0,14895.3
+2016,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,21906,2369.0,10814.4
+2016,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,21842,2145.0,9820.5
+2016,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12457,1594.0,12796.0
+2016,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,531463,55134.0,10374.0
+2016,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,111074,14958.0,13466.7
+2016,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,124592,5778.0,4637.5
+2016,48,95.0,Knox,9,Central,Mostly Urban,24.3,50938,8036.0,15776.0
+2016,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,704644,59478.0,8440.9
+2016,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,110203,14193.0,12879.0
+2016,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16167,2566.0,15871.8
+2016,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,34482,4148.0,12029.5
+2016,53,105.0,Livingston,11,Central,Mostly Urban,40.8,36100,4823.0,13360.1
+2016,54,107.0,Logan,11,Central,Mostly Urban,39.9,29153,3450.0,11834.1
+2016,55,109.0,McDonough,9,Central,Mostly Urban,29.5,30875,5470.0,17716.6
+2016,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,307296,22253.0,7241.6
+2016,57,113.0,McLean,11,Central,Mostly Urban,16.5,173140,20429.0,11799.1
+2016,58,115.0,Macon,6,Central,Mostly Urban,15.3,106430,17760.0,16687.0
+2016,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,45689,5962.0,13049.1
+2016,60,119.0,Madison,3,Southern,Mostly Urban,13.3,265733,34772.0,13085.3
+2016,61,121.0,Marion,4,Southern,Mostly Urban,45.1,38055,5891.0,15480.2
+2016,62,123.0,Marshall,10,Central,Completely Rural,100.0,11875,1144.0,9633.7
+2016,63,125.0,Mason,8,Central,Mostly Rural,77.5,13673,1996.0,14598.1
+2016,64,127.0,Massac,1,Southern,Mostly Rural,50.5,14439,2972.0,20583.1
+2016,65,129.0,Menard,8,Central,Mostly Rural,75.7,12399,1191.0,9605.6
+2016,66,131.0,Mercer,14,Central,Mostly Rural,77.8,15599,1581.0,10135.3
+2016,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,33908,1599.0,4715.7
+2016,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,29056,4220.0,14523.7
+2016,69,137.0,Morgan,7,Central,Mostly Urban,36.2,34616,4962.0,14334.4
+2016,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14603,1444.0,9888.4
+2016,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,51162,5167.0,10099.3
+2016,72,143.0,Peoria,10,Central,Mostly Urban,14.6,185073,27254.0,14726.1
+2016,73,145.0,Perry,20,Southern,Mostly Urban,43.6,21391,2953.0,13804.9
+2016,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16526,1115.0,6746.9
+2016,75,149.0,Pike,8,Central,Mostly Rural,72.3,15738,2506.0,15923.2
+2016,76,151.0,Pope,1,Southern,Completely Rural,100.0,4179,720.0,17229.0
+2016,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,5602,1183.0,21117.5
+2016,78,155.0,Putnam,10,Central,Completely Rural,100.0,5714,448.0,7840.4
+2016,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,32416,3850.0,11876.9
+2016,80,159.0,Richland,2,Southern,Mostly Urban,43.5,15822,2235.0,14125.9
+2016,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,145230,21769.0,14989.3
+2016,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,263102,39745.0,15106.3
+2016,83,165.0,Saline,1,Southern,Mostly Urban,43.7,24230,4795.0,19789.5
+2016,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,198004,26767.0,13518.4
+2016,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,7029,823.0,11708.6
+2016,86,171.0,Scott,7,Central,Completely Rural,100.0,5048,575.0,11390.6
+2016,87,173.0,Shelby,4,Central,Mostly Rural,77.7,21738,2521.0,11597.2
+2016,88,175.0,Stark,10,Central,Completely Rural,100.0,5509,652.0,11835.2
+2016,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,45497,6916.0,15201.0
+2016,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,133887,11526.0,8608.8
+2016,91,181.0,Union,1,Southern,Mostly Rural,65.9,17112,2957.0,17280.3
+2016,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,78494,15183.0,19342.9
+2016,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,11542,1529.0,13247.3
+2016,94,187.0,Warren,9,Central,Mostly Urban,45.5,17303,2213.0,12789.7
+2016,95,189.0,Washington,20,Southern,Mostly Rural,73.6,14178,1290.0,9098.6
+2016,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16549,2272.0,13728.9
+2016,97,193.0,White,2,Southern,Mostly Rural,62.0,14070,2246.0,15963.0
+2016,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,56472,6586.0,11662.4
+2016,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,688648,48627.0,7061.2
+2016,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,67480,10423.0,15446.1
+2016,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,286054,43858.0,15332.1
+2016,102,203.0,Woodford,11,Central,Mostly Rural,54.9,38925,2515.0,6461.1
+2017,1,1.0,Adams,8,Central,Mostly Urban,32.6,66094,8608.0,13023.9
+2017,2,3.0,Alexander,1,Southern,Mostly Rural,61.9,6302,1889.0,29974.6
+2017,3,5.0,Bond,3,Southern,Mostly Rural,60.7,16635,1993.0,11980.8
+2017,4,7.0,Boone,17,Northern - Other,Mostly Urban,19.4,53512,4676.0,8738.2
+2017,5,9.0,Brown,8,Central,Mostly Urban,41.1,6611,685.0,10361.5
+2017,6,11.0,Bureau,13,Central,Mostly Rural,57.4,33168,3506.0,10570.4
+2017,7,13.0,Calhoun,8,Southern,Completely Rural,100.0,4841,499.0,10307.8
+2017,8,15.0,Carroll,15,Northern - Other,Mostly Rural,81.9,14481,1647.0,11373.5
+2017,9,17.0,Cass,8,Central,Mostly Rural,52.1,12461,1635.0,13120.9
+2017,10,19.0,Champaign,6,Central,Mostly Urban,12.7,210104,37106.0,17660.8
+2017,11,21.0,Christian,4,Central,Mostly Urban,43.5,33011,4270.0,12935.1
+2017,12,23.0,Clark,5,Southern,Mostly Rural,59.5,15809,1697.0,10734.4
+2017,13,25.0,Clay,4,Southern,Mostly Rural,64.7,13272,1721.0,12967.1
+2017,14,27.0,Clinton,4,Southern,Mostly Urban,48.8,37607,2910.0,7737.9
+2017,15,29.0,Coles,5,Central,Mostly Urban,24.3,51348,9377.0,18261.7
+2017,16,31.0,Cook,co,Northern - Cook,Completely Urban,0.0,5204502,746194.0,14337.5
+2017,17,33.0,Crawford,2,Southern,Mostly Rural,60.2,18955,2404.0,12682.7
+2017,18,35.0,Cumberland,5,Southern,Completely Rural,100.0,10864,1102.0,10143.6
+2017,19,37.0,DeKalb,23,Northern - Other,Mostly Urban,20.3,104151,13876.0,13323.0
+2017,20,39.0,De Witt,6,Central,Mostly Urban,48.8,15909,1823.0,11458.9
+2017,21,41.0,Douglas,6,Central,Mostly Rural,61.6,19639,1907.0,9710.3
+2017,22,43.0,DuPage,18,Northern - Collar,Completely Urban,0.0,930662,56794.0,6102.5
+2017,23,45.0,Edgar,5,Central,Mostly Rural,51.8,17411,2344.0,13462.8
+2017,24,47.0,Edwards,2,Southern,Completely Rural,100.0,6471,697.0,10771.1
+2017,25,49.0,Effingham,4,Southern,Mostly Rural,59.7,34147,3256.0,9535.2
+2017,26,51.0,Fayette,4,Southern,Mostly Rural,67.0,21535,3604.0,16735.5
+2017,27,53.0,Ford,11,Central,Mostly Urban,41.8,13317,1482.0,11128.6
+2017,28,55.0,Franklin,2,Southern,Mostly Urban,48.6,39004,7468.0,19146.8
+2017,29,57.0,Fulton,9,Central,Mostly Rural,60.0,35095,4890.0,13933.6
+2017,30,59.0,Gallatin,2,Southern,Completely Rural,100.0,5069,955.0,18840.0
+2017,31,61.0,Greene,7,Central,Mostly Rural,70.8,13168,1895.0,14390.9
+2017,32,63.0,Grundy,13,Northern - Other,Mostly Urban,24.4,50613,3543.0,7000.2
+2017,33,65.0,Hamilton,2,Southern,Mostly Rural,68.1,8195,1046.0,12763.9
+2017,34,67.0,Hancock,9,Central,Mostly Rural,71.0,17973,2079.0,11567.4
+2017,35,69.0,Hardin,2,Southern,Completely Rural,100.0,3935,850.0,21601.0
+2017,36,71.0,Henderson,9,Central,Mostly Rural,99.7,6819,753.0,11042.7
+2017,37,73.0,Henry,14,Central,Mostly Rural,50.3,49246,5318.0,10798.8
+2017,38,75.0,Iroquois,21,Central,Mostly Rural,71.7,27830,3538.0,12712.9
+2017,39,77.0,Jackson,1,Southern,Mostly Urban,37.2,57958,15952.0,27523.4
+2017,40,79.0,Jasper,4,Southern,Mostly Rural,69.9,9540,1128.0,11823.9
+2017,41,81.0,Jefferson,2,Southern,Mostly Rural,58.8,38111,6247.0,16391.6
+2017,42,83.0,Jersey,7,Southern,Mostly Rural,60.6,21901,2164.0,9880.8
+2017,43,85.0,Jo Daviess,15,Northern - Other,Mostly Rural,72.6,21549,1980.0,9188.4
+2017,44,87.0,Johnson,1,Southern,Completely Rural,100.0,12425,1660.0,13360.2
+2017,45,89.0,Kane,16,Northern - Collar,Mostly Urban,3.6,533156,48756.0,9144.8
+2017,46,91.0,Kankakee,21,Central,Mostly Urban,24.5,110544,15750.0,14247.7
+2017,47,93.0,Kendall,23,Northern - Other,Mostly Urban,10.4,126272,5993.0,4746.1
+2017,48,95.0,Knox,9,Central,Mostly Urban,24.3,50628,7485.0,14784.3
+2017,49,97.0,Lake,19,Northern - Collar,Mostly Urban,1.3,703006,52630.0,7486.4
+2017,50,99.0,LaSalle,13,Northern - Other,Mostly Urban,30.2,109681,15216.0,13873.0
+2017,51,101.0,Lawrence,2,Southern,Mostly Rural,58.0,16000,2341.0,14631.3
+2017,52,103.0,Lee,15,Northern - Other,Mostly Rural,53.2,34511,3589.0,10399.6
+2017,53,105.0,Livingston,11,Central,Mostly Urban,40.8,36115,4330.0,11989.5
+2017,54,107.0,Logan,11,Central,Mostly Urban,39.9,29015,3032.0,10449.8
+2017,55,109.0,McDonough,9,Central,Mostly Urban,29.5,30323,5008.0,16515.5
+2017,56,111.0,McHenry,22,Northern - Collar,Mostly Urban,9.9,308013,18686.0,6066.6
+2017,57,113.0,McLean,11,Central,Mostly Urban,16.5,172845,25273.0,14621.8
+2017,58,115.0,Macon,6,Central,Mostly Urban,15.3,105533,14566.0,13802.3
+2017,59,117.0,Macoupin,7,Central,Mostly Rural,58.5,45515,6152.0,13516.4
+2017,60,119.0,Madison,3,Southern,Mostly Urban,13.3,265471,37768.0,14226.8
+2017,61,121.0,Marion,4,Southern,Mostly Urban,45.1,37821,5952.0,15737.3
+2017,62,123.0,Marshall,10,Central,Completely Rural,100.0,11685,1109.0,9490.8
+2017,63,125.0,Mason,8,Central,Mostly Rural,77.5,13688,1842.0,13457.0
+2017,64,127.0,Massac,1,Southern,Mostly Rural,50.5,14312,2159.0,15085.2
+2017,65,129.0,Menard,8,Central,Mostly Rural,75.7,12286,1054.0,8578.9
+2017,66,131.0,Mercer,14,Central,Mostly Rural,77.8,15623,1636.0,10471.7
+2017,67,133.0,Monroe,20,Southern,Mostly Urban,41.4,34159,1644.0,4812.8
+2017,68,135.0,Montgomery,4,Central,Mostly Urban,41.6,28755,4075.0,14171.4
+2017,69,137.0,Morgan,7,Central,Mostly Urban,36.2,34199,4197.0,12272.3
+2017,70,139.0,Moultrie,6,Central,Mostly Rural,69.2,14703,1288.0,8760.1
+2017,71,141.0,Ogle,15,Northern - Other,Mostly Urban,47.1,51032,4866.0,9535.2
+2017,72,143.0,Peoria,10,Central,Mostly Urban,14.6,182578,27364.0,14987.6
+2017,73,145.0,Perry,20,Southern,Mostly Urban,43.6,21297,2932.0,13767.2
+2017,74,147.0,Piatt,6,Central,Mostly Rural,67.7,16456,1025.0,6228.7
+2017,75,149.0,Pike,8,Central,Mostly Rural,72.3,15672,2403.0,15333.1
+2017,76,151.0,Pope,1,Southern,Completely Rural,100.0,4194,760.0,18121.1
+2017,77,153.0,Pulaski,1,Southern,Completely Rural,100.0,5541,1260.0,22739.6
+2017,78,155.0,Putnam,10,Central,Completely Rural,100.0,5718,455.0,7957.3
+2017,79,157.0,Randolph,20,Southern,Mostly Urban,42.6,32264,4402.0,13643.7
+2017,80,159.0,Richland,2,Southern,Mostly Urban,43.5,15848,2385.0,15049.2
+2017,81,161.0,Rock Island,14,Central,Mostly Urban,10.9,144293,18069.0,12522.4
+2017,82,163.0,St. Clair,20,Southern,Mostly Urban,9.8,262426,41174.0,15689.8
+2017,83,165.0,Saline,1,Southern,Mostly Urban,43.7,24035,4332.0,18023.7
+2017,84,167.0,Sangamon,7,Central,Mostly Urban,14.1,196889,29676.0,15072.5
+2017,85,169.0,Schuyler,8,Central,Mostly Rural,57.6,6976,817.0,11711.6
+2017,86,171.0,Scott,7,Central,Completely Rural,100.0,4978,602.0,12093.2
+2017,87,173.0,Shelby,4,Central,Mostly Rural,77.7,21752,2214.0,10178.4
+2017,88,175.0,Stark,10,Central,Completely Rural,100.0,5457,593.0,10866.8
+2017,89,177.0,Stephenson,15,Northern - Other,Mostly Urban,40.1,44981,7389.0,16426.9
+2017,90,179.0,Tazewell,10,Central,Mostly Urban,20.4,133391,11896.0,8918.1
+2017,91,181.0,Union,1,Southern,Mostly Rural,65.9,16985,3183.0,18740.1
+2017,92,183.0,Vermilion,5,Central,Mostly Urban,31.3,77776,14553.0,18711.4
+2017,93,185.0,Wabash,2,Southern,Mostly Urban,38.9,11550,1572.0,13610.4
+2017,94,187.0,Warren,9,Central,Mostly Urban,45.5,17170,1881.0,10955.2
+2017,95,189.0,Washington,20,Southern,Mostly Rural,73.6,13951,1111.0,7963.6
+2017,96,191.0,Wayne,2,Southern,Mostly Rural,69.9,16442,2300.0,13988.6
+2017,97,193.0,White,2,Southern,Mostly Rural,62.0,13925,2072.0,14879.7
+2017,98,195.0,Whiteside,14,Northern - Other,Mostly Urban,37.3,55947,7110.0,12708.5
+2017,99,197.0,Will,12,Northern - Collar,Mostly Urban,3.9,691017,47639.0,6894.0
+2017,100,199.0,Williamson,1,Southern,Mostly Urban,34.8,67107,9993.0,14891.1
+2017,101,201.0,Winnebago,17,Northern - Other,Mostly Urban,7.9,284740,39766.0,13965.7
+2017,102,203.0,Woodford,11,Central,Mostly Rural,54.9,38699,2179.0,5630.6

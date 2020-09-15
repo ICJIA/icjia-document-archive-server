@@ -1,0 +1,770 @@
+state,r3_funding_region,county,r3_zone_id,census_tract_name,census_tract_geoid,service_delivery_minimum_funding_amount,service_delivery_maximum_funding_amount,planning_grant_minimum_funding_amount,planning_grant_maximum_funding_amount,high_need_area
+Illinois,Collar,Kankakee County,502,Census Tract 117,17091011700,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,South Central,Madison County,720,Census Tract 4015,17119401500,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Northwest,Rock Island County,611,Census Tract 244,17161024400,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",Yes
+Illinois,South Central,Madison County,721,Census Tract 4017.01,17119401701,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,South Central,Madison County,728,Census Tract 4034.02,17119403402,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Collar,Kane County,491,Census Tract 8532,17089853200,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Kankakee County,500,Census Tract 115,17091011500,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Kane County,489,Census Tract 8529.05,17089852905,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Kane County,492,Census Tract 8536,17089853600,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Kane County,494,Census Tract 8541,17089854100,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Kane County,495,Census Tract 8542,17089854200,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Northwest Central,Peoria County,657,Census Tract 27.02,17143002702,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,Peoria County,656,Census Tract 27.01,17143002701,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Collar,Kankakee County,501,Census Tract 116,17091011600,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Cook - Chicago Western,Cook County,365,Census Tract 8369,17031836900,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,377,Census Tract 8412,17031841200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Southern,Cook County,234,Census Tract 8395,17031839500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,226,Census Tract 8358,17031835800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,232,Census Tract 8388,17031838800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Western,Cook County,383,Census Tract 8419,17031841900,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,388,Census Tract 8432,17031843200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,390,Census Tract 8434,17031843400,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,242,Census Tract 8426,17031842600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Suburban,Cook County,394,Census Tract 8092,17031809200,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,South Central,Edgar County,711,Census Tract 703,17045070300,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,South Central,Fayette County,714,Census Tract 9509,17051950900,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,South Central,Fayette County,713,Census Tract 9505,17051950500,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Northwest Central,McDonough County,627,Census Tract 106,17109010600,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Northeast Central,Vermilion County,558,Census Tract 112,17183011200,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",No
+Illinois,Northeast Central,Vermilion County,553,Census Tract 3,17183000300,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",Yes
+Illinois,Northeast Central,Vermilion County,556,Census Tract 6,17183000600,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",Yes
+Illinois,Northwest Central,Warren County,662,Census Tract 8705,17187870500,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northeast Central,Vermilion County,557,Census Tract 107.01,17183010701,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",Yes
+Illinois,Northeast Central,Vermilion County,555,Census Tract 5,17183000500,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",Yes
+Illinois,Northeast Central,Vermilion County,551,Census Tract 1,17183000100,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",Yes
+Illinois,Central,Macon County,675,Census Tract 20,17115002000,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Northern,Winnebago County,571,Census Tract 10,17201001000,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Southern,Jefferson County,761,Census Tract 511,17081051100,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",Yes
+Illinois,Northern,Winnebago County,572,Census Tract 11,17201001100,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,Northern,Winnebago County,574,Census Tract 13,17201001300,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,575,Census Tract 14,17201001400,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Central,Macon County,677,Census Tract 29.03,17115002903,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Macon County,669,Census Tract 5,17115000500,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Southern,Jefferson County,760,Census Tract 510,17081051000,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",Yes
+Illinois,Southern,Jefferson County,759,Census Tract 509,17081050900,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Northern,Winnebago County,576,Census Tract 17,17201001700,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,Northern,Winnebago County,577,Census Tract 18,17201001800,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Central,Macon County,674,Census Tract 19,17115001900,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Montgomery County,680,Census Tract 9579,17135957900,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Northwest Central,Peoria County,642,Census Tract 2,17143000200,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Northwest Central,Peoria County,658,Census Tract 41.02,17143004102,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,Peoria County,644,Census Tract 5,17143000500,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Northwest Central,Peoria County,641,Census Tract 1,17143000100,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Northwest Central,Peoria County,643,Census Tract 3,17143000300,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Northwest Central,Peoria County,653,Census Tract 22,17143002200,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,South Central,Madison County,717,Census Tract 4006,17119400600,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,Northwest Central,Peoria County,645,Census Tract 6,17143000600,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Northwest Central,Peoria County,646,Census Tract 9,17143000900,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Northwest Central,Peoria County,647,Census Tract 12,17143001200,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Northwest,Henry County,598,Census Tract 306,17073030600,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,Northwest Central,Peoria County,648,Census Tract 13,17143001300,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Northwest Central,Peoria County,649,Census Tract 15,17143001500,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Central,Macon County,666,Census Tract 2,17115000200,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Macon County,676,Census Tract 21,17115002100,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Northwest Central,Peoria County,650,Census Tract 16,17143001600,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Central,Macon County,667,Census Tract 3,17115000300,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,South Central,St. Clair County,735,Census Tract 5005,17163500500,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,St. Clair County,736,Census Tract 5009,17163500900,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,Central,Macon County,671,Census Tract 9,17115000900,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Macon County,672,Census Tract 10,17115001000,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,South Central,Coles County,708,Census Tract 4,17029000400,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Central,Macon County,668,Census Tract 4,17115000400,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Macon County,670,Census Tract 6,17115000600,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Northwest Central,McLean County,631,Census Tract 4,17113000400,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,McLean County,633,Census Tract 13.01,17113001301,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,McLean County,629,Census Tract 2,17113000200,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,Peoria County,654,Census Tract 24,17143002400,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,Peoria County,655,Census Tract 25,17143002500,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,South Central,Jersey County,715,Census Tract 101,17083010100,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Central,Greene County,663,Census Tract 9737,17061973700,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Northwest Central,McLean County,630,Census Tract 3.01,17113000301,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Cook - Chicago Western,Cook County,319,Census Tract 2522.01,17031252201,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,137,Census Tract 6603.02,17031660302,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,136,Census Tract 6603.01,17031660301,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,203,Census Tract 7302.02,17031730202,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Suburban,Cook County,397,Census Tract 8133.02,17031813302,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,396,Census Tract 8133.01,17031813301,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Southern,Cook County,225,Census Tract 8356,17031835600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Northwest Central,McLean County,632,Census Tract 5.01,17113000501,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Cook - Chicago Southern,Cook County,230,Census Tract 8364,17031836400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,229,Census Tract 8361,17031836100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,218,Census Tract 8346,17031834600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,244,Census Tract 8436,17031843600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Collar,Will County,537,Census Tract 8826.02,17197882602,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Northwest Central,McLean County,634,Census Tract 13.03,17113001303,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,McLean County,637,Census Tract 15,17113001500,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,McLean County,638,Census Tract 16,17113001600,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Northwest Central,McLean County,639,Census Tract 17,17113001700,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Cook - Chicago Northern,Cook County,274,Census Tract 2209.01,17031220901,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Northern,Cook County,273,Census Tract 2106.02,17031210602,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Western,Cook County,320,Census Tract 2522.02,17031252202,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,318,Census Tract 2521.02,17031252102,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Southern,Pulaski County,762,Census Tract 9711,17153971100,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",Yes
+Illinois,Cook - Suburban,Cook County,414,Census Tract 8206.05,17031820605,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Southern,Cook County,217,Census Tract 8345,17031834500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,227,Census Tract 8359,17031835900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,228,Census Tract 8360,17031836000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,216,Census Tract 8344,17031834400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,215,Census Tract 8343,17031834300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Collar,Will County,543,Census Tract 9801,17197980100,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Northeast Central,Champaign County,550,Census Tract 57.01,17019005701,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",No
+Illinois,Cook - Chicago Southern,Cook County,36,Census Tract 4301.02,17031430102,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,35,Census Tract 4301.01,17031430101,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Western,Cook County,317,Census Tract 2521.01,17031252101,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Northern,Cook County,250,Census Tract 105.01,17031010501,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Northern,Cook County,248,Census Tract 102.01,17031010201,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Southern,Cook County,51,Census Tract 4402.01,17031440201,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,104,Census Tract 5401.01,17031540101,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,213,Census Tract 8340,17031834000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,212,Census Tract 8339,17031833900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Central,Sangamon County,689,Census Tract 6,17167000600,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Sangamon County,690,Census Tract 7,17167000700,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Sangamon County,691,Census Tract 8,17167000800,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Sangamon County,692,Census Tract 9,17167000900,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Sangamon County,697,Census Tract 18,17167001800,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Sangamon County,698,Census Tract 19,17167001900,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Sangamon County,699,Census Tract 23,17167002300,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Sangamon County,702,Census Tract 26,17167002600,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Sangamon County,704,Census Tract 28.01,17167002801,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Northwest Central,Knox County,621,Census Tract 9,17095000900,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,Knox County,623,Census Tract 11,17095001100,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Central,Logan County,664,Census Tract 9532,17107953200,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Logan County,665,Census Tract 9533,17107953300,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Northwest Central,Knox County,620,Census Tract 7,17095000700,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Central,Sangamon County,684,Census Tract 2.02,17167000202,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Sangamon County,685,Census Tract 3,17167000300,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Sangamon County,686,Census Tract 4,17167000400,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Sangamon County,701,Census Tract 25,17167002500,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Sangamon County,683,Census Tract 1,17167000100,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Sangamon County,700,Census Tract 24,17167002400,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Southern,Jackson County,758,Census Tract 112,17077011200,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Southern,Jackson County,756,Census Tract 107,17077010700,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Northwest Central,Fulton County,619,Census Tract 9534,17057953400,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Central,Sangamon County,693,Census Tract 13,17167001300,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Sangamon County,694,Census Tract 15,17167001500,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Sangamon County,696,Census Tract 17,17167001700,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,South Central,Marion County,731,Census Tract 9526,17121952600,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,Marion County,732,Census Tract 9527,17121952700,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,South Central,Marion County,730,Census Tract 9518,17121951800,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,Northwest Central,Knox County,622,Census Tract 10,17095001000,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Central,Sangamon County,695,Census Tract 16,17167001600,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Central,Sangamon County,703,Census Tract 27,17167002700,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Cook - Chicago Northern,Cook County,275,Census Tract 2210,17031221000,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Western,Cook County,298,Census Tract 2411,17031241100,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Northwest,Rock Island County,606,Census Tract 226,17161022600,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",Yes
+Illinois,Cook - Chicago Western,Cook County,300,Census Tract 2502,17031250200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,301,Census Tract 2503,17031250300,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,302,Census Tract 2504,17031250400,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Northwest Central,Adams County,615,Census Tract 5,17001000500,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Cook - Chicago Northern,Cook County,258,Census Tract 804,17031080400,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",Yes
+Illinois,Cook - Chicago Western,Cook County,303,Census Tract 2506,17031250600,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,304,Census Tract 2507,17031250700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,305,Census Tract 2508,17031250800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,306,Census Tract 2510,17031251000,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,307,Census Tract 2511,17031251100,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,308,Census Tract 2512,17031251200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,309,Census Tract 2513,17031251300,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Northwest Central,Adams County,616,Census Tract 7,17001000700,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Cook - Suburban,Cook County,415,Census Tract 8212,17031821200,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Southern,Cook County,163,Census Tract 6720,17031672000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Northwest Central,Adams County,617,Census Tract 8,17001000800,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,194,Census Tract 7109,17031710900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,195,Census Tract 7110,17031711000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,196,Census Tract 7111,17031711100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,197,Census Tract 7112,17031711200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,200,Census Tract 7115,17031711500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,198,Census Tract 7113,17031711300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,199,Census Tract 7114,17031711400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Western,Cook County,331,Census Tract 2705,17031270500,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,332,Census Tract 2712,17031271200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,333,Census Tract 2713,17031271300,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,334,Census Tract 2714,17031271400,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,2,Census Tract 3504,17031350400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,4,Census Tract 3514,17031351400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,6,Census Tract 3602,17031360200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,39,Census Tract 4304,17031430400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,41,Census Tract 4306,17031430600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,43,Census Tract 4308,17031430800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,40,Census Tract 4305,17031430500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,44,Census Tract 4309,17031430900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,115,Census Tract 6103,17031610300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,167,Census Tract 6810,17031681000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,168,Census Tract 6811,17031681100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,164,Census Tract 6805,17031680500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,166,Census Tract 6809,17031680900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Suburban,Cook County,424,Census Tract 8255.01,17031825501,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,402,Census Tract 8169,17031816900,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Northwest Central,Adams County,614,Census Tract 4,17001000400,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Cook - Suburban,Cook County,403,Census Tract 8170,17031817000,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,404,Census Tract 8171.01,17031817101,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,405,Census Tract 8171.02,17031817102,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,429,Census Tract 8258.01,17031825801,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,430,Census Tract 8258.02,17031825802,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,431,Census Tract 8258.03,17031825803,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,432,Census Tract 8259,17031825900,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,433,Census Tract 8260,17031826000,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Southern,Cook County,7,Census Tract 3801,17031380100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,8,Census Tract 3802,17031380200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,45,Census Tract 4312,17031431200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,48,Census Tract 4314,17031431400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,117,Census Tract 6110,17031611000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,118,Census Tract 6111,17031611100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,120,Census Tract 6113,17031611300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,121,Census Tract 6114,17031611400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,122,Census Tract 6115,17031611500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,126,Census Tract 6119,17031611900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,169,Census Tract 6812,17031681200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Suburban,Cook County,406,Census Tract 8172,17031817200,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,409,Census Tract 8176,17031817600,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Southern,Cook County,178,Census Tract 6912,17031691200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,177,Census Tract 6911,17031691100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,201,Census Tract 7301,17031730100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,204,Census Tract 7303,17031730300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,205,Census Tract 7304,17031730400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Suburban,Cook County,410,Census Tract 8177,17031817700,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,434,Census Tract 8261,17031826100,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,437,Census Tract 8263.01,17031826301,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,438,Census Tract 8263.03,17031826303,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,439,Census Tract 8263.04,17031826304,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,206,Census Tract 7305,17031730500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,207,Census Tract 7306,17031730600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,9,Census Tract 3805,17031380500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,11,Census Tract 3812,17031381200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,12,Census Tract 3814,17031381400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,53,Census Tract 4403,17031440300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,127,Census Tract 6120,17031612000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,128,Census Tract 6121,17031612100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,129,Census Tract 6301,17031630100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Suburban,Cook County,441,Census Tract 8264.02,17031826402,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,443,Census Tract 8266,17031826600,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,444,Census Tract 8267,17031826700,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,446,Census Tract 8269.01,17031826901,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,447,Census Tract 8269.02,17031826902,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,208,Census Tract 7307,17031730700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,14,Census Tract 3818,17031381800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,15,Census Tract 3819,17031381900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,16,Census Tract 3901,17031390100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,17,Census Tract 3902,17031390200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,18,Census Tract 3903,17031390300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,19,Census Tract 3904,17031390400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,20,Census Tract 3905,17031390500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,54,Census Tract 4406,17031440600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,57,Census Tract 4409,17031440900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,55,Census Tract 4407,17031440700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,56,Census Tract 4408,17031440800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,130,Census Tract 6302,17031630200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,131,Census Tract 6303,17031630300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,133,Census Tract 6305,17031630500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Suburban,Cook County,448,Census Tract 8270,17031827000,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,449,Census Tract 8271,17031827100,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,450,Census Tract 8272,17031827200,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,451,Census Tract 8273,17031827300,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,209,Census Tract 7501,17031750100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,210,Census Tract 7505,17031750500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Suburban,Cook County,452,Census Tract 8274,17031827400,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,454,Census Tract 8276,17031827600,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Chicago Western,Cook County,340,Census Tract 2827,17031282700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,21,Census Tract 4003,17031400300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,23,Census Tract 4005,17031400500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,24,Census Tract 4008,17031400800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,25,Census Tract 4105,17031410500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,59,Census Tract 4601,17031460100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Suburban,Cook County,455,Census Tract 8277,17031827700,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Southern,Cook County,58,Census Tract 4503,17031450300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,60,Census Tract 4602,17031460200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,134,Census Tract 6408,17031640800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,135,Census Tract 6501,17031650100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,South Central,Coles County,709,Census Tract 12,17029001200,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Cook - Chicago Southern,Cook County,211,Census Tract 7506,17031750600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Suburban,Cook County,413,Census Tract 8204,17031820400,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,457,Census Tract 8278.05,17031827805,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,460,Census Tract 8280,17031828000,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,461,Census Tract 8281,17031828100,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Western,Cook County,342,Census Tract 2838,17031283800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Suburban,Cook County,466,Census Tract 8290,17031829000,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,65,Census Tract 4606,17031460600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,66,Census Tract 4607,17031460700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,63,Census Tract 4604,17031460400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,64,Census Tract 4605,17031460500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,67,Census Tract 4610,17031461000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Suburban,Cook County,468,Census Tract 8292,17031829200,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,469,Census Tract 8293.01,17031829301,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,470,Census Tract 8293.02,17031829302,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,471,Census Tract 8294.01,17031829401,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,416,Census Tract 8213,17031821300,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Northwest,LaSalle County,600,Census Tract 9633,17099963300,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,Cook - Suburban,Cook County,463,Census Tract 8285.04,17031828504,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,26,Census Tract 4201,17031420100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,27,Census Tract 4202,17031420200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,29,Census Tract 4204,17031420400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,32,Census Tract 4207,17031420700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,33,Census Tract 4208,17031420800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,68,Census Tract 4701,17031470100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,69,Census Tract 4801,17031480100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,70,Census Tract 4802,17031480200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,71,Census Tract 4803,17031480300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,72,Census Tract 4804,17031480400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,138,Census Tract 6604,17031660400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Suburban,Cook County,417,Census Tract 8214.01,17031821401,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Northwest,LaSalle County,601,Census Tract 9642,17099964200,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,Cook - Suburban,Cook County,418,Census Tract 8214.02,17031821402,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Western,Cook County,343,Census Tract 2909,17031290900,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,344,Census Tract 2912,17031291200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,34,Census Tract 4212,17031421200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Northwest,LaSalle County,602,Census Tract 9643,17099964300,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,Cook - Chicago Western,Cook County,335,Census Tract 2715,17031271500,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,345,Census Tract 2922,17031292200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,346,Census Tract 2924,17031292400,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,347,Census Tract 2925,17031292500,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,336,Census Tract 2718,17031271800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,337,Census Tract 2804,17031280400,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,348,Census Tract 3006,17031300600,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,349,Census Tract 3007,17031300700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,352,Census Tract 3011,17031301100,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,353,Census Tract 3012,17031301200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,73,Census Tract 4805,17031480500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,74,Census Tract 4903,17031490300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,76,Census Tract 4905,17031490500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Northwest,LaSalle County,599,Census Tract 9626,17099962600,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,Cook - Chicago Southern,Cook County,94,Census Tract 5202,17031520200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,95,Census Tract 5203,17031520300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,139,Census Tract 6605,17031660500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,140,Census Tract 6606,17031660600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,141,Census Tract 6607,17031660700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,142,Census Tract 6608,17031660800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,143,Census Tract 6609,17031660900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,144,Census Tract 6610,17031661000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Western,Cook County,339,Census Tract 2809,17031280900,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,354,Census Tract 3016,17031301600,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Southern,Cook County,77,Census Tract 4906,17031490600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,78,Census Tract 4907,17031490700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,79,Census Tract 4908,17031490800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,82,Census Tract 4910,17031491000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,83,Census Tract 4911,17031491100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,97,Census Tract 5302,17031530200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,98,Census Tract 5303,17031530300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,99,Census Tract 5304,17031530400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,103,Census Tract 5306,17031530600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,147,Census Tract 6702,17031670200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,148,Census Tract 6703,17031670300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,149,Census Tract 6704,17031670400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,145,Census Tract 6611,17031661100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,146,Census Tract 6701,17031670100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,151,Census Tract 6706,17031670600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,152,Census Tract 6707,17031670700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,153,Census Tract 6708,17031670800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,154,Census Tract 6709,17031670900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Western,Cook County,329,Census Tract 2609,17031260900,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,330,Census Tract 2610,17031261000,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,355,Census Tract 3103,17031310300,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,356,Census Tract 3105,17031310500,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Southern,Cook County,84,Census Tract 4912,17031491200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,85,Census Tract 4913,17031491300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,86,Census Tract 4914,17031491400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,87,Census Tract 5001,17031500100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,88,Census Tract 5002,17031500200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,89,Census Tract 5003,17031500300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,106,Census Tract 5602,17031560200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Collar,Kankakee County,498,Census Tract 110,17091011000,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Kankakee County,499,Census Tract 114,17091011400,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Northwest Central,McLean County,628,Census Tract 1.02,17113000102,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,Peoria County,651,Census Tract 18,17143001800,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,Peoria County,652,Census Tract 21,17143002100,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",Yes
+Illinois,Southern,White County,766,Census Tract 9580,17193958000,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Northwest Central,Peoria County,659,Census Tract 50,17143005000,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Cook - Chicago Western,Cook County,338,Census Tract 2808,17031280800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Southern,Cook County,28,Census Tract 4203,17031420300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,125,Census Tract 6118,17031611800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Southern,Williamson County,768,Census Tract 210,17199021000,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Cook - Suburban,Cook County,442,Census Tract 8265,17031826500,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,479,Census Tract 8302.02,17031830202,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Northern,Winnebago County,581,Census Tract 23.01,17201002301,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,Southern,Williamson County,767,Census Tract 204,17199020400,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Cook - Chicago Northern,Cook County,253,Census Tract 303,17031030300,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Suburban,Cook County,420,Census Tract 8236.03,17031823603,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,411,Census Tract 8179,17031817900,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Southern,Cook County,31,Census Tract 4206,17031420600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Southern,Williamson County,769,Census Tract 211,17199021100,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Cook - Chicago Northern,Cook County,257,Census Tract 317,17031031700,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Southern,Cook County,116,Census Tract 6104,17031610400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Suburban,Cook County,462,Census Tract 8285.03,17031828503,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,436,Census Tract 8262.02,17031826202,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,158,Census Tract 6714,17031671400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,75,Census Tract 4904,17031490400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,132,Census Tract 6304,17031630400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Suburban,Cook County,459,Census Tract 8279.02,17031827902,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,475,Census Tract 8299.02,17031829902,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Northern,Cook County,247,Census Tract 101,17031010100,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,South Central,Madison County,724,Census Tract 4024,17119402400,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Cook - Chicago Southern,Cook County,165,Census Tract 6806,17031680600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Collar,Will County,524,Census Tract 8807.02,17197880702,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Will County,528,Census Tract 8816.04,17197881604,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Central,Sangamon County,687,Census Tract 5.03,17167000503,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Cook - Chicago Northern,Cook County,251,Census Tract 205,17031020500,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Collar,DuPage County,481,Census Tract 8411.08,17043841108,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Cook - Chicago Western,Cook County,310,Census Tract 2514,17031251400,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,323,Census Tract 2603,17031260300,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,325,Census Tract 2605,17031260500,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,326,Census Tract 2606,17031260600,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,327,Census Tract 2607,17031260700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,328,Census Tract 2608,17031260800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Northern,Cook County,261,Census Tract 1901,17031190100,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Western,Cook County,311,Census Tract 2515,17031251500,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,312,Census Tract 2516,17031251600,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,313,Census Tract 2517,17031251700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,314,Census Tract 2518,17031251800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,315,Census Tract 2519,17031251900,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,316,Census Tract 2520,17031252000,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Northwest,Rock Island County,605,Census Tract 207,17161020700,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,Cook - Chicago Northern,Cook County,262,Census Tract 1908,17031190800,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Western,Cook County,321,Census Tract 2601,17031260100,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,322,Census Tract 2602,17031260200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,96,Census Tract 5301,17031530100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Suburban,Cook County,421,Census Tract 8243,17031824300,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,419,Census Tract 8215,17031821500,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Northern,Cook County,277,Census Tract 2229,17031222900,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Western,Cook County,297,Census Tract 2410,17031241000,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Suburban,Cook County,422,Census Tract 8248,17031824800,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Northern,Cook County,263,Census Tract 1909,17031190900,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Northern,Cook County,266,Census Tract 1912,17031191200,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Northern,Cook County,269,Census Tract 2002,17031200200,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Northern,Cook County,276,Census Tract 2227,17031222700,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Western,Cook County,282,Census Tract 2301,17031230100,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,283,Census Tract 2302,17031230200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,284,Census Tract 2303,17031230300,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,285,Census Tract 2304,17031230400,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,286,Census Tract 2305,17031230500,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Southern,Cook County,3,Census Tract 3511,17031351100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Suburban,Cook County,453,Census Tract 8275,17031827500,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,435,Census Tract 8262.01,17031826201,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Southern,Cook County,124,Census Tract 6117,17031611700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Suburban,Cook County,407,Census Tract 8173,17031817300,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,13,Census Tract 3815,17031381500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,30,Census Tract 4205,17031420500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Northern,Cook County,259,Census Tract 819,17031081900,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Northern,Cook County,272,Census Tract 2104,17031210400,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Western,Cook County,288,Census Tract 2307,17031230700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,289,Census Tract 2308,17031230800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,290,Census Tract 2309,17031230900,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,150,Census Tract 6705,17031670500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,112,Census Tract 5808,17031580800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,10,Census Tract 3807,17031380700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Western,Cook County,287,Census Tract 2306,17031230600,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Suburban,Cook County,423,Census Tract 8249,17031824900,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,456,Census Tract 8278.01,17031827801,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Chicago Western,Cook County,350,Census Tract 3008,17031300800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Suburban,Cook County,408,Census Tract 8175,17031817500,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Southern,Cook County,22,Census Tract 4004,17031400400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Northern,Cook County,265,Census Tract 1911,17031191100,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Southern,Cook County,119,Census Tract 6112,17031611200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Western,Cook County,351,Census Tract 3009,17031300900,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Suburban,Cook County,458,Census Tract 8279.01,17031827901,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,473,Census Tract 8295,17031829500,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,467,Census Tract 8291,17031829100,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,440,Census Tract 8264.01,17031826401,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Western,Cook County,324,Census Tract 2604,17031260400,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Northwest,Lee County,603,Census Tract 6,17103000600,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,Cook - Chicago Southern,Cook County,5,Census Tract 3515,17031351500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Northern,Cook County,254,Census Tract 312,17031031200,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Western,Cook County,299,Census Tract 2427,17031242700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,292,Census Tract 2312,17031231200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,291,Census Tract 2311,17031231100,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,293,Census Tract 2315,17031231500,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,295,Census Tract 2408,17031240800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,294,Census Tract 2407,17031240700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,296,Census Tract 2409,17031240900,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Collar,Kane County,497,Census Tract 8547,17089854700,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Cook - Chicago Western,Cook County,357,Census Tract 3106,17031310600,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,358,Census Tract 3107,17031310700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Southern,Cook County,90,Census Tract 5101,17031510100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,91,Census Tract 5102,17031510200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Northern,Cook County,252,Census Tract 209.01,17031020901,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Northern,Cook County,249,Census Tract 102.02,17031010202,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Southern,Cook County,173,Census Tract 6904,17031690400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,179,Census Tract 6913,17031691300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,180,Census Tract 6914,17031691400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,181,Census Tract 6915,17031691500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Northwest Central,Livingston County,625,Census Tract 9606,17105960600,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,Livingston County,624,Census Tract 9605,17105960500,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,South Central,Bond County,707,Census Tract 9513,17005951300,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Cook - Chicago Southern,Cook County,107,Census Tract 5801,17031580100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,108,Census Tract 5802,17031580200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,109,Census Tract 5803,17031580300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,111,Census Tract 5806,17031580600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,170,Census Tract 6813,17031681300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,171,Census Tract 6814,17031681400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,172,Census Tract 6903,17031690300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,174,Census Tract 6905,17031690500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,175,Census Tract 6909,17031690900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,176,Census Tract 6910,17031691000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,182,Census Tract 7001,17031700100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,113,Census Tract 5905,17031590500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,114,Census Tract 5906,17031590600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,156,Census Tract 6712,17031671200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,155,Census Tract 6711,17031671100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,157,Census Tract 6713,17031671300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,159,Census Tract 6715,17031671500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,160,Census Tract 6716,17031671600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Southern,Saline County,763,Census Tract 9558,17165955800,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Cook - Chicago Southern,Cook County,161,Census Tract 6718,17031671800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,162,Census Tract 6719,17031671900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,186,Census Tract 7101,17031710100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,187,Census Tract 7102,17031710200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,189,Census Tract 7104,17031710400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,190,Census Tract 7105,17031710500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Southern,Saline County,764,Census Tract 9559,17165955900,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Southern,Saline County,765,Census Tract 9560,17165956000,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Cook - Chicago Southern,Cook County,191,Census Tract 7106,17031710600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,193,Census Tract 7108,17031710800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,1,Census Tract 3406,17031340600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,37,Census Tract 4302,17031430200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,38,Census Tract 4303,17031430300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,92,Census Tract 5103,17031510300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,93,Census Tract 5201,17031520100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Northern,Cook County,278,Census Tract 8306,17031830600,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Northern,Cook County,279,Census Tract 8307,17031830700,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Southern,Cook County,220,Census Tract 8348,17031834800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,219,Census Tract 8347,17031834700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Collar,Kane County,483,Census Tract 8503.01,17089850301,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Cook - Chicago Northern,Cook County,281,Census Tract 8383,17031838300,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Southern,Cook County,223,Census Tract 8351,17031835100,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,222,Census Tract 8350,17031835000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Southern,Alexander County,754,Census Tract 9579,17003957900,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",Yes
+Illinois,Northwest,Whiteside County,613,Census Tract 10,17195001000,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,Cook - Chicago Western,Cook County,384,Census Tract 8421,17031842100,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,389,Census Tract 8433,17031843300,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Suburban,Cook County,392,Census Tract 8044.05,17031804405,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Northern,Winnebago County,582,Census Tract 23.02,17201002302,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,Northern,Winnebago County,583,Census Tract 24,17201002400,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,584,Census Tract 25,17201002500,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,578,Census Tract 20,17201002000,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Central,Macon County,678,Census Tract 31,17115003100,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",Yes
+Illinois,Cook - Chicago Northern,Cook County,280,Census Tract 8312,17031831200,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Western,Cook County,386,Census Tract 8430,17031843000,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,387,Census Tract 8431,17031843100,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,385,Census Tract 8429,17031842900,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,391,Census Tract 8435,17031843500,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Suburban,Cook County,393,Census Tract 8045.08,17031804508,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Chicago Southern,Cook County,236,Census Tract 8403,17031840300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Western,Cook County,373,Census Tract 8386,17031838600,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,235,Census Tract 8396,17031839600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,221,Census Tract 8349,17031834900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Western,Cook County,363,Census Tract 8367,17031836700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,364,Census Tract 8368,17031836800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,362,Census Tract 8366,17031836600,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Northern,Winnebago County,586,Census Tract 27,17201002700,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,587,Census Tract 28,17201002800,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,588,Census Tract 29,17201002900,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,Cook - Chicago Southern,Cook County,241,Census Tract 8425,17031842500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,239,Census Tract 8418,17031841800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,243,Census Tract 8428,17031842800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,245,Census Tract 8438,17031843800,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Northern,Winnebago County,585,Census Tract 26,17201002600,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,238,Census Tract 8410,17031841000,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,231,Census Tract 8365,17031836500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,246,Census Tract 8439,17031843900,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,214,Census Tract 8342,17031834200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Western,Cook County,371,Census Tract 8380,17031838000,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,100,Census Tract 5305.01,17031530501,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,102,Census Tract 5305.03,17031530503,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,101,Census Tract 5305.02,17031530502,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Western,Cook County,360,Census Tract 8313,17031831300,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,361,Census Tract 8314,17031831400,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,366,Census Tract 8370,17031837000,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Northern,Boone County,559,Census Tract 101,17007010100,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,Cook - Chicago Southern,Cook County,240,Census Tract 8424,17031842400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Northern,Winnebago County,589,Census Tract 31,17201003100,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,Northern,Winnebago County,590,Census Tract 32,17201003200,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,591,Census Tract 33,17201003300,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,Northern,Winnebago County,592,Census Tract 34,17201003400,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Cook - Chicago Northern,Cook County,255,Census Tract 315.01,17031031501,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Southern,Cook County,80,Census Tract 4909.01,17031490901,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,81,Census Tract 4909.02,17031490902,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,183,Census Tract 7004.01,17031700401,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Western,Cook County,367,Census Tract 8371,17031837100,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,369,Census Tract 8374,17031837400,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,370,Census Tract 8378,17031837800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,368,Census Tract 8373,17031837300,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,380,Census Tract 8415,17031841500,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,374,Census Tract 8387,17031838700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,110,Census Tract 5805.01,17031580501,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,202,Census Tract 7302.01,17031730201,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,49,Census Tract 4401.01,17031440101,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Northern,Winnebago County,594,Census Tract 36.02,17201003602,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Cook - Chicago Western,Cook County,372,Census Tract 8381,17031838100,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Collar,Kane County,493,Census Tract 8540.02,17089854002,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Kane County,488,Census Tract 8529.04,17089852904,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Lake County,522,Census Tract 8661,17097866100,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Cook - Chicago Northern,Cook County,260,Census Tract 1406.02,17031140602,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Southern,Cook County,46,Census Tract 4313.01,17031431301,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,47,Census Tract 4313.02,17031431302,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,62,Census Tract 4603.02,17031460302,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,61,Census Tract 4603.01,17031460301,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,185,Census Tract 7005.02,17031700502,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Northern,Winnebago County,596,Census Tract 37.08,17201003708,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,597,Census Tract 37.09,17201003709,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,595,Census Tract 36.06,17201003606,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Cook - Suburban,Cook County,398,Census Tract 8137.01,17031813701,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Chicago Western,Cook County,378,Census Tract 8413,17031841300,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,375,Census Tract 8407,17031840700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Western,Cook County,381,Census Tract 8416,17031841600,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,382,Census Tract 8417,17031841700,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Collar,Will County,525,Census Tract 8809.03,17197880903,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Will County,541,Census Tract 8836.05,17197883605,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Cook - Chicago Northern,Cook County,268,Census Tract 1913.02,17031191302,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Northern,Cook County,267,Census Tract 1913.01,17031191301,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Northern,Cook County,271,Census Tract 2004.02,17031200402,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Cook - Chicago Northern,Cook County,270,Census Tract 2004.01,17031200401,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",Yes
+Illinois,Cook - Chicago Western,Cook County,376,Census Tract 8408,17031840800,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Southern,Cook County,50,Census Tract 4401.02,17031440102,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,52,Census Tract 4402.02,17031440202,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Western,Cook County,379,Census Tract 8414,17031841400,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",Yes
+Illinois,Cook - Chicago Western,Cook County,359,Census Tract 8305,17031830500,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Cook - Chicago Southern,Cook County,237,Census Tract 8404,17031840400,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,233,Census Tract 8392,17031839200,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Cook - Chicago Southern,Cook County,224,Census Tract 8355,17031835500,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,South Central,Madison County,729,Census Tract 4040,17119404000,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,Collar,Will County,538,Census Tract 8828.02,17197882802,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Will County,527,Census Tract 8814.01,17197881401,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Kane County,496,Census Tract 8546,17089854600,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Northern,Winnebago County,580,Census Tract 22,17201002200,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,593,Census Tract 36.01,17201003601,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,573,Census Tract 12,17201001200,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,569,Census Tract 5.02,17201000502,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,568,Census Tract 2,17201000200,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,Northern,Winnebago County,567,Census Tract 1.03,17201000103,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Winnebago County,579,Census Tract 21,17201002100,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Central,Morgan County,681,Census Tract 9516,17137951600,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Morgan County,682,Census Tract 9517,17137951700,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Northern,DeKalb County,561,Census Tract 13,17037001300,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,South Central,St. Clair County,753,Census Tract 5046,17163504600,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,Northern,Winnebago County,570,Census Tract 8,17201000800,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,South Central,St. Clair County,745,Census Tract 5024.04,17163502404,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,South Central,St. Clair County,740,Census Tract 5014,17163501400,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,Madison County,719,Census Tract 4014,17119401400,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,Madison County,718,Census Tract 4007,17119400700,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Collar,Will County,540,Census Tract 8836.03,17197883603,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Will County,542,Census Tract 8837,17197883700,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Cook - Chicago Northern,Cook County,256,Census Tract 315.02,17031031502,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,South Central,Madison County,716,Census Tract 4001.02,17119400102,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,South Central,Richland County,733,Census Tract 9780,17159978000,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Northern,DeKalb County,560,Census Tract 10.01,17037001001,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,South Central,Effingham County,712,Census Tract 9508,17049950800,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Collar,Kane County,486,Census Tract 8513.02,17089851302,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Kane County,485,Census Tract 8513.01,17089851301,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Northwest Central,McLean County,636,Census Tract 14.04,17113001404,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northwest Central,McLean County,635,Census Tract 14.03,17113001403,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Collar,Kane County,490,Census Tract 8530.07,17089853007,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Central,Macon County,673,Census Tract 12,17115001200,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Cook - Chicago Southern,Cook County,105,Census Tract 5401.02,17031540102,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,184,Census Tract 7004.02,17031700402,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Suburban,Cook County,477,Census Tract 8301,17031830100,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Collar,Lake County,513,Census Tract 8624.01,17097862401,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Cook - Suburban,Cook County,478,Census Tract 8302.01,17031830201,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,480,Census Tract 8303,17031830300,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,465,Census Tract 8289,17031828900,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,399,Census Tract 8139,17031813900,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,400,Census Tract 8142,17031814200,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,401,Census Tract 8143,17031814300,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Collar,Lake County,521,Census Tract 8632.01,17097863201,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Central,Macoupin County,679,Census Tract 9564,17117956400,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Cook - Suburban,Cook County,425,Census Tract 8255.04,17031825504,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,426,Census Tract 8255.05,17031825505,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,428,Census Tract 8257,17031825700,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Collar,Lake County,520,Census Tract 8631,17097863100,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Lake County,507,Census Tract 8603.02,17097860302,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Will County,523,Census Tract 8801.06,17197880106,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Lake County,509,Census Tract 8620,17097862000,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Lake County,510,Census Tract 8621,17097862100,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Lake County,511,Census Tract 8622,17097862200,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Lake County,515,Census Tract 8626.05,17097862605,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Lake County,517,Census Tract 8628,17097862800,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Lake County,518,Census Tract 8629.01,17097862901,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Lake County,519,Census Tract 8629.02,17097862902,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Central,Sangamon County,705,Census Tract 38.01,17167003801,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Central,Sangamon County,688,Census Tract 5.04,17167000504,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
+Illinois,Northeast Central,Champaign County,549,Census Tract 56,17019005600,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",No
+Illinois,Collar,Will County,529,Census Tract 8818,17197881800,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Will County,530,Census Tract 8819,17197881900,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Lake County,514,Census Tract 8625.02,17097862502,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Will County,531,Census Tract 8820,17197882000,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Will County,535,Census Tract 8824,17197882400,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Will County,536,Census Tract 8825,17197882500,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Will County,539,Census Tract 8831,17197883100,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Will County,526,Census Tract 8812,17197881200,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Will County,533,Census Tract 8822,17197882200,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Will County,534,Census Tract 8823,17197882300,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Will County,532,Census Tract 8821,17197882100,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Northeast Central,Vermilion County,552,Census Tract 2,17183000200,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",Yes
+Illinois,Collar,Lake County,516,Census Tract 8627,17097862700,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,123,Census Tract 6116,17031611600,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,42,Census Tract 4307,17031430700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Cook - Chicago Northern,Cook County,264,Census Tract 1910,17031191000,"$25,000 ","$809,000 ","$25,000 ","$89,889 ",No
+Illinois,Northwest Central,Tazewell County,660,Census Tract 208,17179020800,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Northeast Central,Vermilion County,554,Census Tract 4,17183000400,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",Yes
+Illinois,Collar,Lake County,512,Census Tract 8623,17097862300,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,192,Census Tract 7107,17031710700,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",No
+Illinois,Southern,Jackson County,757,Census Tract 109,17077010900,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Collar,Lake County,506,Census Tract 8603.01,17097860301,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,South Central,Crawford County,710,Census Tract 8804,17033880400,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Cook - Chicago Western,Cook County,341,Census Tract 2832,17031283200,"$25,000 ","$1,852,442 ","$25,000 ","$205,827 ",No
+Illinois,Collar,Lake County,508,Census Tract 8605,17097860500,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Northern,Ogle County,562,Census Tract 9616,17141961600,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,South Central,St. Clair County,752,Census Tract 5045,17163504500,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,Northeast Central,Champaign County,545,Census Tract 7,17019000700,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",No
+Illinois,Northeast Central,Champaign County,546,Census Tract 8,17019000800,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",No
+Illinois,Northeast Central,Champaign County,547,Census Tract 9.01,17019000901,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",No
+Illinois,Northwest Central,McLean County,640,Census Tract 59,17113005900,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Collar,Kankakee County,503,Census Tract 123,17091012300,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",Yes
+Illinois,Collar,Kankakee County,504,Census Tract 124,17091012400,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Cook - Suburban,Cook County,412,Census Tract 8180,17031818000,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,472,Census Tract 8294.02,17031829402,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,South Central,St. Clair County,738,Census Tract 5012,17163501200,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,St. Clair County,739,Census Tract 5013,17163501300,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,St. Clair County,741,Census Tract 5015.02,17163501502,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,South Central,St. Clair County,744,Census Tract 5024.01,17163502401,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,St. Clair County,746,Census Tract 5025,17163502500,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,South Central,St. Clair County,743,Census Tract 5022,17163502200,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,St. Clair County,747,Census Tract 5026.02,17163502602,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,St. Clair County,737,Census Tract 5011,17163501100,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,South Central,St. Clair County,734,Census Tract 5004,17163500400,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,St. Clair County,748,Census Tract 5026.03,17163502603,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,St. Clair County,749,Census Tract 5027,17163502700,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,St. Clair County,750,Census Tract 5028,17163502800,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,St. Clair County,751,Census Tract 5029,17163502900,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,Northwest,Rock Island County,607,Census Tract 233,17161023300,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,Northwest,Rock Island County,604,Census Tract 206,17161020600,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,South Central,St. Clair County,742,Census Tract 5017,17163501700,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,Northwest Central,Mason County,626,Census Tract 9565,17125956500,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Cook - Suburban,Cook County,395,Census Tract 8113.02,17031811302,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Northern,Stephenson County,565,Census Tract 12,17177001200,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Stephenson County,563,Census Tract 7,17177000700,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",Yes
+Illinois,Northern,Stephenson County,566,Census Tract 13,17177001300,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,Northern,Stephenson County,564,Census Tract 8,17177000800,"$25,000 ","$717,818 ","$25,000 ","$79,758 ",No
+Illinois,Northwest,Rock Island County,612,Census Tract 245,17161024500,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,Northeast Central,Champaign County,544,Census Tract 2,17019000200,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",No
+Illinois,Cook - Suburban,Cook County,474,Census Tract 8297,17031829700,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Suburban,Cook County,476,Census Tract 8300.03,17031830003,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Cook - Suburban,Cook County,445,Census Tract 8268,17031826800,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Cook - Chicago Southern,Cook County,188,Census Tract 7103,17031710300,"$25,000 ","$4,009,466 ","$25,000 ","$445,496 ",Yes
+Illinois,Northwest,Rock Island County,608,Census Tract 235,17161023500,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",No
+Illinois,Northwest,Rock Island County,609,Census Tract 236,17161023600,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",Yes
+Illinois,Northwest,Rock Island County,610,Census Tract 237,17161023700,"$20,000 ","$245,577 ","$20,000 ","$27,286 ",Yes
+Illinois,South Central,Madison County,727,Census Tract 4032,17119403200,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,South Central,Madison County,726,Census Tract 4026,17119402600,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,Northwest Central,Tazewell County,661,Census Tract 209,17179020900,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,South Central,Madison County,722,Census Tract 4021,17119402100,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",No
+Illinois,South Central,Madison County,723,Census Tract 4022,17119402200,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,South Central,Madison County,725,Census Tract 4025,17119402500,"$25,000 ","$830,620 ","$25,000 ","$92,291 ",Yes
+Illinois,Cook - Suburban,Cook County,464,Census Tract 8285.06,17031828506,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",No
+Illinois,Northeast Central,Champaign County,548,Census Tract 53,17019005300,"$25,000 ","$312,885 ","$25,000 ","$34,765 ",No
+Illinois,Cook - Suburban,Cook County,427,Census Tract 8256,17031825600,"$25,000 ","$2,166,010 ","$25,000 ","$240,668 ",Yes
+Illinois,Collar,Lake County,505,Census Tract 8602,17097860200,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,DuPage County,482,Census Tract 8426.04,17043842604,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Southern,Franklin County,755,Census Tract 406,17055040600,"$20,000 ","$270,124 ","$20,000 ","$30,014 ",No
+Illinois,Northwest Central,De Witt County,618,Census Tract 9718,17039971800,"$25,000 ","$858,668 ","$25,000 ","$95,408 ",No
+Illinois,Collar,Kane County,484,Census Tract 8508,17089850800,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Collar,Kane County,487,Census Tract 8514,17089851400,"$25,000 ","$1,374,297 ","$25,000 ","$152,700 ",No
+Illinois,Central,Scott County,706,Census Tract 9706,17171970600,"$25,000 ","$728,093 ","$25,000 ","$80,899 ",No
